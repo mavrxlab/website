@@ -1,0 +1,18 @@
+---
+title: New Year, New(sletter)!
+author: Ryan Straight
+date: '2022-01-04'
+slug: new-year-new-sletter
+categories:
+  - meta
+tags:
+  - newsletter
+subtitle: ''
+summary: 'MetaMeta: A New Weekly Newsletter from the MA{VR}X Lab'
+lastmod: '2022-01-04T09:00:00-07:00'
+featured: no
+projects: []
+---
+![](featured.jpeg)
+
+Wishing you could have more MA{VR}X Lab content? You're in luck! We've begun a weekly newsletter! You can subscribe to **MetaMeta** by checking out the [Newsletter](../../newsletter) tab or visiting https://www.getrevue.co/profile/metameta

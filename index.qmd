@@ -1,11 +1,14 @@
 ---
-title: "website"
+page-layout: full
 ---
 
-This is a Quarto website.
+![](assets/images/big-banner.png) 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+&nbsp;<a rel="me" href="https://hci.social/@mavrxlab"></a>
 
-```{r}
-1 + 1
-```
+-----
+
+&nbsp;
+
+The **M**ixed **A**ugmented **V**i**R**tual e**X**tended (Reality) Laboratory in the College of Applied Science & Technology is the University of Arizona's center of research and development for alternative reality media and training in southeastern Arizona.
+

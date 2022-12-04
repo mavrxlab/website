@@ -1,0 +1,333 @@
+---
+title: |
+    <img align="left" width="45%" src="lab.png"><img align="right" width="32%" src="dao.png">
+subtitle: |
+    <br /><br /><br /><br />
+    **<span style="font-size: 180%">Web3 and Education</span>**<br />
+    An Optimistic Primer on Online Learning's Blockchain-based Future<br />
+    
+pagetitle: "Web3 and Education: An Optimistic Primer on Online Learning's Blockchain-based Future"
+     
+author: "<br />**Moderator**: Ryan Straight, Ph.D<br />**Panelists**: Jessica Barberry, Dagan Bernstein,&nbsp;&&nbsp;Mike&nbsp;Peck,&nbsp;Ed.D"
+#institute: "University of Arizona & Ed3DAO"
+
+format:
+  revealjs:
+    width: 1180
+    #transition: fade
+    progress: true
+    controls: true
+    embed-resources: false
+    standalone: false
+    theme: simple
+    #navigation-mode: vertical
+    controls-tutorial: true
+    touch: true
+    show-slide-number: print
+    email-obfuscation: javascript
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: true
+
+editor: source
+
+execute: 
+  cache: false
+  echo: false
+  message: false
+  error: false
+
+toc: false
+slide-number: false
+number-sections: false
+#logo: "CyberOperations_scripted_ALTERNATE.png"
+footer: "@ryanstraight -- @barberification -- @DaganBernstein -- @EdTechPeck"
+---
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+
+```
+
+# {#agenda data-menu-title="Agenda" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[OUR AGENDA]{.r-fit-text}
+
+## The Plan for Today
+
+:::: {.columns}
+::: {.column width="70%"}
+1. Introductions
+1. Background
+1. The Main Course
+1. Questions/Follow-ups
+:::
+
+::: {.column width="30%"}
+![](https://media0.giphy.com/media/knYCcmy9DEz3G/giphy.gif?cid=ecf05e471uilqnl2czryglld7yke10d3xskcv98a4e8j0kuh&rid=giphy.gif&ct=g)
+:::
+
+::::
+
+::: {.notes}
+
+:::
+
+
+# {#moderator data-menu-title="The Moderator" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[THE MODERATOR]{.r-fit-text}
+
+
+## {#ryan-straight data-menu-title="Ryan Straight"}
+
+![](https://ryanstraight.com/profile.jpg)
+
+**Ryan Straight, Ph.D**  
+Honors/Associate Professor of Practice \@ UArizona  
+Director, MA{VR}X Lab  
+
+
+
+# {#the-panel data-menu-title="The Panel" background="#9EABAE" background-image="dao.png" background-size="25%" background-position="left 5% top 5%"}
+
+[THE PANEL]{.r-fit-text}
+
+
+
+## {#intros data-menu-title="Introductions" .smaller}
+
+:::: {.columns}
+::: {.column width="33%" .fragment .fade-in-then-semi-out}
+
+### Jessica Barberry
+
+![](jessie.png)
+
+::: {style="font-size: 14pt"}
+
++ Ed3DAO Community Enchanter
++ [@barberification](https://twitter.com/barberification)
+:::
+
+:::
+
+::: {.column width="34%" .fragment .fade-in-then-semi-out}
+
+### Dagan Bernstein
+
+![](dagan.png)
+
+::: {style="font-size: 14pt"}
+
++ Ed3DAO Community Growth Lead
++ [@DaganBernstein](https://twitter.com/DaganBernstein)
++ Ed3 Newsletter at [https://www.ed3weekly.xyz](https://www.ed3weekly.xyz)
+:::
+:::
+
+::: {.column width="33%" .fragment .fade-in-then-semi-out}
+
+### Mike Peck, Ed.D
+
+![](mike.png)
+
+::: {style="font-size: 14pt"}
+
++ Ed3DAO Founder
++ [@EdTechPeck](https://twitter.com/edtechpeck)
+:::
+:::
+
+::::
+
+
+
+# {#the-questions data-menu-title="The Questions" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[THE QUESTIONS]{.r-fit-text}
+
+
+## {#question1 data-menu-title="What is Web3, anyway?"}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+**`r fa("network-wired")`&nbsp;&nbsp; What is Web3, anyway?**
+
+:::
+
+::: {.column width="35%"}
+
+!["Web3 and Education"](web3-and-education.jpg){width=75%}
+
+
+:::
+
+::::
+
+## {#question2 data-menu-title="A Solution in Search of a Problem?"}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+<span style="color: #777;">`r fa("network-wired")`&nbsp;&nbsp; What is Web3, anyway?</span>  
+
+**`r fa("microscope")`&nbsp;&nbsp; A Solution in Search of a Problem?**
+
+:::
+
+::: {.column width="35%"}
+
+!["A Solution in Search of a Problem"](solution-in-search-of-a-problem.jpg){width=75%}
+
+
+:::
+
+::::
+
+## {#question3 data-menu-title="Intersection of Web3 and Online Learning"}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+<span style="color: #777;">`r fa("network-wired")`&nbsp;&nbsp; What is Web3, anyway?</span>  
+
+<span style="color: #777;">`r fa("microscope")`&nbsp;&nbsp; A Solution in Search of a Problem?</span>  
+
+**`r fa("bridge")`&nbsp;&nbsp; Intersection of Web3 and Online Learning?**
+
+:::
+
+::: {.column width="35%"}
+
+!["Web3 + Online Learning = ???"](web3-plus-online-learning.jpg){width=75%}
+
+
+:::
+
+::::
+
+
+## {#question4 data-menu-title="'Wallet' doesn't sound very educational."}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+<span style="color: #777;">`r fa("network-wired")`&nbsp;&nbsp; What is Web3, anyway?</span>  
+
+<span style="color: #777;">`r fa("microscope")`&nbsp;&nbsp; A Solution in Search of a Problem?</span>  
+
+<span style="color: #777;">`r fa("bridge")`&nbsp;&nbsp; Intersection of Web3 and Online Learning?</span>  
+
+**`r fa("wallet")`&nbsp;&nbsp; "Wallet" doesn't sound very educational...**
+
+:::
+
+::: {.column width="35%"}
+
+!["A Student's Wallet"](a-students-wallet.jpg){width=75%}
+
+
+:::
+
+::::
+
+
+## {#question5 data-menu-title="But NFTs are scams, aren't they?"}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+<span style="color: #777;">`r fa("network-wired")`&nbsp;&nbsp; What is Web3, anyway?</span>  
+
+<span style="color: #777;">`r fa("microscope")`&nbsp;&nbsp; A Solution in Search of a Problem?</span>  
+
+<span style="color: #777;">`r fa("bridge")`&nbsp;&nbsp; Intersection of Web3 and Online Learning?</span>  
+
+<span style="color: #777;">`r fa("wallet")`&nbsp;&nbsp; "Wallet" doesn't sound very educational...</span>  
+
+**`r fa("triangle-exclamation")`&nbsp;&nbsp; But NFTs are scams, aren't they?**
+
+:::
+
+::: {.column width="35%"}
+
+!["There Are Many Bad Actors"](there-are-many-bad-actors.jpg){width=75%}
+
+
+:::
+
+::::
+
+
+## {#question6 data-menu-title="Looking Forward to the Future"}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+<span style="color: #777;">`r fa("network-wired")`&nbsp;&nbsp; What is Web3, anyway?</span>  
+
+<span style="color: #777;">`r fa("microscope")`&nbsp;&nbsp; A Solution in Search of a Problem?</span>  
+
+<span style="color: #777;">`r fa("bridge")`&nbsp;&nbsp; Intersection of Web3 and Online Learning?</span>  
+
+<span style="color: #777;">`r fa("wallet")`&nbsp;&nbsp; "Wallet" doesn't sound very educational...</span>  
+
+<span style="color: #777;">`r fa("triangle-exclamation")`&nbsp;&nbsp; But NFTs are scams, aren't they?</span>  
+
+**`r fa("binoculars")`&nbsp;&nbsp; Looking forward to the future.**
+
+:::
+
+::: {.column width="35%"}
+
+!["The Shape of Education to Come"](the-shape-of-education-to-come.jpg){width=75%}
+
+
+:::
+
+::::
+
+
+
+
+# {#the-end data-menu-title="The End" background="#9EABAE" background-image="dao.png" background-size="25%" background-position="left 5% top 5%"}
+
+[THE END]{.r-fit-text}
+
+## That's a wrap!
+
+Thank you for coming! Find out more at:
+
+:::: {.columns}
+::: {.column width="50%"}
+
+### MA{VR}X Lab
+
+https://mavrxlab.org  
+https://ryanstraight.com
+
+![](rs.png)
+
+:::
+
+::: {.column width="50%"}
+
+### Ed3DAO
+
+https://ed3dao.com  
+\@ed3dao
+
+![](ed3dao.png)
+
+:::
+::::

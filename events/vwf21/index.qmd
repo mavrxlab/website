@@ -1,0 +1,30 @@
+---
+draft: FALSE
+abstract: |
+  The theme of this event was *Into the Metaverse*. As more of the “big-hitters” in the extended reality (XR) Industry express their vision, interest, and investment in the next disruptive platform, the “Metaverse” has become a common expression of what that will be. How that will impact the way people learn, train, live, work, socialize, travel, and entertain within the next decade is important for us to understand, prepare for, and leverage.
+#address:
+#  city: Sierra Vista
+#  country: United States
+#  postcode: "85635"
+#  region: AZ
+#  street: "1140 N Colombo Ave"
+date: "2021-11-04T13:00:00Z"
+date_end: "2021-11-04T13:30:00Z"
+event: "23rd Virtual Worlds Forum"
+event_url: "https://azcast.arizona.edu/events/733-business-twilight"
+location: "College of Applied Science & Technology"
+projects: []
+publishDate: "2021-08-11T18:00:00Z"
+slides: 
+summary: "A talk on an in-progress to-be-revealed project."
+tags: ["XR", "virtual worlds forum", "online"]
+title: "Dr. Straight at Virtual Worlds Forum"
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
+![](featured.jpeg)
+
+Dr. Straight gave an introduction to a secret project at the 2021 Virtual Worlds Forum, an invite-only event to engage government, higher education, industry, and the military in all things XR.

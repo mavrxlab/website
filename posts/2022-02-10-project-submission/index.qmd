@@ -1,0 +1,57 @@
+---
+title: Submitting a Project to the Lab
+author: Ryan Straight
+date: '2022-02-10'
+slug: project-submission
+categories:
+  - meta
+tags:
+  - projects
+subtitle: ''
+summary: 'Questions on how to submit a project to the lab? Look no further!'
+lastmod: '2022-02-10T09:00:00-07:00'
+featured: no
+projects: []
+---
+
+![](featured.jpeg)
+
+```{r}
+#| label: setup
+library(fontawesome)
+```
+
+The entire reason the MA{VR}X Lab exists is to produce human-focused and applied research products and services. To that end, we encourage project submissions, so we can help however possible, whether that's providing consultation, advising, equipment, software, or just a place to work.
+
+
+
+`r fa("question-circle", fill = "Sienna")` **What kinds of projects does the lab accept?**
+
+We are currently open to pretty much anything but are focusing on VR and AR projects as that is what the lab is currently equipped for. 
+
+`r fa("question-circle", fill = "Sienna")` **Does my project idea have to be fleshed out or funded?**
+
+Neither! Obviously, if your project is funded and you want to partner with the lab, that's fantastic. If you're just in the initial ideation stage, that's also great. We're here to help.
+
+`r fa("question-circle", fill = "Sienna")` **I'm a student in (insert class or independent study here) and have a project idea that involves (VR/AR/XR/etc). Can I work with the lab on this?**
+
+Absolutely! For students that aren't working for or in the lab, this is actually ideal. Work with your instructor before submitting a project.
+
+`r fa("question-circle", fill = "Sienna")` **How do I submit a project to the lab?**
+
+Use [this form](https://forms.office.com/r/ABPfYchMPD) to submit a project. Submissions are currently only open to those in the University of Arizona community. If you are outside the institution, you'll need your UArizona sponsor/collaborator to submit the project. Alternately, scan this QR code:
+
+```{r project-qr}
+#| out.width: 25%
+#| fig.cap: "Project submission QR code."
+knitr::include_graphics("project-submission-form.png")
+```
+
+
+`r fa("question-circle", fill = "Sienna")` **I've submitted a project. What's next?**
+
+Upon submitting the project, one of the lab staff will verify it and add it to [the project tracker](https://emailarizona.sharepoint.com/sites/CAST-MAVRX-Lab/Lists/Project%20Tracker/). You are then free to schedule time in the lab, request support, and do whatever else you need to do for your project. You will be assigned a lab worker as a point-of-contact that can help you schedule time, work with equipment, and so on.
+
+`r fa("question-circle", fill = "Sienna")` **Where's the project tracker?**
+
+The [project tracker is a Microsoft List](https://emailarizona.sharepoint.com/sites/CAST-MAVRX-Lab/Lists/Project%20Tracker/) that's tied to our lab's Microsoft Team. Once you've been added to the Team, you'll have access to and find the Project Tracker tab in the `project-updates` channel. If you've submitted a project and it's been approved, you'll receive an email with a link to edit your own projects within that List.

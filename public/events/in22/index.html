@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.34">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2022-04-13">
+
+<title>MA{VR}X Lab - Karu: Introducing the Metaversal Library for the Future of Immersive Learning</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">MA{VR}X Lab</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about/index.html" rel="">
+ <span class="menu-text">About</span></a>
+  </li>  
+</ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-reader-toggle nav-link" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+              </div>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#slides" id="toc-slides" class="nav-link active" data-scroll-target="#slides">Slides</a>
+  <ul class="collapse">
+  <li><a href="#full-abstract" id="toc-full-abstract" class="nav-link" data-scroll-target="#full-abstract">Full Abstract</a></li>
+  </ul></li>
+  <li><a href="#relevant-references" id="toc-relevant-references" class="nav-link" data-scroll-target="#relevant-references">Relevant References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Karu: Introducing the Metaversal Library for the Future of Immersive Learning</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 13, 2022</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+<div>
+  <div class="abstract">
+    <div class="abstract-title">Abstract</div>
+    As education moves inexorably toward fully immersive, connected experiences, it is important to ensure openness, transparency, and collaboration. Karu (formerly XRpedia, the eXtended Reality encyclopedia) is an ongoing project that seeks to do precisely that. This session will introduce the project, its motivation, and the roadmap ahead.
+  </div>
+</div>
+
+</header>
+
+<p><img src="featured.jpeg" class="img-fluid"></p>
+<p>The director of the MA{VR}X Lab, Dr.&nbsp;Ryan Straight will be presenting a conference talk at the Online Learning Consortium’s <strong>Innovate 2022</strong> conference this in Dallas, April 13. This is an elaboration on and update for the <a href="https://mavrxlab.org/event/vwf21/">Virtual Worlds Forum</a> talk he gave on the same project.</p>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<p>Feel free to <a href="deck/">enjoy the slide deck</a> made with <a href="https://quarto.org">Quarto</a> for a very cool, totally Powerpoint-free experience! (Please be aware that, during the talk, the slide deck linked here will <em>advance automatically</em> as I advance mine. <a href="https://quarto.org/docs/presentations/revealjs/presenting.html#multiplex">This is a feature, not a bug!</a>)</p>
+<section id="full-abstract" class="level3">
+<h3 class="anchored" data-anchor-id="full-abstract">Full Abstract</h3>
+<p>What is extended reality? Who lives and works in the metaverse? You have a great idea for a VR project, but with whom do you connect? And how? Why should you even consider this extended reality space to begin with?</p>
+<p>These are questions we ask as a working research group of faculty and students at a major R1 university. To answer these, we envision a project known as <strong>Karu</strong> (formerly XRpedia). This platform is a place where people, projects, locations, services, even funding and employment opportunities exist to connect researchers, developers, instructors, and especially students in ways that will drive innovation in the metaverse. One main goal of <strong>Karu</strong> is to be user- and learner-focused, in that everything within it–hardware, companies, you name it–always comes back to the people. The importance of finding a way to make these connections within the metaverse, itself, cannot be overstated. Doing it in such a way that is accessible, secure, dependable, and sustainable is a driving force behind <strong>Karu</strong>.</p>
+<p>What is the “metaverse” and how does it apply to online learning? It encompasses virtually (pun intended) all experiences within the space of online learning: virtual and augmented reality, persistent digital spaces like discussion forums or Zoom rooms, even the entirety of the internet and every way in which it is utilized.</p>
+<p>It is our hope that, as we develop and continue to shape <strong>Karu</strong>, attendees to the session–experts in online learning that they are–will provide great food for thought, both for us as the developers and for one another. This session will be primarily an introduction to the project, as well as a look at the roadmap for where it can and will go.</p>
+</section>
+</section>
+<section id="relevant-references" class="level2">
+<h2 class="anchored" data-anchor-id="relevant-references">Relevant References</h2>
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;" role="doc-bibliography">
+<div class="csl-entry" role="doc-biblioentry">
+Basilotta-Gómez-Pablos, V., Matarranz, M., Casado-Aranda, L.-A., &amp; Otto, A. (2022). Teachers’ digital competencies in higher education: A systematic literature review. <i>International Journal of Educational Technology in Higher Education</i>, <i>19</i>(1), 8. <a href="https://doi.org/10.1186/s41239-021-00312-8">https://doi.org/10.1186/s41239-021-00312-8</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1186%2Fs41239-021-00312-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Teachers%E2%80%99%20digital%20competencies%20in%20higher%20education%3A%20a%20systematic%20literature%20review&amp;rft.jtitle=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&amp;rft.stitle=Int%20J%20Educ%20Technol%20High%20Educ&amp;rft.volume=19&amp;rft.issue=1&amp;rft.aufirst=Ver%C3%B3nica&amp;rft.aulast=Basilotta-G%C3%B3mez-Pablos&amp;rft.au=Ver%C3%B3nica%20Basilotta-G%C3%B3mez-Pablos&amp;rft.au=Mar%C3%ADa%20Matarranz&amp;rft.au=Luis-Alberto%20Casado-Aranda&amp;rft.au=Ana%20Otto&amp;rft.date=2022-12&amp;rft.pages=8&amp;rft.issn=2365-9440&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Bursali, H., &amp; Yilmaz, R. M. (2019). Effect of augmented reality applications on secondary school students’ reading comprehension and learning permanency. <i>Computers in Human Behavior</i>, <i>95</i>, 126–135. <a href="https://doi.org/10.1016/j.chb.2019.01.035">https://doi.org/10.1016/j.chb.2019.01.035</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.chb.2019.01.035&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Effect%20of%20augmented%20reality%20applications%20on%20secondary%20school%20students'%20reading%20comprehension%20and%20learning%20permanency&amp;rft.jtitle=Computers%20in%20Human%20Behavior&amp;rft.stitle=Computers%20in%20Human%20Behavior&amp;rft.volume=95&amp;rft.aufirst=Hamiyet&amp;rft.aulast=Bursali&amp;rft.au=Hamiyet%20Bursali&amp;rft.au=Rabia%20Meryem%20Yilmaz&amp;rft.date=2019-06-01&amp;rft.pages=126-135&amp;rft.spage=126&amp;rft.epage=135&amp;rft.issn=0747-5632&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Campos-Mesa, M.-C., Castañeda-Vázquez, C., DelCastillo-Andrés, Ó., &amp; González-Campos, G. (2022). Augmented Reality and the Flipped Classroom—A Comparative Analysis of University Student Motivation in Semi-Presence-Based Education Due to COVID-19: A Pilot Study. <i>Sustainability</i>, <i>14</i>(4), 2319. <a href="https://doi.org/10.3390/su14042319">https://doi.org/10.3390/su14042319</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.3390%2Fsu14042319&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Augmented%20Reality%20and%20the%20Flipped%20Classroom%E2%80%94A%20Comparative%20Analysis%20of%20University%20Student%20Motivation%20in%20Semi-Presence-Based%20Education%20Due%20to%20COVID-19%3A%20A%20Pilot%20Study&amp;rft.jtitle=Sustainability&amp;rft.stitle=Sustainability&amp;rft.volume=14&amp;rft.issue=4&amp;rft.aufirst=Mar%C3%ADa-Carmen&amp;rft.aulast=Campos-Mesa&amp;rft.au=Mar%C3%ADa-Carmen%20Campos-Mesa&amp;rft.au=Carolina%20Casta%C3%B1eda-V%C3%A1zquez&amp;rft.au=%C3%93scar%20DelCastillo-Andr%C3%A9s&amp;rft.au=Gloria%20Gonz%C3%A1lez-Campos&amp;rft.date=2022-02-18&amp;rft.pages=2319&amp;rft.issn=2071-1050&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Chiang, F.-K., Shang, X., &amp; Qiao, L. (2022). Augmented reality in vocational training: A systematic review of research and applications. <i>Computers in Human Behavior</i>, <i>129</i>, 107125. <a href="https://doi.org/10.1016/j.chb.2021.107125">https://doi.org/10.1016/j.chb.2021.107125</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.chb.2021.107125&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Augmented%20reality%20in%20vocational%20training%3A%20A%20systematic%20review%20of%20research%20and%20applications&amp;rft.jtitle=Computers%20in%20Human%20Behavior&amp;rft.stitle=Computers%20in%20Human%20Behavior&amp;rft.volume=129&amp;rft.aufirst=Feng-Kuang&amp;rft.aulast=Chiang&amp;rft.au=Feng-Kuang%20Chiang&amp;rft.au=Xiaojing%20Shang&amp;rft.au=Lu%20Qiao&amp;rft.date=2022-04&amp;rft.pages=107125&amp;rft.issn=07475632&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Di, X., &amp; Zheng, X. (2022). A meta-analysis of the impact of virtual technologies on students’ spatial ability. <i>Educational Technology Research and Development</i>, <i>70</i>(1), 73–98. <a href="https://doi.org/10.1007/s11423-022-10082-3">https://doi.org/10.1007/s11423-022-10082-3</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs11423-022-10082-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20meta-analysis%20of%20the%20impact%20of%20virtual%20technologies%20on%20students%E2%80%99%20spatial%20ability&amp;rft.jtitle=Educational%20technology%20research%20and%20development&amp;rft.stitle=Education%20Tech%20Research%20Dev&amp;rft.volume=70&amp;rft.issue=1&amp;rft.aufirst=Xuan&amp;rft.aulast=Di&amp;rft.au=Xuan%20Di&amp;rft.au=Xudong%20Zheng&amp;rft.date=2022-02&amp;rft.pages=73-98&amp;rft.spage=73&amp;rft.epage=98&amp;rft.issn=1042-1629%2C%201556-6501&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Garzón, J., &amp; Acevedo, J. (2019). Meta-analysis of the impact of Augmented Reality on students’ learning gains. <i>Educational Research Review</i>, <i>27</i>, 244–260. <a href="https://doi.org/10.1016/j.edurev.2019.04.001">https://doi.org/10.1016/j.edurev.2019.04.001</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.edurev.2019.04.001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Meta-analysis%20of%20the%20impact%20of%20Augmented%20Reality%20on%20students%E2%80%99%20learning%20gains&amp;rft.jtitle=Educational%20Research%20Review&amp;rft.stitle=Educational%20Research%20Review&amp;rft.volume=27&amp;rft.aufirst=Juan&amp;rft.aulast=Garz%C3%B3n&amp;rft.au=Juan%20Garz%C3%B3n&amp;rft.au=Juan%20Acevedo&amp;rft.date=2019-06-01&amp;rft.pages=244-260&amp;rft.spage=244&amp;rft.epage=260&amp;rft.issn=1747-938X&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Howard, M. C., &amp; Gutworth, M. B. (2020). A meta-analysis of virtual reality training programs for social skill development. <i>Computers &amp; Education</i>, <i>144</i>, 103707. <a href="https://doi.org/10.1016/j.compedu.2019.103707">https://doi.org/10.1016/j.compedu.2019.103707</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.compedu.2019.103707&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20meta-analysis%20of%20virtual%20reality%20training%20programs%20for%20social%20skill%20development&amp;rft.jtitle=Computers%20%26%20Education&amp;rft.stitle=Computers%20%26%20Education&amp;rft.volume=144&amp;rft.aufirst=Matt%20C.&amp;rft.aulast=Howard&amp;rft.au=Matt%20C.%20Howard&amp;rft.au=Melissa%20B.%20Gutworth&amp;rft.date=2020-01-01&amp;rft.pages=103707&amp;rft.issn=0360-1315&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Ibáñez, M. B., Uriarte Portillo, A., Zatarain Cabada, R., &amp; Barrón, M. L. (2020). Impact of augmented reality technology on academic achievement and motivation of students from public and private Mexican schools. A case study in a middle-school geometry course. <i>Computers &amp; Education</i>, <i>145</i>, 103734. <a href="https://doi.org/10.1016/j.compedu.2019.103734">https://doi.org/10.1016/j.compedu.2019.103734</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.compedu.2019.103734&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Impact%20of%20augmented%20reality%20technology%20on%20academic%20achievement%20and%20motivation%20of%20students%20from%20public%20and%20private%20Mexican%20schools.%20A%20case%20study%20in%20a%20middle-school%20geometry%20course&amp;rft.jtitle=Computers%20%26%20Education&amp;rft.stitle=Computers%20%26%20Education&amp;rft.volume=145&amp;rft.aufirst=Mar%C3%ADa%20Blanca&amp;rft.aulast=Ib%C3%A1%C3%B1ez&amp;rft.au=Mar%C3%ADa%20Blanca%20Ib%C3%A1%C3%B1ez&amp;rft.au=Aldo%20Uriarte%20Portillo&amp;rft.au=Ram%C3%B3n%20Zatarain%20Cabada&amp;rft.au=Mar%C3%ADa%20Luc%C3%ADa%20Barr%C3%B3n&amp;rft.date=2020-02-01&amp;rft.pages=103734&amp;rft.issn=0360-1315&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Kimmons, R., &amp; Rosenberg, J. M. (2022). Trends and Topics in Educational Technology, 2022 Edition. <i>TechTrends</i>, <i>66</i>(2), 134–140. <a href="https://doi.org/10.1007/s11528-022-00713-0">https://doi.org/10.1007/s11528-022-00713-0</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs11528-022-00713-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Trends%20and%20Topics%20in%20Educational%20Technology%2C%202022%20Edition&amp;rft.jtitle=TechTrends&amp;rft.stitle=TechTrends&amp;rft.volume=66&amp;rft.issue=2&amp;rft.aufirst=Royce&amp;rft.aulast=Kimmons&amp;rft.au=Royce%20Kimmons&amp;rft.au=Joshua%20M.%20Rosenberg&amp;rft.date=2022-03&amp;rft.pages=134-140&amp;rft.spage=134&amp;rft.epage=140&amp;rft.issn=8756-3894%2C%201559-7075&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Kyaw, B. M., Saxena, N., Posadzki, P., Vseteckova, J., Nikolaou, C. K., George, P. P., Divakar, U., Masiello, I., Kononowicz, A. A., Zary, N., &amp; Tudor Car, L. (2019). Virtual Reality for Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. <i>Journal of Medical Internet Research</i>, <i>21</i>(1), e12959. <a href="https://doi.org/10.2196/12959">https://doi.org/10.2196/12959</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2196%2F12959&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Virtual%20Reality%20for%20Health%20Professions%20Education%3A%20Systematic%20Review%20and%20Meta-Analysis%20by%20the%20Digital%20Health%20Education%20Collaboration&amp;rft.jtitle=Journal%20of%20Medical%20Internet%20Research&amp;rft.stitle=J%20Med%20Internet%20Res&amp;rft.volume=21&amp;rft.issue=1&amp;rft.aufirst=Bhone%20Myint&amp;rft.aulast=Kyaw&amp;rft.au=Bhone%20Myint%20Kyaw&amp;rft.au=Nakul%20Saxena&amp;rft.au=Pawel%20Posadzki&amp;rft.au=Jitka%20Vseteckova&amp;rft.au=Charoula%20Konstantia%20Nikolaou&amp;rft.au=Pradeep%20Paul%20George&amp;rft.au=Ushashree%20Divakar&amp;rft.au=Italo%20Masiello&amp;rft.au=Andrzej%20A%20Kononowicz&amp;rft.au=Nabil%20Zary&amp;rft.au=Lorainne%20Tudor%20Car&amp;rft.date=2019-01-22&amp;rft.pages=e12959&amp;rft.issn=1438-8871&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Li, F., Wang, X., He, X., Cheng, L., &amp; Wang, Y. (2021). How augmented reality affected academic achievement in K-12 education – a meta-analysis and thematic-analysis. <i>Interactive Learning Environments</i>, 1–19. <a href="https://doi.org/10.1080/10494820.2021.2012810">https://doi.org/10.1080/10494820.2021.2012810</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F10494820.2021.2012810&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How%20augmented%20reality%20affected%20academic%20achievement%20in%20K-12%20education%20%E2%80%93%20a%20meta-analysis%20and%20thematic-analysis&amp;rft.jtitle=Interactive%20Learning%20Environments&amp;rft.stitle=Interactive%20Learning%20Environments&amp;rft.aufirst=Feng&amp;rft.aulast=Li&amp;rft.au=Feng%20Li&amp;rft.au=Xi%20Wang&amp;rft.au=Xiaona%20He&amp;rft.au=Liang%20Cheng&amp;rft.au=Yiyu%20Wang&amp;rft.date=2021-12-19&amp;rft.pages=1-19&amp;rft.spage=1&amp;rft.epage=19&amp;rft.issn=1049-4820%2C%201744-5191&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Merchant, Z., Goetz, E. T., Cifuentes, L., Keeney-Kennicutt, W., &amp; Davis, T. J. (2014). Effectiveness of virtual reality-based instruction on students’ learning outcomes in K-12 and higher education: A meta-analysis. <i>Computers &amp; Education</i>, <i>70</i>, 29–40. <a href="https://doi.org/10.1016/j.compedu.2013.07.033">https://doi.org/10.1016/j.compedu.2013.07.033</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.compedu.2013.07.033&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Effectiveness%20of%20virtual%20reality-based%20instruction%20on%20students'%20learning%20outcomes%20in%20K-12%20and%20higher%20education%3A%20A%20meta-analysis&amp;rft.jtitle=Computers%20%26%20Education&amp;rft.stitle=Computers%20%26%20Education&amp;rft.volume=70&amp;rft.aufirst=Zahira&amp;rft.aulast=Merchant&amp;rft.au=Zahira%20Merchant&amp;rft.au=Ernest%20T.%20Goetz&amp;rft.au=Lauren%20Cifuentes&amp;rft.au=Wendy%20Keeney-Kennicutt&amp;rft.au=Trina%20J.%20Davis&amp;rft.date=2014-01-01&amp;rft.pages=29-40&amp;rft.spage=29&amp;rft.epage=40&amp;rft.issn=0360-1315&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Tsai, C.-Y., &amp; Lai, Y.-C. (2022). Design and Validation of an Augmented Reality Teaching System for Primary Logic Programming Education. <i>Sensors</i>, <i>22</i>(1), 389. <a href="https://doi.org/10.3390/s22010389">https://doi.org/10.3390/s22010389</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.3390%2Fs22010389&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Design%20and%20Validation%20of%20an%20Augmented%20Reality%20Teaching%20System%20for%20Primary%20Logic%20Programming%20Education&amp;rft.jtitle=Sensors&amp;rft.stitle=Sensors&amp;rft.volume=22&amp;rft.issue=1&amp;rft.aufirst=Chi-Yi&amp;rft.aulast=Tsai&amp;rft.au=Chi-Yi%20Tsai&amp;rft.au=Yu-Cheng%20Lai&amp;rft.date=2022-01-05&amp;rft.pages=389&amp;rft.issn=1424-8220&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Villena-Taranilla, R., Tirado-Olivares, S., Cózar-Gutiérrez, R., &amp; González-Calero, J. A. (2022). Effects of virtual reality on learning outcomes in K-6 education: A meta-analysis. <i>Educational Research Review</i>, <i>35</i>, 100434. <a href="https://doi.org/10.1016/j.edurev.2022.100434">https://doi.org/10.1016/j.edurev.2022.100434</a>
+</div>
+<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.edurev.2022.100434&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Effects%20of%20virtual%20reality%20on%20learning%20outcomes%20in%20K-6%20education%3A%20A%20meta-analysis&amp;rft.jtitle=Educational%20Research%20Review&amp;rft.stitle=Educational%20Research%20Review&amp;rft.volume=35&amp;rft.aufirst=Rafael&amp;rft.aulast=Villena-Taranilla&amp;rft.au=Rafael%20Villena-Taranilla&amp;rft.au=Sergio%20Tirado-Olivares&amp;rft.au=Ram%C3%B3n%20C%C3%B3zar-Guti%C3%A9rrez&amp;rft.au=Jos%C3%A9%20Antonio%20Gonz%C3%A1lez-Calero&amp;rft.date=2022-02-01&amp;rft.pages=100434&amp;rft.issn=1747-938X&amp;rft.language=en"></span>
+<div class="csl-entry" role="doc-biblioentry">
+Wu, B., Yu, X., &amp; Gu, X. (2020). Effectiveness of immersive virtual reality using head‐mounted displays on learning performance: A meta‐analysis. <i>British Journal of Educational Technology</i>, <i>51</i>(6), 1991–2005. <a href="https://doi.org/10.1111/bjet.13023">https://doi.org/10.1111/bjet.13023</a>
+</div>
+<p><span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fbjet.13023&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Effectiveness%20of%20immersive%20virtual%20reality%20using%20head%E2%80%90mounted%20displays%20on%20learning%20performance%3A%20A%20meta%E2%80%90analysis&amp;rft.jtitle=British%20Journal%20of%20Educational%20Technology&amp;rft.stitle=Br.%20J.%20Educ.%20Technol.&amp;rft.volume=51&amp;rft.issue=6&amp;rft.aufirst=Bian&amp;rft.aulast=Wu&amp;rft.au=Bian%20Wu&amp;rft.au=Xiaoxue%20Yu&amp;rft.au=Xiaoqing%20Gu&amp;rft.date=2020-11&amp;rft.pages=1991-2005&amp;rft.spage=1991&amp;rft.epage=2005&amp;rft.issn=0007-1013%2C%201467-8535&amp;rft.language=en"></span></p>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Copyright 2022, Ryan Straight</div>   
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/mavrxlab/">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://hci.social/@mavrxlab/">
+      <i class="bi bi-mastodon" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

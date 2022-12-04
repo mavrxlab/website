@@ -1,0 +1,13 @@
+---
+title: "Events"
+listing:
+  contents: events/*/index.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true
+comments: false
+---

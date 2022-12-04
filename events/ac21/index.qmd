@@ -1,0 +1,78 @@
+---
+abstract: "_Postphenomenology_ isn't just the biggest word at the conference; it's also one of the most useful tools for understanding the deep and complex web of relationships between instructors, designers, students, content, and technology. If you've felt like something's missing in designing online learning, this just may be it."
+all_day: false
+authors:
+  - ryan-straight
+date: "2021-09-21T17:30:00"
+date_end: "2021-09-21T18:15:00"
+draft: FALSE
+event: "OLC Accelerate '21"
+event_url: "https://onlinelearningconsortium.org/olc-accelerate-2021-session-page/?session=10264"
+location: "Virtual (UTC-04)"
+projects: []
+publishDate: "2021-08-10"
+slides: 
+summary: "A conference presentation given by Dr. Straight at the OLC Accelerate 2021 conference."
+tags: ["community", "open house", "sierra vista"]
+title: "Technological Mediation: A Postphenomenology Primer for Instructors, Designers, and More"
+url_code: ""
+url_pdf: ""
+url_slides: "https://ryanstraight.github.io/ac21-postphenom/"
+url_video: ""
+---
+
+![](featured.jpeg)
+
+The director of the MA{VR}X Lab, Dr. Ryan Straight will be presenting a conference talk at the Online Learning Consortium's **Accelerate** conference this September. While not obviously related to the lab, Dr. Straight explains:
+
+>Understanding the empirical frameworks within which the study of our personal experiences are mitigated through technology cannot be understated. This talk will explore exactly this.
+
+**The conference is run on Eastern Daylight Time (UTC-04).**
+
+## Slides
+
+Feel free to [enjoy the slide deck](https://ryanstraight.github.io/ac21-postphenom/index.html) made with [xaringan](https://slides.yihui.org/xaringan/#1) and [xaringanExtra](https://pkg.garrickadenbuie.com/xaringanExtra/#/).
+
+
+### Full Abstract
+
+Pacemakers, smart mirrors, microscopes, pencils, iPads, cars, air conditioners, VR headsets, and the LMS. What do these have in common? Postphenomenology!
+ 
+Wait, come back! Don't let the word put you off: "postphenomenology," while obnoxiously long, is one of the great secret weapons in the philosophy of technology toolbelt and one that instructors and instructional designers alike can benefit from wielding. Generally speaking, at its core, postphenomenology is an empirical method of studying how technology mediates, for better or worse, our experience of the world. Our concern, however, is the way technology mediates the online learning experience in particular. For example, how does the experience of online learning change when the hardware changes from laptop to PC to smartphone to tablet to virtual reality headset? How about from live instruction via webcam to spatially recorded events? What about the physical environment the student is in? If the student is wearing headphones or not? What if there are accessibility considerations? All these variables, all these complicating, mediating factors, can be addressed with the application of postphenomenological analysis.
+ 
+In a variation on the traditional postphenomenological understanding of technological mediation, we will trace the experience through the learner, into the technology, the design of the instruction, to the content, and back again, identifying each of the "enigma points" at which that mediation occurs and necessarily can divert what is actually being experienced from what and how it was intended. Like designing a user or learning experience, you can't design the experience, itself, just design for a particular experience.
+ 
+This is, for many, likely a whole new methodology for thinking about and developing instructional design using the postphenomenological framework. In applying specific concepts like "technic relations," "transparency," and "multistability" to the notion of learning through and via technology, it's possible to shine an exploratory light on the mediating and complicating connections required to—successfully and with fidelity—bring educational content to an online learner. Exploring how these technic relations and mediations work is key, but also understanding when and how they fail can be even more illuminating.
+ 
+In this session, we will explore what this postphenomenological framework is, what it tells us about how technology mediates learning, and how you can apply this in solving your own instructional dilemmas. You are encouraged to bring a challenge you're facing and apply the postphenomenological framework to it and, if nothing else, break it down and view it in a new light. You may just walk away with a brand new understanding about your relationship with the world, not to mention with learning.
+
+## Resources and References
+
+Aagaard, J. (2015). Media multitasking, attention, and distraction: A critical discussion. Phenomenology and the Cognitive Sciences, 14(4), 885–896. https://doi.org/10.1007/s11097-014-9375-x
+
+Aagaard, J. (2016). Introducing postphenomenological research: A brief and selective sketch of phenomenological research methods. International Journal of Qualitative Studies in Education, 30(6), 519–533. https://doi.org/10.1080/09518398.2016.1263884
+
+Jensen, M. M., & Aagaard, J. (2018). A postphenomenological method for HCI research. Proceedings of the 30th Australian Conference on Computer-Human Interaction  - OzCHI ’18, 242–251. https://doi.org/10.1145/3292147.3292170
+
+Adams, C., & Turville, J. (2018). Doing Postphenomenology in Education. In Postphenomenological Methodologies: New Ways in Mediating Techno-Human Relationships (pp. 3–25). Lexington Books.
+echnology (2nd ed., pp. 539–560). Wiley-Blackwell.
+
+Ihde, D. (2009). Postphenomenology and Technoscience: The Peking University Lectures. SUNY Press.
+
+Ihde, D. (2008). Introduction: Postphenomenological research. Human Studies, 31(1), 1–9. https://doi.org/10.1007/s10746-007-9077-2
+
+
+Ihde, D. (2012). Experimental Phenomenology: Multistabilities (2nd ed.). State University of New York Press.
+
+Ihde, D. (2014). A Phenomenology of Technics. In R. C. Scharff & V. Dusek (Eds.), Philosophy of T
+
+Irving, L. (2016). Virtual Worlds as Pedagogical Places: Experiences of Higher Education Academics [Doctoral dissertation, Deakin University]. http://dro.deakin.edu.au/view/DU:30088534
+
+Tripathi, A. K. (2015). Postphenomenological investigations of technological experience. AI and Society, 30(2), 199–205. https://doi.org/10.1007/s00146-014-0575-2
+
+Wellner, G. (2021). The Zoom-bie Student and the Lecturer: Reflections on Teaching and Learning with Zoom. Techné: Research in Philosophy and Technology, 25(1), 1–25.
+
+Verbeek, P. P. (2008). Cyborg intentionality: Rethinking the phenomenology of human-technology relations. Phenomenology and the Cognitive Sciences, 7(3), 387–395. https://doi.org/10.1007/s11097-008-9099-x
+
+
+Vindenes, J., & Wasson, B. (2021). A Postphenomenological Framework for Studying User Experience of Immersive Virtual Reality. Frontiers in Virtual Reality, 2, 656423. https://doi.org/10.3389/frvir.2021.656423

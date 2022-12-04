@@ -1,0 +1,32 @@
+---
+title: Patterson Observatory 3D tour
+author: Ryan Straight
+date: '2021-09-20'
+slug: patterson-observatory-3d-tour
+categories:
+  - 3D scanning
+tags:
+  - patterson observatory
+  - matterport pro2
+  - 3d scan
+  - university south foundation
+  - sierra vista
+subtitle: ''
+summary: 'Explore the Patterson Observatory in VR-ready full 3D!'
+lastmod: '2021-09-02T10:18:36-07:00'
+featured: no
+projects: ["3D Scanning"]
+---
+
+![](featured.jpg)
+
+In August of this year, we had the pleasure of spending the afternoon in the [Patterson Observatory in Sierra Vista](https://www.universitysouthfoundation.com/patterson-observatory), doing a Matterport 3D scan of this incredible space.
+
+>The Patterson Observatory is owned by the University South Foundation, Inc. and operated by volunteers from the Huachuca Astronomy Club (HAC). It is named for David Patterson who was a founding member of HAC and a major Foundation donor.
+>
+>The observatory opened in September 2004 and consists of a fork-mounted f/8.1, 20-inch Ritchey Chretien reflector under a 16-foot dome. The observatory is a NASA Space Place community partner and the focal point for astronomy outreach and education in Southeast Arizona.
+
+Patterson Observatory is a tremendously educational and entertaining experience, and providing this fully immersive, 3D educational experience goes toward making this experience wider and more accessible. You can enjoy exploring this amazing location below (put on your VR headset for the best experience possible!):
+
+<iframe width='853' height='480' src='https://my.matterport.com/show/?m=dpHpMg7Lpjj' frameborder='0' allowfullscreen allow='xr-spatial-tracking'></iframe>
+

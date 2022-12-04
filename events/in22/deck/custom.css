@@ -1,0 +1,7 @@
+/*-- scss:rules --*/
+
+html.intro body {
+	background:url("https://raw.githubusercontent.com/ryanstraight/azcast/main/inst/logos/ua_block_rgb.png");
+	background-position:top right;
+	background-size: 16%;
+}

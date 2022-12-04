@@ -1,17 +1,32 @@
 project:
   type: website
+  output-dir: public
 
 website:
-  title: "website"
+  title: "MA{VR}X Lab"
+  reader-mode: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about/
+        text: About
+      - href: posts.qmd
+        text: Posts
+      - href: events.qmd
+        text: Events
+      - href: resources/
+        text: Resources
+  page-footer: 
+    left: "Copyright 2022, Ryan Straight" 
+    right: 
+      - icon: github
+        href: https://github.com/mavrxlab/
+      - icon: mastodon 
+        href: https://hci.social/@mavrxlab/
 format:
   html:
-    theme: cosmo
+    theme: minimal
     css: styles.css
     toc: true
 

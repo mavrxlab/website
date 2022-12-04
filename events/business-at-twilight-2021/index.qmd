@@ -1,0 +1,36 @@
+---
+draft: FALSE
+abstract: |
+  The University of Arizona's College of Applied Science and Technology is partnering with the Sierra Vista Chamber of Commerce to host an evening on our campus for building relationships through networking with chamber members, University of Arizona faculty and staff, and other community leaders. The MA{VR}X Lab is participating, exhibiting a range of augmented, virtual, and extended reality experiences. Visitors will have the opportunity to fly over Mt. Fuji in Japan, get up close and personal with a blue whale, hold Jupiter in their hands, paint graffiti in thin air, and box in Egypt. 
+address:
+  city: Sierra Vista
+  country: United States
+  postcode: "85635"
+  region: AZ
+  street: "1140 N Colombo Ave"
+authors: []
+date: "2021-11-18T17:00:00Z"
+date_end: "2021-11-18T21:00:00Z"
+event: "Business at Twilight"
+event_url: "https://azcast.arizona.edu/events/733-business-twilight"
+location: "College of Applied Science & Technology"
+projects: []
+publishDate: "2021-08-11T18:00:00Z"
+summary: "A community-focused open house event on the Sierra Vista campus."
+tags: ["community", "open house", "sierra vista"]
+title: "Business at Twilight: Come visit the lab!"
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
+![](featured.jpeg)
+
+For those attending, we'll also have a [POAP](https://app.poap.xyz/admin/events/mavrx-business-at-twilight-2021-2021) NFT for fans of digital collections. Stop by the lab to get the details!
+
+```{r}
+#| labe: poap
+#| echo: false}
+knitr::include_graphics("https://assets.poap.xyz/mavrx-business-at-twilight-2021-2021-logo-1636475019436.png")
+```

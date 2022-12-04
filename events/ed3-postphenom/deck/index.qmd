@@ -1,0 +1,658 @@
+---
+title: |
+    <img align="center" width="75%" src="lab.png">
+subtitle: |
+    <span style="font-size: 150%">A Philosophy of Technology and Education in the Metaverse</span><br />
+    
+pagetitle: "A Philosophy of Technology and Education in the Metaverse"
+     
+author: "<br />**Ryan Straight, Ph.D**<br />"
+institute: "College of Applied Science and Technology<br />University of Arizona"
+
+format:
+  revealjs:
+    #width: 1180
+    #transition: fade
+    progress: true
+    controls: true
+    embed-resources: false
+    standalone: false
+    theme: simple
+    #navigation-mode: vertical
+    controls-tutorial: true
+    touch: true
+    show-slide-number: print
+    email-obfuscation: javascript
+    multiplex: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: true
+      
+editor: source
+
+filters:
+   - roughnotation
+
+execute: 
+  cache: false
+  echo: false
+  message: false
+  error: false
+  
+toc: false
+slide-number: false
+number-sections: false
+logo: "lab.png"
+bibliography: refs.bib
+footer: "Dr. Ryan Straight -- ryanstraight&commat;arizona.edu -- &commat;ryanstraight&commat;hci.social"
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+
+```
+
+# {#agenda data-menu-title="Agenda" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[OUR AGENDA]{.r-fit-text}
+
+## The Plan for Today
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+1.  Introduction
+2.  Technology
+1.  Mediation
+3.  Metaverse
+4.  Education
+5.  Intersection
+
+:::
+
+::: {.column width="30%"}
+
+![](https://media0.giphy.com/media/knYCcmy9DEz3G/giphy.gif?cid=ecf05e471uilqnl2czryglld7yke10d3xskcv98a4e8j0kuh&rid=giphy.gif&ct=g)
+
+:::
+
+::::
+
+::: {.notes}
+
+-   We're talking about technology, so we're going to actually try to define it before we move onto the content. This will be more valuable than you probably imagine.
+-   We're talking education, so let's all get on the same page with the kind of conceptualization we're exploring: ostensibly, it's an epistemic issue. That is, it deals with how we know things and how we *know* we know things.  
+-   Ironically, since we're talking philosophy and the two main approaches we're taking to understand how technologies mediate our experiences in a technological space, we're looking at postphenomenology ([@adamsDoingPostphenomenologyEducation2018]) and touching on both Actor-Network Theory [@lawActorNetworkTheory2009] and posthuman inquiry [@adamsIntroductionPosthumanInquiry2016] to help us understand how our experience of the world is altered because of this and, in turn, how we can use this to understand how new technologies like Web3 interact with and impact education.
+-   Interestingly, it's frankly somewhat irresponsible to talk about these spaces without considering the ethics centered and satellite to them, but since we're already dealing with three of the major traditional branches of philosophy, we'll leave that for another session. (Next year, perhaps?)
+
+:::
+
+# {#who data-menu-title="Introduction" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[WHO]{.r-fit-text}
+
+## {#ryan-straight data-menu-title="Ryan Straight" .smaller}
+
+![](https://ryanstraight.com/profile.jpg){fig-align="center"}
+
+**Ryan Straight, Ph.D**  
+Honors/Associate Professor of Practice Applied Computing & Cyber Operations  
+Director, MA{VR}X Lab  
+College of Applied Science and Technology  
+University of Arizona
+
+::: {.notes}
+
+-   Me, what I teach, et cetera.
+-   Today's session will essentially serve as a primer to introduce folks in the Ed3 space to the more philosophical side of things. I'll do my best to keep things concise and provide clear utility, but it *will* necessarily be *somewhat* theoretical.
+
+:::
+
+# {#technology data-menu-title="Technology" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[TECHNOLOGY]{.r-fit-text}
+
+## What is Technology?
+
+::: {.incremental}
+
+"Web3 is amazing&nbsp;[ technology]{.rn}!"
+
+1. Hardware or artifacts
+2. Sociotechnical system of manufacture
+3. Knowledge, technique, know-how, or methodology
+4. Sociotechnical system of use
+
+:::
+
+::: {.notes}
+
+So let's address these one at a time. Why? Think about this phrase: "Web3 is amazing technology." Can you, just at first blush, determine which *technology* is being referred to? Exactly.
+
+### Hardware or Artifacts
+
+Possible denotation: non-natural objects, of all kinds, manufactured by humans.
+
+Kline [-@klineWhatTechnology1985] says, "Engineers often call manufactured articles 'hardware;' anthropologists usually call them 'artifacts.'
+
+### Sociotechnical System of Manufacture
+
+Possible denotation: All the elements needed to manufacture a particular kind of hardware, the complete working system including its inputs: people; machinery; resources; processes; and legal, economic, political and physical environment.
+
+It is "much more than just the machinery and the people" but is the synergistic totality of these elements.
+
+### Knowledge, Technique, Know-how, or Methodology
+
+The information, skills, processes, and procedures for accomplishing tasks. It is just what it sounds like. The best example of this is probably the classic *Six Million Dollar Man* introduction:
+
+>Steve Austin, astronaut. A man barely alive. Gentlemen, we can rebuild him. **We have the technology**. We have the capability to build the world's first bionic man. Steve Austin will be that man. Better than he was before. Better, stronger, faster." — The Six Million Dollar Man, Opening Narration.
+
+So, not just the hardware, not just the ability, but *the know-how to accomplish the task*.
+
+### A Sociotechnical System of Use
+
+A system using combinations of hardware, people (and usually other elements) to accomplish tasks that humans cannot perform unaided by such systems -- to extend human capacities.
+
++ Example that is most pertinent to us: "We build microscopes, telescopes, cat-scanners, thermometers, and other instruments and utilize them in systems to extend our ability to sense various aspects of the world around us."
++ It's not just "the system" but what the system allows us to do.
++ We wouldn't know how to create a band without the knowledge that comes from and after creating an instrument.
++ "Without sociotechnical system of use, the manufacture of hardware would have no purpose."
+
+Folks often have difficulty even describing what Web3 is, right? Perhaps this is why. Now let's return to our question: when we say, "Web3 is amazing technology," does it change how you understand the question, itself? Something to ponder.
+
+:::
+
+# {#mediation data-menu-title="Mediation" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[MEDIATION]{.r-fit-text}
+
+::: {.notes}
+
+This brings us to "technological mediation." What does that even mean? Some examples may shed light:
+
+The Original Four
+
+Don Ihde [-@Ihde2014], in his attempt to reconcile the "classical" phenomenology that came from the likes of Edmund Husserl, Maurice Merleau-Ponty, and Martin Heidegger with our technologically immersed existence, proposed a new version of phenomenology, a post-phenomenological approach. This "post" prefix is more akin to postmodernism rather than posthumous or postmortem, in that it refers to simply the next logical step rather than something that necessarily comes *after*. It is worth mentioning here that when Ihde was exploring this new paradigm, it was the 1970s, so consider "technology" (in all its forms discussed earlier) now and half a century ago. 
+
+Regardless, through his ponderings he decided upon four different "technics," as he called them, or *ways technology mediate our experiences*. As he says, "Instruments are the means by which unspoken things 'speak', and unseen things become 'visible.'" They are relational and include intention, which we'll come back to in a minute. So, briefly, what are they?
+
+:::
+
+## Embodiment {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+> (human &ndash; technology) &rarr; world
+
+People and technology together relate to the world.
+
++ You see **through** a telescope.
++ You talk **through** a phone.
++ There is technologic **transparency**.
+
+:::
+
+::: {.column width="50%"}
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gIxBtRsuxT0iWuBDY4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/planets-telescope-mastertingus-gIxBtRsuxT0iWuBDY4">via GIPHY</a></p>
+
+:::
+
+::::
+
+::: {.notes}
+Here, the person more or less incorporates the technology into their outward, physical, proprioreceptory experience. A classic example is a blind cane. The cane, in essence, becomes an extension of themselves and their perception. Likewise, glasses or a telescope.
+:::
+
+## Hermeneutic {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+> human &rarr; (technology &ndash; world)
+
++ You **read off** a speedometer.
++ We **interpret** an x-ray.
++ We assume the translation is accurate.
+
+
+
+:::
+
+::: {.column width="50%"}
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/zt0ZkDZXMEOS4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/trippy-person-knee-zt0ZkDZXMEOS4">via GIPHY</a></p>
+
+
+:::
+
+::::
+
+::: {.notes}
+The hermeneutic relation, on the otherhand, involves *translating* or *interpreting* technology in order to understand the world. You essentially *read through* the artifact, such as a speedometer or a clock. Writing, itself, is a technology that falls within this category. (Kline, remember?)
+:::
+
+
+## Alterity {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+> human &rarr; technology (world)
+
++ Technology as **other**.
++ We're in **its** system, not ours.
++ World **withdraws**; we focus on the **technology**.
+
+:::
+
+::: {.column width="50%"}
+
+<div style="width:75%;height:0;padding-bottom:129%;position:relative;"><iframe src="https://giphy.com/embed/VVAiHiDKeUHC0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/digital-evolution-amazon-VVAiHiDKeUHC0">via GIPHY</a></p>
+
+
+:::
+
+::::
+
+::: {.notes}
+In the alterity relation, the technological artifact is treated as itself, what Ihde deemed the "quasi-other." This ranges from a blender to an Amazon Echo to a fully functioning robot. 
+:::
+
+
+## Background {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+> human &rarr; (technology / world)
+
++ Impacts our **environment**.
++ Through this, **us**.
++ Often don't notice until it **breaks**.
+
+
+:::
+
+::: {.column width="50%"}
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Rf4SBc9erYPaLlOA0U" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/summer-drip-ac-unit-Rf4SBc9erYPaLlOA0U">via GIPHY</a></p>
+
+:::
+
+::::
+
+::: {.notes}
+Finally, the background relation describes experiences like an air conditioner: this is technology that influences and impacts the world around you but you have little to no interaction with. It happens *in the background*, surprising enough.
+:::
+
+# {#butwaitmore data-menu-title="But Wait, There's More" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[BUT WAIT THERE'S MORE]{.r-fit-text}
+
+::: {.notes}
+Later, other relations were beginning to be identified as technology changed and the *distance* and *intention* from and with us changed, as well. For example Verbeek [-@verbeekCyborgIntentionalityRethinking2008] describes a few new and necessary *hybrid intentionalities*:
+:::
+
+## The Next Generation
+
+### [Fusion/Cyborg]{.rn rn-type=underline rn-color=red rn-index=1}
+
+> ( human / technology ) &rarr; world
+
+### [Composite]{.rn rn-type=underline rn-color=red rn-index=2}
+
+> human &rarr; ( technology &rarr; world )
+
+### [Augmentation]{.rn rn-type=underline rn-color=red rn-index=3}
+
+> ( human &ndash; technology ) &rarr; world <br />
+>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&searr; ( technology &ndash; world )
+
+::: {.notes}
+
+Here we start getting into more complex relations that you can imagine being used in cutting-edge or future online/virtual learning environments. Hopefully you're beginning to see where I'm going with all this.
+
++ First, **fusion** or a **cyborg** intentionality. Here we're talking about everything from IUDs to pacemakers, from implanted RFID chips to cochlear implants. In this case, there is no physical separation of the self and the technology. In fact, removing one of them from the equation breaks the entire thing down. A pacemaker without a user has no impact, and a user without a pacermaker is... well. You get the point. The person and the technology are literally **fused** insofar as experiencing the world is concerned.
++ **Composite** intentionality: `Human -> ( Technology -> World )`, wherein a person's intention is directed toward the technology, and that technology's *intention* is thereby directed at the world. While a thermometer *represents* the temperature in the hermeneutic relation, A thermal camera, for example, which translates a world we cannot naturally perceive (infrared radiation) into something we can (a colorful video) in the composite relation.
++ **Augmented** intentionality: considerably more complex, it includes a kind of feedback loop, wherein the human's intention directs the technology experience the world, the results of which are then fed back to the human and the cycle repeats itself. So, not only is the human experiencing the world through the technology, the human is also experiencing the technology's experience of the world overlaid, and reacts to *that*.
+
+The question, then, is how many of these different kind of technological relations can you identify in this experience, alone, much less in the myriad "technologies" (remember Kline?) that make up Web3 in general.
+
+:::
+
+
+# {#metaverse data-menu-title="Metaverse" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[METAVERSE]{.r-fit-text}
+
+::: {.notes}
+Beyond relationships and intention, we can conclude that between the Human and the World, the Technology will necessarily have some sort of *mediating effect*. Now, we run into some complications here, right?
+:::
+
+## Mediation in the Metaverse
+
+:::: {.columns}
+
+::: {.column width="50%" .incremental}
+
++ Technological mediation is **necessarily present**.
++ You *are* your avatar.
+
+:::
+
+::: {.column width="50%"}
+
+<div style="width:75%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qCOnTkTaRiAgoOEXAg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/WeAreFitXR-vr-dancing-dance-qCOnTkTaRiAgoOEXAg">via GIPHY</a></p>:::
+
+::::
+
+::: {.notes}
+First, literally every experience you have in and through the metaverse is mediated by and through some technology. It's a necessary case in that context. Now consider the complexity of of that technology. The "metaverse," *in toto*, is *itself* an actor in this mashup of intentionalities. The metaverse–and any degree of extended or mixed realities, really–is a filter for others, a translation in ways that are well beyond our control, even though we may be the target. The subject, the object, the mediation that connects them, are all co-constituted through the experiential process.
+
+Second, once we begin incorporating digital identities–wherein, as far as the world is concerned, *you* and the *all-encompassing digital representation of you*, are one and the same–this mediation becomes even more important to consider.
+:::
+
+## Not Neutral
+
+:::: {.columns}
+
+::: {.column width="70%" .incremental}
+
++ Who designed the platform you're using? For whom?
++ Who designed the devices you're using? For whom?
++ What affordances or friction is there?
++ Does engaging through this medium actually *invite* anything unintentional and undesired?
++ What are the impacts of these?
+
+:::
+
+::: {.column width="30%"}
+<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/bjwl5xmuzCQQpMnrK4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-bjwl5xmuzCQQpMnrK4">via GIPHY</a></p>:::
+
+::::
+
+
+::: {.notes}
+**This process is not neutral**. This is **key**. The pathway between you and the "other" you are engaging with, whether that is a person or simply some collection of information, is not some transparent wormhole through which unadulterated, unfiltered data is fed. There will *always* be some alteration.
+
++ Who designed the platform you're using? For whom?
++ Who designed the devices you're using? For whom?
++ What affordances or friction is there?
++ Does engaging through this medium actually *invite* anything unintentional and undesired?
++ What are the impacts of these?
+
+Each "actor" or intentional step we introduce to this network introduces *another* intention. These can be complementary, supplementary, contradictory, or mutually exclusive, but *never* neutral.
+
+If one of the points of educat*ing* and educat*ion* is to reach truths and explore those truths (small-t truths), this obviously needs to be considered in the fundamental way your experiences and even reality (and the experiences and reality of those at the other end of the interaction) are changing. This is especially true in the case of immersive technologies, as they are, cognitively-speaking, *very* convincing. This goes *well* beyond just the interface. 
+:::
+
+# {#education data-menu-title="Education" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[EDUCATION]{.r-fit-text}
+
+::: {.notes}
+Bringing It All Together: Where Does Education Fit In?
+
+So, while we can clearly see how, through a hermeneutic relation, a speedometer can mediate your experience of driving a car, for example,  what happens when the goal of your interaction is *learning*? 
+:::
+
+## Doing Postphenomenology
+
+>... in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning.
+
+. . .
+
+But what about the **digital self**?
+
+::: {.notes}
+As Adams and Turville [-@adamsDoingPostphenomenologyEducation2018] point out, "Doing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning" (p. 20). The question then becomes, in this new version of technologically-mediated learning *and of self*, what are these Web3 paradigms of teaching practice, knowledge apprehension, and pedagogical meaning? 
+
+Approaching learning in this way–that is, through a postphenomenological, posthuman inquiry lens–encourages us to scrape away at the outer encompassing veneer of the *digital self* and critically examine the delineation therein, harkening back to the traditional phenomenological "way in." Crucially, *doing* postphenomenology has no actual, agreed-upon method [@rosenbergerFieldGuidePostphenomenology2015]. There are a variety of *suggested* heuristics [@adamsResearchingPosthumanWorld2016], but no hard-and-fast checklist or guide.
+:::
+
+## Approaches
+
+:::: {.columns}
+
+::: {.column width="70%" .incremental}
+
+1. Variational method or analysis
+1. Variational cross-examination
+1. Case study
+1. Conversational analysis
+
+:::
+
+::: {.column width="30%"}
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/2WUkAVDzuQbUA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/line-cube-shapes-2WUkAVDzuQbUA">via GIPHY</a></p>
+
+:::
+
+::::
+
+
+::: {.notes}
+That said, there are a couple approaches we can take:
+
+1. Variational method or analysis: described as "the method of brainstorming stabilities of a multistable technology." Remember, everything is also something else.
+2. Variational cross-examination: first determining what a particular technology's "dominant" stability is, we can move on to critically examining and identifying alternatives by exploring, for example, habits of users or frequent qualities teased out of the technology itself, its role in a particular system (thinking back to it being just an actor in a network of actors), and what we are probably most comfortable with or at least what we tend to do in this Web3 space: what's known as "tailoring," or "the … alterations of technology for different purposes." Just think about how often we approach things in this space that way: "this has potential; how can we use it?"
+3. Third, case study: generally speaking the postphenomenological approach is this. The Ed3DAO, for example, is a perfect candidate for this kind of approach, but so is something like the various platforms focusing on self-sovereign identity and data portability like Disco.
+4. Finally, conversational analysis. This can be a little heady, but it can help us bridge the gap between simply exploring "what things do" and those mediations of our perceptions and actions "from within."
+
+So, again, as you can see, there is no hard and fast, prescriptive method to take. This, perhaps surprisingly, works in our favor. It requires the educator and researcher to delve deep to fully understand something that they likely never will, only the individual instance of the thing. In doing so, however, incorporating the posthuman inquiry approach, we can interview these objects–whether tangible devices, virtual worlds, or digital personas–and give them time to "speak." We musn't simply explore how, for example, students "use" these things; we must conversely look at how those things use *them*. 
+
+:::
+
+# {#intersection data-menu-title="Intersection" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[INTERSECTION]{.r-fit-text}
+
+## An Illustration
+
+```{mermaid}
+graph LR
+    subgraph Person A
+    A[/User\] --- B1[Environment]
+    B1 --- B[Device]
+    B --- C[Software]
+    C --- D[Fidelity]
+    D --- E[Avatar]
+    end
+    subgraph Person B
+    E ---|Space and Context| F[Avatar]
+    F --- G[Fidelity]
+    G --- H[Software]
+    H --- I[Device]
+    I --- J[Environment]
+    J --- K[/User\]
+    end
+```
+
+. . .
+
+>We are what we pretend to be, so we must be careful about what we pretend to be.
+
+
+::: {.notes}
+
+Between each user is a mirrored collection of mediations: the physical environment, the device and peripherals they're using, the software itself, their network, audio, and graphical fidelity, the avatar they've chosen, and then the space this is all taking place in. All of this relies on the underlying infrastructure like broadband access and even simply electricity. That's nothing to speak of the technological know-how needed to engage in these experiences to begin with.
+
+Complicating this are a variety of logistical, structural, and cultural variables: language, cultural norms, social cues, even physical handicaps or less savory qualities brough to bear like bigotry, racism, misogyny, or homophobia. Think back to embodiment: we *become* our avatars. Maybe not explicitly to ourselves and perhaps our avatars are not meant to be an outwardly representation of ourselves, but is that how it is perceived? If our digital selves are so inextricably linked with who we are, is there *truly* a difference to those on the outside looking in? One is reminded of the Kurt Vonnegut quote:
+
+>We are what we pretend to be, so we must be careful about what we pretend to be.
+
+In short, the deeper we fall down the immersive, Web3 rabbit hole, the further we get from being able to fully trust that the learning experience we expect a student to have is the one we envision, especially when there other individuals are involved.
+
+:::
+
+## Learning in the Metaverse: Terrible Drawing
+
+![](drawing.png){.r-stretch}
+
+## Learning in the Metaverse: Mermaid
+
+```{mermaid}
+graph LR
+    subgraph Person A
+    A[/User\] --- B1[Environment]
+    B1 --- B[Device]
+    B --- C[Software]
+    C --- D[Fidelity]
+    D --- E[Avatar]
+    end
+    subgraph Learning Objective
+    E ---|Space and Context| F[Presentation]
+    F --- G[Fidelity]
+    G --- H[Software]
+    H --- I[Skill]
+    I --- J[Source]
+    J --- K[/Content\]
+    end
+```
+
+
+::: {.notes}
+Finally, let's take our (highly complex if very ugly) diagram and tweak it to explore interpersonal metaversal interactions to learning in, through, and with these technologies.
+
+Let's imagine Person B is actually a Learning Objective (LO). Try to identify all the various actors in this network. All the different intentions, mediations, filters, lenses, and so on, that the–stepping back into our epistemological and phenomenological combo approach–sits between the learner and the, let's say, "pure content."
+
+By way of illustration, compare a face-to-face conversation with someone and the myriad ways that can go (you can see body language, hear inflection, physical props, even, and so on) versus via text message or email. The latter collapse all the subtleties of the in-person communication and, through the constrictions and affordances of that technology, can fundamentally alter the nature of the underlying and, let's say, "original" content. And that's just a text message.
+:::
+
+## Back to the Technology
+
+
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/116wwYf3ajIvrG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technology-hd-gifsremastered-116wwYf3ajIvrG">via GIPHY</a></p>
+
+
+
+
+
+
+::: {.notes}
+The key to understanding this space, the Ed3 space, where incredible technology (thanks, Kline!) comes careening into an astronomically complex notion like learning, is a hybrid approach. We spend a good deal of time discussing symbolic meaning and potential–and rightfully so. But that's only half the story. We must also approach this space with an eye on virtual materiality. That is, where a traditional postphenomenological approach will look at objects and "what they do," we must also approach Web3 the same way. Not simply in optimistic terms of what potential that technology has, but what changes emerge within us as a result of interaction with it. More importantly, learning from the starry-eyed mistakes made by educational technologists of the past (of which, I am certainly one and imminently guilty), and equally approaching with an eye on breakdown of the network. 
+
+When we approach learning in the metaverse, whether speaking of it as a general Web3-based landscape or a specific virtual, immersive experience, the entirety of the Web3 *technology* is involved in knowledge creation and information transmission, to say nothing of mediation. Understanding it to the point of being able to apply knowledge and predict affordances and consequences is a virtual (pun intended) necessity.
+
+So, is this a completely fleshed-out understanding? Absolutely not. It may never be. Understanding the lived experiences of someone immediately in front of you is, from a phenomenological standpoint, impossible. Combine this with technologies we are only beginning to understand and appreciate, and we begin seeing why having a firm philosophical and methodological foundation is so important.
+:::
+
+## But How?
+
+:::: {.columns}
+
+::: {.column width="75%" .incremental}
+1. Composing Anecdotes through Self-Observation
+2. Gathering Lived Experience Descriptions through Interviews
+3. Composing Anecdotes through Observation of Others
+4. Finally, Studying Breakdowns and the Eidetic Reduction
+
+:::
+
+::: {.column width="25%"}
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/ounv1hey86r5DM6WhP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/theoffice-episode-13-the-office-tv-ounv1hey86r5DM6WhP">via GIPHY</a></p>:::
+
+::::
+
+::: {.notes}
+
+Accordingly, here are some ideas of ways you, too, can begin attempting to exploring this space and, if you spend time educating or being educated, the crossroads as well, as described by Adams and Turville. 
+
+1. Composing Anecdotes through Self-Observation
+	1. Approach your own experiences and lifeworld with "non-intrusive observation of oneself" … and the "invitational appeals of one's equipmental or technology-textured surround." 
+	2. This is harder than it sounds. "Explanations, opinions, judgments, or theoretical concepts must be pushed aside in favor of what was given in the moment."
+2. Gathering Lived Experience Descriptions through Interviews
+	1. Perhaps not the most easily accomplished approach, to be fair, especially for those that aren't necessarily in an environment where that kind of research is encouraged or even permissible. 
+	2. That said, this may be a tremendously revealing process, especially when directed toward teachers and learners in metaversal spaces.
+	3. This should **not** be confused with user experience testing, of course. When gathering these lived experience descriptions, while the design choices made by software developers may have an influential and mediating impact as discussed early, it is merely one step to overcome to get to the real experience.
+3. Composing Anecdotes through Observation of Others
+	1. Contrasting the interview approach, simply observing others in the space can also lead to revelations without overt disturbance. 
+	2. It may, for example, "assist in pointing up aspects of everyday life that may otherwise be taken for granted by oneself and others." 
+	3. However, it's important to note that, since through the observation you may not access a truly sufficient and representative lived experience (you can imagine just how much you would miss by watching someone's actions and not being privy to their motivations or goals).
+4. Finally, Studying Breakdowns and the Eidetic Reduction
+	1. Recall Heidegger and his broken hammer. In this approach, we come *after*. That is, instead of trying to tease out the lived experiences *in vivo*, it is the breakdown of the moment that gives us access. 
+	2. For example, in this very space, it is easier to understand how people and things interact when there is friction than when it goes smoothly.
+	3. Likewise, for a completely non-technical and more Heideggerian example: when your pencil or chalk breaks mid-thought.
+
+:::
+
+# {#conclusion data-menu-title="Conclusion" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[CONCLUSION]{.r-fit-text}
+
+## To Reiterate {.smaller}
+
+>Doing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical methods." (p. 21)
+
+::: {.incremental}
+
++ We *embody* our digital selves.
++ We *interpret* incoming information.
++ We treat the metaverse and devices *as objects, themselves*.
++ Our digital selves are permanently *in the background*.
++ It will become impossible to divorce *ourselves* from our *selves*.
++ We are equally *on* and *in* the loop.
+
+:::
+
+::: {.notes}
+To wrap up, I'd like to quote Adams and Turville one last time:
+
+>Doing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical methods." (p. 21)
+
+
+I suggest that this is a) accurate, and b) insufficient when Web3 is said technology (and again, by "technology" here I mean all of Kline's definitions thereof). When approaching Web3, we interact with the technology itself through virtually all of the different relations, as well, simultaneously.
+
++ We *embody* our digital selves to the point that there is no meaningful difference between the two.
++ We *interpret* (hermeneutic) the myriad data and information streaming toward us, whether this is "on chain" or simply "in the metaverse."
++ We treat the metaverse and the devices through which we access and interact with it *as objects themselves* (alterity), so care must be taken in how we do so and what our choices can ultimately mean for others.
++ Along with embodying our digital selves, in a world where our actions, credentials, and identity are permanently and immutably accessible, we are, in effect, always present *in the background*.
++ One could argue that, given how inseparable our selves and our digital selves are, this actually moves beyond *embodiment* and approaches a *cyborg* intentionality.
++ Any sort of virtual, immersive world, when presenting us with information, content, even abilities that we lack otherwise, also arguably falls within a *composite* and *augmented* relationship with the world. We are equally *on* and *in* the loop.
+
+But, as we all know, the tool is just a tool at the end of the day. Hopefully, the content I've shared today will help us moving forward to remember that the *people* are the key. This is *good work*; good, hard, and necessary.
+
+:::
+
+# {#the-end data-menu-title="The End" background="#9EABAE" background-image="lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[THE END]{.r-fit-text}
+
+## References {.smaller}
+
+::: {#refs}
+
+:::
+
+## That's a wrap!
+
+Thank you for coming! Find out more at:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### MA{VR}X Lab
+
+<https://mavrxlab.org>  
+<https://ryanstraight.com>
+
+![](rs.png)
+
+:::
+
+::: {.column width="50%"}
+
+:::
+
+::::

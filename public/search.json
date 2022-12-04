@@ -1,0 +1,660 @@
+[
+  {
+    "objectID": "events/ac22-ed3/index.html",
+    "href": "events/ac22-ed3/index.html",
+    "title": "Web3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future",
+    "section": "",
+    "text": "The director of the MA{VR}X Lab, Dr. Ryan Straight will be hosting a panel at this year’s Online Learning Consortium’s Accelerate conference.\nThe conference is run on Eastern Daylight Time (UTC-04)."
+  },
+  {
+    "objectID": "events/ac22-ed3/index.html#slides",
+    "href": "events/ac22-ed3/index.html#slides",
+    "title": "Web3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future",
+    "section": "Slides",
+    "text": "Slides\nFeel free to enjoy the slide deck made with Quarto.\n\nFull Abstract\nWith the shifting fundamental, underlying structures of how online learning is designed and delivered, it is important for educators, researchers, instructional designers, even leaders and students to understand just what this means and how to prepare. There is widespread confusion and concern over the (what many see as inevitable) move into a decentralized, transparent internet and what that could mean for online education if not approached with care, consideration, and intention. For example, how does one approach designing instruction for decentralized delivery and facilitation? What does that even mean? Isn’t a wallet just the same as a portfolio? What happens when there is no centralized, gated vault of knowledge, but rather a democratized outpouring of it? And how do we address authenticity and accountability? This discussion seeks to move beyond simply the excitement of the potentials of Web3 and address possible concerns and criticisms, as well. The Web3 space has a very steep learning curve, something this panel hopes to flatten at least in the online learning space. In short, the goal is to, to quote one of our panelists, “Discern signal from noise.”\nThe panel will have a set number of groundwork-setting topics and questions but will be open to questions from the audience. In fact, this is highly encouraged. As per usual, attendees will be able to submit questions throughout the discussion and the moderator will do their best to get to them.\nGiven the relatively short timeframe for the session and the likelihood of being able to answer everyone’s questions during, attendees of this session will be invited to a growing, vibrant community of educators, researchers, and leaders in the Web3 space with a focus on not just “doing Web3,” but doing it right, where the conversation can continue and grow. Attendees will also leave with a working understanding of what these concepts actually mean and the ability to engage authentically in the conversations that will inevitably arise. Finally, attendees will leave with their (likely) first true engagement with the Web3 ecosystem: an NFT! (No annoyed monkeys, we promise. And if you a) don’t know what that is, or b) are skeptical about it, this is definitely the panel for you!)"
+  },
+  {
+    "objectID": "events/2021-dine_under_the_stars/index.html",
+    "href": "events/2021-dine_under_the_stars/index.html",
+    "title": "Virtually Dining Under the Stars",
+    "section": "",
+    "text": "Dine Under the Stars is an annual fundraising event put on by the University South Foundation to raise money for CAST students. This year’s theme is “Reach For the Stars.” From the Foundation:\n\nEnjoy dinner provided by Texas Roadhouse, Indochine Family Restaurant, and Bobke’s, live music by Desert Fever, stargazing through the Patterson Observatory Telescope, a great selection of silent & live auction items and more.\nSince 2011 the Foundation has given out $675,000 in scholarships to support University of Arizona students at the Douglas and Sierra Vista campuses. It is only through the generosity of our local communities that this has been achieved.\nSpecial thanks to this year’s sponsors who make the event possible: Pioneer Title Agency, ACE Hardware, Alma Dolores International Dance Centre, Cherry Creek Radio, Borowiec & Borowiec, PC – Attorneys at Law, Cardinal Pointe Financial Group, Cochise County Sheriff’s Assist Team, Desert Eagle Security, Grasshopper Landscaping, Groth Rutherford Properties LLC, Herald/Review Media, Huachuca Astronomy Club, ISC Consulting Group, KKYZ – 101.7 FM, Elsie and Paul MacMillan, New Frontier Animal Medical Center, Rainey Pain & Performance, Rutherford Diversified Properties LLC, Sierra Toyota, and Tierra Antigua – Maria Juvera.\nTogether, we are making a difference. Please join us as we come together with others passionate about education and the University of Arizona. For more information please call: 520-458-8278 x2129.\n\nWhat does this have to do with the lab, you might ask? Why, space, of course!\nAs the Patterson Observatory is also owned by the University South Foundation and the lab completed the 3D scan of the observatory recently, we’ve teamed up again to provide attendees of the Dine Under the Stars fundraiser with a virtual reality accompaniment. Donors were not only given access to the 20” telescope in the observatory, but also to the Space Engine universe simulation software in the lab.\nHere’s a recording by Reddit user BerkeA111 of just how amazing this experience is:\n\n\n{{% youtube \"Y7BPlWE1Aww\" %}}\n\n\nHow mind-blowing is that? You can find the original video on Google Drive.\nWhat else will we have? A way for folks to pick up a star or a planet and turn it around in their hands using the Merge Cube.\n[::: {.cell-output-display}  :::\n](https://blog.airsquirrels.com/edtech/how-to-teach-virtual-and-augmented-reality-merge-cube-explorer)\nWe’ll also be providing a POAP NFT to anyone that stops by.\n[::: {.cell-output-display}  :::\n](https://poap.gallery/event/8980)\nSee you there!"
+  },
+  {
+    "objectID": "events/ac21/index.html",
+    "href": "events/ac21/index.html",
+    "title": "Technological Mediation: A Postphenomenology Primer for Instructors, Designers, and More",
+    "section": "",
+    "text": "The director of the MA{VR}X Lab, Dr. Ryan Straight will be presenting a conference talk at the Online Learning Consortium’s Accelerate conference this September. While not obviously related to the lab, Dr. Straight explains:\nThe conference is run on Eastern Daylight Time (UTC-04)."
+  },
+  {
+    "objectID": "events/ac21/index.html#slides",
+    "href": "events/ac21/index.html#slides",
+    "title": "Technological Mediation: A Postphenomenology Primer for Instructors, Designers, and More",
+    "section": "Slides",
+    "text": "Slides\nFeel free to enjoy the slide deck made with xaringan and xaringanExtra.\n\nFull Abstract\nPacemakers, smart mirrors, microscopes, pencils, iPads, cars, air conditioners, VR headsets, and the LMS. What do these have in common? Postphenomenology!\nWait, come back! Don’t let the word put you off: “postphenomenology,” while obnoxiously long, is one of the great secret weapons in the philosophy of technology toolbelt and one that instructors and instructional designers alike can benefit from wielding. Generally speaking, at its core, postphenomenology is an empirical method of studying how technology mediates, for better or worse, our experience of the world. Our concern, however, is the way technology mediates the online learning experience in particular. For example, how does the experience of online learning change when the hardware changes from laptop to PC to smartphone to tablet to virtual reality headset? How about from live instruction via webcam to spatially recorded events? What about the physical environment the student is in? If the student is wearing headphones or not? What if there are accessibility considerations? All these variables, all these complicating, mediating factors, can be addressed with the application of postphenomenological analysis.\nIn a variation on the traditional postphenomenological understanding of technological mediation, we will trace the experience through the learner, into the technology, the design of the instruction, to the content, and back again, identifying each of the “enigma points” at which that mediation occurs and necessarily can divert what is actually being experienced from what and how it was intended. Like designing a user or learning experience, you can’t design the experience, itself, just design for a particular experience.\nThis is, for many, likely a whole new methodology for thinking about and developing instructional design using the postphenomenological framework. In applying specific concepts like “technic relations,” “transparency,” and “multistability” to the notion of learning through and via technology, it’s possible to shine an exploratory light on the mediating and complicating connections required to—successfully and with fidelity—bring educational content to an online learner. Exploring how these technic relations and mediations work is key, but also understanding when and how they fail can be even more illuminating.\nIn this session, we will explore what this postphenomenological framework is, what it tells us about how technology mediates learning, and how you can apply this in solving your own instructional dilemmas. You are encouraged to bring a challenge you’re facing and apply the postphenomenological framework to it and, if nothing else, break it down and view it in a new light. You may just walk away with a brand new understanding about your relationship with the world, not to mention with learning."
+  },
+  {
+    "objectID": "events/ac21/index.html#resources-and-references",
+    "href": "events/ac21/index.html#resources-and-references",
+    "title": "Technological Mediation: A Postphenomenology Primer for Instructors, Designers, and More",
+    "section": "Resources and References",
+    "text": "Resources and References\nAagaard, J. (2015). Media multitasking, attention, and distraction: A critical discussion. Phenomenology and the Cognitive Sciences, 14(4), 885–896. https://doi.org/10.1007/s11097-014-9375-x\nAagaard, J. (2016). Introducing postphenomenological research: A brief and selective sketch of phenomenological research methods. International Journal of Qualitative Studies in Education, 30(6), 519–533. https://doi.org/10.1080/09518398.2016.1263884\nJensen, M. M., & Aagaard, J. (2018). A postphenomenological method for HCI research. Proceedings of the 30th Australian Conference on Computer-Human Interaction - OzCHI ’18, 242–251. https://doi.org/10.1145/3292147.3292170\nAdams, C., & Turville, J. (2018). Doing Postphenomenology in Education. In Postphenomenological Methodologies: New Ways in Mediating Techno-Human Relationships (pp. 3–25). Lexington Books. echnology (2nd ed., pp. 539–560). Wiley-Blackwell.\nIhde, D. (2009). Postphenomenology and Technoscience: The Peking University Lectures. SUNY Press.\nIhde, D. (2008). Introduction: Postphenomenological research. Human Studies, 31(1), 1–9. https://doi.org/10.1007/s10746-007-9077-2\nIhde, D. (2012). Experimental Phenomenology: Multistabilities (2nd ed.). State University of New York Press.\nIhde, D. (2014). A Phenomenology of Technics. In R. C. Scharff & V. Dusek (Eds.), Philosophy of T\nIrving, L. (2016). Virtual Worlds as Pedagogical Places: Experiences of Higher Education Academics [Doctoral dissertation, Deakin University]. http://dro.deakin.edu.au/view/DU:30088534\nTripathi, A. K. (2015). Postphenomenological investigations of technological experience. AI and Society, 30(2), 199–205. https://doi.org/10.1007/s00146-014-0575-2\nWellner, G. (2021). The Zoom-bie Student and the Lecturer: Reflections on Teaching and Learning with Zoom. Techné: Research in Philosophy and Technology, 25(1), 1–25.\nVerbeek, P. P. (2008). Cyborg intentionality: Rethinking the phenomenology of human-technology relations. Phenomenology and the Cognitive Sciences, 7(3), 387–395. https://doi.org/10.1007/s11097-008-9099-x\nVindenes, J., & Wasson, B. (2021). A Postphenomenological Framework for Studying User Experience of Immersive Virtual Reality. Frontiers in Virtual Reality, 2, 656423. https://doi.org/10.3389/frvir.2021.656423"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#the-plan-for-today",
+    "href": "events/ac22-ed3/deck/index.html#the-plan-for-today",
+    "title": "",
+    "section": "The Plan for Today",
+    "text": "The Plan for Today\n\n\n\nIntroductions\nBackground\nThe Main Course\nQuestions/Follow-ups"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#ryan-straight",
+    "href": "events/ac22-ed3/deck/index.html#ryan-straight",
+    "title": "",
+    "section": "",
+    "text": "Ryan Straight, Ph.D\nHonors/Associate Professor of Practice @ UArizona\nDirector, MA{VR}X Lab"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#intros",
+    "href": "events/ac22-ed3/deck/index.html#intros",
+    "title": "",
+    "section": "",
+    "text": "Jessica Barberry\n\n\n\nEd3DAO Community Enchanter\n@barberification\n\n\n\n\nDagan Bernstein\n\n\n\nEd3DAO Community Growth Lead\n@DaganBernstein\nEd3 Newsletter at https://www.ed3weekly.xyz\n\n\n\n\nMike Peck, Ed.D\n\n\n\nEd3DAO Founder\n@EdTechPeck"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#question1",
+    "href": "events/ac22-ed3/deck/index.html#question1",
+    "title": "",
+    "section": "",
+    "text": "What is Web3, anyway?\n\n\n\n\n“Web3 and Education”"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#question2",
+    "href": "events/ac22-ed3/deck/index.html#question2",
+    "title": "",
+    "section": "",
+    "text": "What is Web3, anyway?\n   A Solution in Search of a Problem?\n\n\n\n\n“A Solution in Search of a Problem”"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#question3",
+    "href": "events/ac22-ed3/deck/index.html#question3",
+    "title": "",
+    "section": "",
+    "text": "What is Web3, anyway?\n   A Solution in Search of a Problem?\n   Intersection of Web3 and Online Learning?\n\n\n\n\n“Web3 + Online Learning = ???”"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#question4",
+    "href": "events/ac22-ed3/deck/index.html#question4",
+    "title": "",
+    "section": "",
+    "text": "What is Web3, anyway?\n   A Solution in Search of a Problem?\n   Intersection of Web3 and Online Learning?\n   “Wallet” doesn’t sound very educational…\n\n\n\n\n“A Student’s Wallet”"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#question5",
+    "href": "events/ac22-ed3/deck/index.html#question5",
+    "title": "",
+    "section": "",
+    "text": "What is Web3, anyway?\n   A Solution in Search of a Problem?\n   Intersection of Web3 and Online Learning?\n   “Wallet” doesn’t sound very educational…\n   But NFTs are scams, aren’t they?\n\n\n\n\n“There Are Many Bad Actors”"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#question6",
+    "href": "events/ac22-ed3/deck/index.html#question6",
+    "title": "",
+    "section": "",
+    "text": "What is Web3, anyway?\n   A Solution in Search of a Problem?\n   Intersection of Web3 and Online Learning?\n   “Wallet” doesn’t sound very educational…\n   But NFTs are scams, aren’t they?\n   Looking forward to the future.\n\n\n\n\n“The Shape of Education to Come”"
+  },
+  {
+    "objectID": "events/ac22-ed3/deck/index.html#thats-a-wrap",
+    "href": "events/ac22-ed3/deck/index.html#thats-a-wrap",
+    "title": "",
+    "section": "That’s a wrap!",
+    "text": "That’s a wrap!\nThank you for coming! Find out more at:\n\n\nMA{VR}X Lab\nhttps://mavrxlab.org\nhttps://ryanstraight.com\n\n\nEd3DAO\nhttps://ed3dao.com\n@ed3dao\n\n\n\n\n\n@ryanstraight – @barberification – @DaganBernstein – @EdTechPeck"
+  },
+  {
+    "objectID": "events/business-at-twilight-2021/index.html",
+    "href": "events/business-at-twilight-2021/index.html",
+    "title": "Business at Twilight: Come visit the lab!",
+    "section": "",
+    "text": "For those attending, we’ll also have a POAP NFT for fans of digital collections. Stop by the lab to get the details!\n\nknitr::include_graphics(\"https://assets.poap.xyz/mavrx-business-at-twilight-2021-2021-logo-1636475019436.png\")"
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#the-plan-for-today",
+    "href": "events/ed3-postphenom/deck/index.html#the-plan-for-today",
+    "title": "",
+    "section": "The Plan for Today",
+    "text": "The Plan for Today\n\n\n\nIntroduction\nTechnology\nMediation\nMetaverse\nEducation\nIntersection\n\n\n\n\n\n\n\nWe’re talking about technology, so we’re going to actually try to define it before we move onto the content. This will be more valuable than you probably imagine.\nWe’re talking education, so let’s all get on the same page with the kind of conceptualization we’re exploring: ostensibly, it’s an epistemic issue. That is, it deals with how we know things and how we know we know things.\n\nIronically, since we’re talking philosophy and the two main approaches we’re taking to understand how technologies mediate our experiences in a technological space, we’re looking at postphenomenology ((Adams and Turville 2018)) and touching on both Actor-Network Theory (Law 2009) and posthuman inquiry (Adams and Thompson 2016a) to help us understand how our experience of the world is altered because of this and, in turn, how we can use this to understand how new technologies like Web3 interact with and impact education.\nInterestingly, it’s frankly somewhat irresponsible to talk about these spaces without considering the ethics centered and satellite to them, but since we’re already dealing with three of the major traditional branches of philosophy, we’ll leave that for another session. (Next year, perhaps?)"
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#ryan-straight",
+    "href": "events/ed3-postphenom/deck/index.html#ryan-straight",
+    "title": "",
+    "section": "",
+    "text": "Ryan Straight, Ph.D\nHonors/Associate Professor of Practice Applied Computing & Cyber Operations\nDirector, MA{VR}X Lab\nCollege of Applied Science and Technology\nUniversity of Arizona\n\n\nMe, what I teach, et cetera.\nToday’s session will essentially serve as a primer to introduce folks in the Ed3 space to the more philosophical side of things. I’ll do my best to keep things concise and provide clear utility, but it will necessarily be somewhat theoretical."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#what-is-technology",
+    "href": "events/ed3-postphenom/deck/index.html#what-is-technology",
+    "title": "",
+    "section": "What is Technology?",
+    "text": "What is Technology?\n\n“Web3 is amazing technology!”\n\nHardware or artifacts\nSociotechnical system of manufacture\nKnowledge, technique, know-how, or methodology\nSociotechnical system of use\n\n\n\nSo let’s address these one at a time. Why? Think about this phrase: “Web3 is amazing technology.” Can you, just at first blush, determine which technology is being referred to? Exactly.\nHardware or Artifacts\nPossible denotation: non-natural objects, of all kinds, manufactured by humans.\nKline (1985) says, “Engineers often call manufactured articles ‘hardware;’ anthropologists usually call them ‘artifacts.’\nSociotechnical System of Manufacture\nPossible denotation: All the elements needed to manufacture a particular kind of hardware, the complete working system including its inputs: people; machinery; resources; processes; and legal, economic, political and physical environment.\nIt is “much more than just the machinery and the people” but is the synergistic totality of these elements.\nKnowledge, Technique, Know-how, or Methodology\nThe information, skills, processes, and procedures for accomplishing tasks. It is just what it sounds like. The best example of this is probably the classic Six Million Dollar Man introduction:\n\nSteve Austin, astronaut. A man barely alive. Gentlemen, we can rebuild him. We have the technology. We have the capability to build the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better, stronger, faster.” — The Six Million Dollar Man, Opening Narration.\n\nSo, not just the hardware, not just the ability, but the know-how to accomplish the task.\nA Sociotechnical System of Use\nA system using combinations of hardware, people (and usually other elements) to accomplish tasks that humans cannot perform unaided by such systems – to extend human capacities.\n\nExample that is most pertinent to us: “We build microscopes, telescopes, cat-scanners, thermometers, and other instruments and utilize them in systems to extend our ability to sense various aspects of the world around us.”\nIt’s not just “the system” but what the system allows us to do.\nWe wouldn’t know how to create a band without the knowledge that comes from and after creating an instrument.\n“Without sociotechnical system of use, the manufacture of hardware would have no purpose.”\n\nFolks often have difficulty even describing what Web3 is, right? Perhaps this is why. Now let’s return to our question: when we say, “Web3 is amazing technology,” does it change how you understand the question, itself? Something to ponder."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#embodiment",
+    "href": "events/ed3-postphenom/deck/index.html#embodiment",
+    "title": "",
+    "section": "Embodiment",
+    "text": "Embodiment\n\n\n\n(human – technology) → world\n\nPeople and technology together relate to the world.\n\nYou see through a telescope.\nYou talk through a phone.\nThere is technologic transparency.\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nHere, the person more or less incorporates the technology into their outward, physical, proprioreceptory experience. A classic example is a blind cane. The cane, in essence, becomes an extension of themselves and their perception. Likewise, glasses or a telescope."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#hermeneutic",
+    "href": "events/ed3-postphenom/deck/index.html#hermeneutic",
+    "title": "",
+    "section": "Hermeneutic",
+    "text": "Hermeneutic\n\n\n\nhuman → (technology – world)\n\n\nYou read off a speedometer.\nWe interpret an x-ray.\nWe assume the translation is accurate.\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nThe hermeneutic relation, on the otherhand, involves translating or interpreting technology in order to understand the world. You essentially read through the artifact, such as a speedometer or a clock. Writing, itself, is a technology that falls within this category. (Kline, remember?)"
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#alterity",
+    "href": "events/ed3-postphenom/deck/index.html#alterity",
+    "title": "",
+    "section": "Alterity",
+    "text": "Alterity\n\n\n\nhuman → technology (world)\n\n\nTechnology as other.\nWe’re in its system, not ours.\nWorld withdraws; we focus on the technology.\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nIn the alterity relation, the technological artifact is treated as itself, what Ihde deemed the “quasi-other.” This ranges from a blender to an Amazon Echo to a fully functioning robot."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#background",
+    "href": "events/ed3-postphenom/deck/index.html#background",
+    "title": "",
+    "section": "Background",
+    "text": "Background\n\n\n\nhuman → (technology / world)\n\n\nImpacts our environment.\nThrough this, us.\nOften don’t notice until it breaks.\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nFinally, the background relation describes experiences like an air conditioner: this is technology that influences and impacts the world around you but you have little to no interaction with. It happens in the background, surprising enough."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#the-next-generation",
+    "href": "events/ed3-postphenom/deck/index.html#the-next-generation",
+    "title": "",
+    "section": "The Next Generation",
+    "text": "The Next Generation\nFusion/Cyborg\n\n( human / technology ) → world\n\nComposite\n\nhuman → ( technology → world )\n\nAugmentation\n\n( human – technology ) → world                      ↘ ( technology – world )\n\n\nHere we start getting into more complex relations that you can imagine being used in cutting-edge or future online/virtual learning environments. Hopefully you’re beginning to see where I’m going with all this.\n\nFirst, fusion or a cyborg intentionality. Here we’re talking about everything from IUDs to pacemakers, from implanted RFID chips to cochlear implants. In this case, there is no physical separation of the self and the technology. In fact, removing one of them from the equation breaks the entire thing down. A pacemaker without a user has no impact, and a user without a pacermaker is… well. You get the point. The person and the technology are literally fused insofar as experiencing the world is concerned.\nComposite intentionality: Human -> ( Technology -> World ), wherein a person’s intention is directed toward the technology, and that technology’s intention is thereby directed at the world. While a thermometer represents the temperature in the hermeneutic relation, A thermal camera, for example, which translates a world we cannot naturally perceive (infrared radiation) into something we can (a colorful video) in the composite relation.\nAugmented intentionality: considerably more complex, it includes a kind of feedback loop, wherein the human’s intention directs the technology experience the world, the results of which are then fed back to the human and the cycle repeats itself. So, not only is the human experiencing the world through the technology, the human is also experiencing the technology’s experience of the world overlaid, and reacts to that.\n\nThe question, then, is how many of these different kind of technological relations can you identify in this experience, alone, much less in the myriad “technologies” (remember Kline?) that make up Web3 in general."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#mediation-in-the-metaverse",
+    "href": "events/ed3-postphenom/deck/index.html#mediation-in-the-metaverse",
+    "title": "",
+    "section": "Mediation in the Metaverse",
+    "text": "Mediation in the Metaverse\n\n\n\nTechnological mediation is necessarily present.\nYou are your avatar.\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nFirst, literally every experience you have in and through the metaverse is mediated by and through some technology. It’s a necessary case in that context. Now consider the complexity of of that technology. The “metaverse,” in toto, is itself an actor in this mashup of intentionalities. The metaverse–and any degree of extended or mixed realities, really–is a filter for others, a translation in ways that are well beyond our control, even though we may be the target. The subject, the object, the mediation that connects them, are all co-constituted through the experiential process.\nSecond, once we begin incorporating digital identities–wherein, as far as the world is concerned, you and the all-encompassing digital representation of you, are one and the same–this mediation becomes even more important to consider."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#not-neutral",
+    "href": "events/ed3-postphenom/deck/index.html#not-neutral",
+    "title": "",
+    "section": "Not Neutral",
+    "text": "Not Neutral\n\n\n\nWho designed the platform you’re using? For whom?\nWho designed the devices you’re using? For whom?\nWhat affordances or friction is there?\nDoes engaging through this medium actually invite anything unintentional and undesired?\nWhat are the impacts of these?\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nThis process is not neutral. This is key. The pathway between you and the “other” you are engaging with, whether that is a person or simply some collection of information, is not some transparent wormhole through which unadulterated, unfiltered data is fed. There will always be some alteration.\n\nWho designed the platform you’re using? For whom?\nWho designed the devices you’re using? For whom?\nWhat affordances or friction is there?\nDoes engaging through this medium actually invite anything unintentional and undesired?\nWhat are the impacts of these?\n\nEach “actor” or intentional step we introduce to this network introduces another intention. These can be complementary, supplementary, contradictory, or mutually exclusive, but never neutral.\nIf one of the points of educating and education is to reach truths and explore those truths (small-t truths), this obviously needs to be considered in the fundamental way your experiences and even reality (and the experiences and reality of those at the other end of the interaction) are changing. This is especially true in the case of immersive technologies, as they are, cognitively-speaking, very convincing. This goes well beyond just the interface."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#doing-postphenomenology",
+    "href": "events/ed3-postphenom/deck/index.html#doing-postphenomenology",
+    "title": "",
+    "section": "Doing Postphenomenology",
+    "text": "Doing Postphenomenology\n\n… in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning.\n\n\nBut what about the digital self?\n\nAs Adams and Turville (2018) point out, “Doing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning” (p. 20). The question then becomes, in this new version of technologically-mediated learning and of self, what are these Web3 paradigms of teaching practice, knowledge apprehension, and pedagogical meaning?\nApproaching learning in this way–that is, through a postphenomenological, posthuman inquiry lens–encourages us to scrape away at the outer encompassing veneer of the digital self and critically examine the delineation therein, harkening back to the traditional phenomenological “way in.” Crucially, doing postphenomenology has no actual, agreed-upon method (Rosenberger and Verbeek 2015). There are a variety of suggested heuristics (Adams and Thompson 2016b), but no hard-and-fast checklist or guide."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#approaches",
+    "href": "events/ed3-postphenom/deck/index.html#approaches",
+    "title": "",
+    "section": "Approaches",
+    "text": "Approaches\n\n\n\nVariational method or analysis\nVariational cross-examination\nCase study\nConversational analysis\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nThat said, there are a couple approaches we can take:\n\nVariational method or analysis: described as “the method of brainstorming stabilities of a multistable technology.” Remember, everything is also something else.\nVariational cross-examination: first determining what a particular technology’s “dominant” stability is, we can move on to critically examining and identifying alternatives by exploring, for example, habits of users or frequent qualities teased out of the technology itself, its role in a particular system (thinking back to it being just an actor in a network of actors), and what we are probably most comfortable with or at least what we tend to do in this Web3 space: what’s known as “tailoring,” or “the … alterations of technology for different purposes.” Just think about how often we approach things in this space that way: “this has potential; how can we use it?”\nThird, case study: generally speaking the postphenomenological approach is this. The Ed3DAO, for example, is a perfect candidate for this kind of approach, but so is something like the various platforms focusing on self-sovereign identity and data portability like Disco.\nFinally, conversational analysis. This can be a little heady, but it can help us bridge the gap between simply exploring “what things do” and those mediations of our perceptions and actions “from within.”\n\nSo, again, as you can see, there is no hard and fast, prescriptive method to take. This, perhaps surprisingly, works in our favor. It requires the educator and researcher to delve deep to fully understand something that they likely never will, only the individual instance of the thing. In doing so, however, incorporating the posthuman inquiry approach, we can interview these objects–whether tangible devices, virtual worlds, or digital personas–and give them time to “speak.” We musn’t simply explore how, for example, students “use” these things; we must conversely look at how those things use them."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#an-illustration",
+    "href": "events/ed3-postphenom/deck/index.html#an-illustration",
+    "title": "",
+    "section": "An Illustration",
+    "text": "An Illustration\n\n\n\n\ngraph LR\n    subgraph Person A\n    A[/User\\] --- B1[Environment]\n    B1 --- B[Device]\n    B --- C[Software]\n    C --- D[Fidelity]\n    D --- E[Avatar]\n    end\n    subgraph Person B\n    E ---|Space and Context| F[Avatar]\n    F --- G[Fidelity]\n    G --- H[Software]\n    H --- I[Device]\n    I --- J[Environment]\n    J --- K[/User\\]\n    end\n\n\n\n\n\n\n\nWe are what we pretend to be, so we must be careful about what we pretend to be.\n\n\nBetween each user is a mirrored collection of mediations: the physical environment, the device and peripherals they’re using, the software itself, their network, audio, and graphical fidelity, the avatar they’ve chosen, and then the space this is all taking place in. All of this relies on the underlying infrastructure like broadband access and even simply electricity. That’s nothing to speak of the technological know-how needed to engage in these experiences to begin with.\nComplicating this are a variety of logistical, structural, and cultural variables: language, cultural norms, social cues, even physical handicaps or less savory qualities brough to bear like bigotry, racism, misogyny, or homophobia. Think back to embodiment: we become our avatars. Maybe not explicitly to ourselves and perhaps our avatars are not meant to be an outwardly representation of ourselves, but is that how it is perceived? If our digital selves are so inextricably linked with who we are, is there truly a difference to those on the outside looking in? One is reminded of the Kurt Vonnegut quote:\n\nWe are what we pretend to be, so we must be careful about what we pretend to be.\n\nIn short, the deeper we fall down the immersive, Web3 rabbit hole, the further we get from being able to fully trust that the learning experience we expect a student to have is the one we envision, especially when there other individuals are involved."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#learning-in-the-metaverse-terrible-drawing",
+    "href": "events/ed3-postphenom/deck/index.html#learning-in-the-metaverse-terrible-drawing",
+    "title": "",
+    "section": "Learning in the Metaverse: Terrible Drawing",
+    "text": "Learning in the Metaverse: Terrible Drawing"
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#learning-in-the-metaverse-mermaid",
+    "href": "events/ed3-postphenom/deck/index.html#learning-in-the-metaverse-mermaid",
+    "title": "",
+    "section": "Learning in the Metaverse: Mermaid",
+    "text": "Learning in the Metaverse: Mermaid\n\n\n\n\ngraph LR\n    subgraph Person A\n    A[/User\\] --- B1[Environment]\n    B1 --- B[Device]\n    B --- C[Software]\n    C --- D[Fidelity]\n    D --- E[Avatar]\n    end\n    subgraph Learning Objective\n    E ---|Space and Context| F[Presentation]\n    F --- G[Fidelity]\n    G --- H[Software]\n    H --- I[Skill]\n    I --- J[Source]\n    J --- K[/Content\\]\n    end\n\n\n\n\n\n\nFinally, let’s take our (highly complex if very ugly) diagram and tweak it to explore interpersonal metaversal interactions to learning in, through, and with these technologies.\nLet’s imagine Person B is actually a Learning Objective (LO). Try to identify all the various actors in this network. All the different intentions, mediations, filters, lenses, and so on, that the–stepping back into our epistemological and phenomenological combo approach–sits between the learner and the, let’s say, “pure content.”\nBy way of illustration, compare a face-to-face conversation with someone and the myriad ways that can go (you can see body language, hear inflection, physical props, even, and so on) versus via text message or email. The latter collapse all the subtleties of the in-person communication and, through the constrictions and affordances of that technology, can fundamentally alter the nature of the underlying and, let’s say, “original” content. And that’s just a text message."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#back-to-the-technology",
+    "href": "events/ed3-postphenom/deck/index.html#back-to-the-technology",
+    "title": "",
+    "section": "Back to the Technology",
+    "text": "Back to the Technology\n\n\n\n\n\nvia GIPHY\n\n\nThe key to understanding this space, the Ed3 space, where incredible technology (thanks, Kline!) comes careening into an astronomically complex notion like learning, is a hybrid approach. We spend a good deal of time discussing symbolic meaning and potential–and rightfully so. But that’s only half the story. We must also approach this space with an eye on virtual materiality. That is, where a traditional postphenomenological approach will look at objects and “what they do,” we must also approach Web3 the same way. Not simply in optimistic terms of what potential that technology has, but what changes emerge within us as a result of interaction with it. More importantly, learning from the starry-eyed mistakes made by educational technologists of the past (of which, I am certainly one and imminently guilty), and equally approaching with an eye on breakdown of the network.\nWhen we approach learning in the metaverse, whether speaking of it as a general Web3-based landscape or a specific virtual, immersive experience, the entirety of the Web3 technology is involved in knowledge creation and information transmission, to say nothing of mediation. Understanding it to the point of being able to apply knowledge and predict affordances and consequences is a virtual (pun intended) necessity.\nSo, is this a completely fleshed-out understanding? Absolutely not. It may never be. Understanding the lived experiences of someone immediately in front of you is, from a phenomenological standpoint, impossible. Combine this with technologies we are only beginning to understand and appreciate, and we begin seeing why having a firm philosophical and methodological foundation is so important."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#but-how",
+    "href": "events/ed3-postphenom/deck/index.html#but-how",
+    "title": "",
+    "section": "But How?",
+    "text": "But How?\n\n\n\nComposing Anecdotes through Self-Observation\nGathering Lived Experience Descriptions through Interviews\nComposing Anecdotes through Observation of Others\nFinally, Studying Breakdowns and the Eidetic Reduction\n\n\n\n\n\n\n\nvia GIPHY\n\n\n\n\nAccordingly, here are some ideas of ways you, too, can begin attempting to exploring this space and, if you spend time educating or being educated, the crossroads as well, as described by Adams and Turville.\n\nComposing Anecdotes through Self-Observation\n\nApproach your own experiences and lifeworld with “non-intrusive observation of oneself” … and the “invitational appeals of one’s equipmental or technology-textured surround.”\nThis is harder than it sounds. “Explanations, opinions, judgments, or theoretical concepts must be pushed aside in favor of what was given in the moment.”\n\nGathering Lived Experience Descriptions through Interviews\n\nPerhaps not the most easily accomplished approach, to be fair, especially for those that aren’t necessarily in an environment where that kind of research is encouraged or even permissible.\nThat said, this may be a tremendously revealing process, especially when directed toward teachers and learners in metaversal spaces.\nThis should not be confused with user experience testing, of course. When gathering these lived experience descriptions, while the design choices made by software developers may have an influential and mediating impact as discussed early, it is merely one step to overcome to get to the real experience.\n\nComposing Anecdotes through Observation of Others\n\nContrasting the interview approach, simply observing others in the space can also lead to revelations without overt disturbance.\nIt may, for example, “assist in pointing up aspects of everyday life that may otherwise be taken for granted by oneself and others.”\nHowever, it’s important to note that, since through the observation you may not access a truly sufficient and representative lived experience (you can imagine just how much you would miss by watching someone’s actions and not being privy to their motivations or goals).\n\nFinally, Studying Breakdowns and the Eidetic Reduction\n\nRecall Heidegger and his broken hammer. In this approach, we come after. That is, instead of trying to tease out the lived experiences in vivo, it is the breakdown of the moment that gives us access.\nFor example, in this very space, it is easier to understand how people and things interact when there is friction than when it goes smoothly.\nLikewise, for a completely non-technical and more Heideggerian example: when your pencil or chalk breaks mid-thought."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#to-reiterate",
+    "href": "events/ed3-postphenom/deck/index.html#to-reiterate",
+    "title": "",
+    "section": "To Reiterate",
+    "text": "To Reiterate\n\nDoing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical methods.” (p. 21)\n\n\n\nWe embody our digital selves.\nWe interpret incoming information.\nWe treat the metaverse and devices as objects, themselves.\nOur digital selves are permanently in the background.\nIt will become impossible to divorce ourselves from our selves.\nWe are equally on and in the loop.\n\n\n\nTo wrap up, I’d like to quote Adams and Turville one last time:\n\nDoing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical methods.” (p. 21)\n\nI suggest that this is a) accurate, and b) insufficient when Web3 is said technology (and again, by “technology” here I mean all of Kline’s definitions thereof). When approaching Web3, we interact with the technology itself through virtually all of the different relations, as well, simultaneously.\n\nWe embody our digital selves to the point that there is no meaningful difference between the two.\nWe interpret (hermeneutic) the myriad data and information streaming toward us, whether this is “on chain” or simply “in the metaverse.”\nWe treat the metaverse and the devices through which we access and interact with it as objects themselves (alterity), so care must be taken in how we do so and what our choices can ultimately mean for others.\nAlong with embodying our digital selves, in a world where our actions, credentials, and identity are permanently and immutably accessible, we are, in effect, always present in the background.\nOne could argue that, given how inseparable our selves and our digital selves are, this actually moves beyond embodiment and approaches a cyborg intentionality.\nAny sort of virtual, immersive world, when presenting us with information, content, even abilities that we lack otherwise, also arguably falls within a composite and augmented relationship with the world. We are equally on and in the loop.\n\nBut, as we all know, the tool is just a tool at the end of the day. Hopefully, the content I’ve shared today will help us moving forward to remember that the people are the key. This is good work; good, hard, and necessary."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#references",
+    "href": "events/ed3-postphenom/deck/index.html#references",
+    "title": "",
+    "section": "References",
+    "text": "References\n\n\nAdams, Catherine, and Terrie Lynn Thompson. 2016a. “Introduction to Posthuman Inquiry.” In Researching a Posthuman World: Interviews with Digital Objects, edited by Catherine Adams and Terrie Lynn Thompson, 1–22. London: Palgrave Macmillan UK. https://doi.org/10.1057/978-1-137-57162-5_1.\n\n\n———. 2016b. Researching a Posthuman World: Interviews with Digital Objects. London: Springer Nature. https://doi.org/10.1057/978-1-137-57162-5.\n\n\nAdams, Catherine, and Joni Turville. 2018. “Doing Postphenomenology in Education.” In Postphenomenological Methodologies: New Ways in Mediating Techno-Human Relationships, 3–25. Lexington, Maryland: Lexington Books.\n\n\nIhde, Don. 2014. “A Phenomenology of Technics.” In Philosophy of Technology, edited by Robert C. Scharff and Val Dusek, Second, 539–60. Chichester, West Sussex, UK: Wiley-Blackwell.\n\n\nKline, Stephen J. 1985. “What Is Technology?” Bulletin of Science, Technology & Society 1: 215–18.\n\n\nLaw, John. 2009. “Actor Network Theory and Material Semiotics.” In The New Blackwell Companion to Social Theory, edited by Bryan S. Turner, 141–58. Oxford, UK: Wiley-Blackwell. https://doi.org/10.1002/9781444304992.ch7.\n\n\nRosenberger, Robert, and Peter-Paul Verbeek. 2015. “A Field Guide to Postphenomenology.” In Postphenomenological Investigations: Essays on Human-Technology Relations. Postphenomenology and the Philosophy of Technology. Lexington Books.\n\n\nVerbeek, Peter Paul. 2008. “Cyborg Intentionality: Rethinking the Phenomenology of Human-Technology Relations.” Phenomenology and the Cognitive Sciences 7 (3): 387–95. https://doi.org/10.1007/s11097-008-9099-x."
+  },
+  {
+    "objectID": "events/ed3-postphenom/deck/index.html#thats-a-wrap",
+    "href": "events/ed3-postphenom/deck/index.html#thats-a-wrap",
+    "title": "",
+    "section": "That’s a wrap!",
+    "text": "That’s a wrap!\nThank you for coming! Find out more at:\n\n\nMA{VR}X Lab\nhttps://mavrxlab.org\nhttps://ryanstraight.com\n\n\n\n\n\n\n\n\nDr. Ryan Straight – ryanstraight@arizona.edu – @ryanstraight@hci.social"
+  },
+  {
+    "objectID": "events/ed3-postphenom/index.html",
+    "href": "events/ed3-postphenom/index.html",
+    "title": "A Philosophy of Technology and Education in the Metaverse",
+    "section": "",
+    "text": "The director of the MA{VR}X Lab, Dr. Ryan Straight, will be giving a talk at the first annual Ed3 Conference.\nThe conference is run on Eastern Daylight Time (UTC-04)."
+  },
+  {
+    "objectID": "events/ed3-postphenom/index.html#slides",
+    "href": "events/ed3-postphenom/index.html#slides",
+    "title": "A Philosophy of Technology and Education in the Metaverse",
+    "section": "Slides",
+    "text": "Slides\nFeel free to enjoy the slide deck made with Quarto.\n\nFull Abstract\nExperience and education in the metaverse is, without fail, mediated by technology at some point. As we move further into a pervasive and ubiquitous metaversal landscape, it is crucial we consider these experiences as experiences, filters, and knowledge-generating moments in time that, while virtual, have real-world impacts. In this session, Dr. Ryan Straight, honors professor and lab director at the University of Arizona’s College of Applied Science and Technology will discuss the ways in which understanding these mediations leads to better teaching, better learning, and a more equitable experience for all."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#the-plan-for-today",
+    "href": "events/in22/deck/index.html#the-plan-for-today",
+    "title": "",
+    "section": "The Plan for Today",
+    "text": "The Plan for Today\n\n\n\nWho’s this guy?\nThe State of XR in Education\nWant vs Have\nWhat’s Karu?\nProblems and Solutions\nUse Cases\nThe Future\n\n\n\n\n\n\n\nHere’s the plan for today. At least, that’s the plan.\nI invite, I want folks to chime in.\n\nHow do you envision it?\nWhat’s going on in your neck of the woods?\nSo on"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#dr.-ryan-straight",
+    "href": "events/in22/deck/index.html#dr.-ryan-straight",
+    "title": "",
+    "section": "Dr. Ryan Straight",
+    "text": "Dr. Ryan Straight\nAssistant Professor of Practice\nApplied Computing & Cyber Operations\nLab Director\nCollege of Applied Science and Technology\nUniversity of Arizona\n\n©Herald/Review\nMe"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#mavrx-lab",
+    "href": "events/in22/deck/index.html#mavrx-lab",
+    "title": "",
+    "section": "MA{VR}X Lab",
+    "text": "MA{VR}X Lab\nMixed Augmented ViRtual eXtended Reality Lab\n\n\n\nCollege’s first lab\nOne year old\nBroad concept of XR\nHolographic video, NFTs, AR training, more.\n\n\n\n\n\n\n\n\n\n\nLab info."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#xr-and-online-learning",
+    "href": "events/in22/deck/index.html#xr-and-online-learning",
+    "title": "",
+    "section": "XR and Online Learning",
+    "text": "XR and Online Learning\n\n\nBefore asking what, let’s ask why.\nSpecifically, why XR in online learning.\n\n\n\n\n\n\n\n\n\n\nSo, why? Why do we need this? Why is it important?\nKimmons (2022) in Tech Trends:\n\n“virtual reality” and “online learning” were top bigrams for 2021\n“augmented reality” was #3 (see screenshot)\nthese seem “impervious” to the pandemic.\nhashtags in #edtech tweets:\n\n#VR (917 users, 4368 tweets)\n#cybersecurity (820 users, 3111 tweets)\n\nlots of interest in XR but “has not crystalized into the sustained adoption and use of these emergent technologies” (p. 138-9)\nVR/AR “frequently referenced in comparison to other modalities or topics of research (p. 139)\nbut little attention is paid to privacy, ethics, security, despite the rise in student data gathering and tracking\n\nSo, let’s start in that space. But first, let’s explore XR a bit more.\n\n\nKimmons, R., & Rosenberg, J. M. (2022). Trends and Topics in Educational Technology, 2022 Edition. TechTrends, 66(2), 134–140. https://doi.org/10.1007/s11528-022-00713-0"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#is-xr-in-education-effective",
+    "href": "events/in22/deck/index.html#is-xr-in-education-effective",
+    "title": "",
+    "section": "Is XR in Education Effective?",
+    "text": "Is XR in Education Effective?\n\n\n\nMeta-analysis, 2013-2019.\nIt is effective.\nIt is nascent.\n\n\n\n\n\n\n\n\n\n\n\nThe state of XR in education. Not the tech, but the ability and the research. What do they tell us?\nHMDs, head-mounted displays, have a positive impact on learning attitudes and perceptions\nMixed results in learning performance.\nNow this is an interesting observation that is in line with the notion that when people are having fun, they don’t necessarily understand it as learning. You can actually see this in course surveys: there’s often a negative correaltion between “did you have fun” and “do you felt like you learned a lot.”\nPeople seem to have this notion that if you’re having fun, you’re not learning. And likewise, if you’re learning, it shouldn’t be fun. It might almost even be painful.\nRemember: if you think there’s a difference between playing and learning, it means you don’t understand either.\n\n\nWu, B., Yu, X., & Gu, X. (2020). Effectiveness of immersive virtual reality using head‐mounted displays on learning performance: A meta‐analysis. British Journal of Educational Technology, 51(6), 1991–2005. https://doi.org/10.1111/bjet.13023"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#do-students-enjoy-it",
+    "href": "events/in22/deck/index.html#do-students-enjoy-it",
+    "title": "",
+    "section": "Do students enjoy it?",
+    "text": "Do students enjoy it?\n\n\n\nSure do!\nMore motivated, for one.\n\n\n\n\n\n\n\n\n\n\n\nIn this examination of AR versus flipped classrooms, the AR students were significantly more motivated than the flipped classroom students.\n\n\nCampos-Mesa, M.-C., Castañeda-Vázquez, C., DelCastillo-Andrés, Ó., & González-Campos, G. (2022). Augmented Reality and the Flipped Classroom—A Comparative Analysis of University Student Motivation in Semi-Presence-Based Education Due to COVID-19: A Pilot Study. Sustainability, 14(4), 2319. https://doi.org/10.3390/su14042319"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#skills",
+    "href": "events/in22/deck/index.html#skills",
+    "title": "",
+    "section": "Skills?",
+    "text": "Skills?\n\n\n\nWhat skills do teachers have in ICT areas?\nLiterature review: not XR.\n\n\n\n\n\n\n\n\n\n\n\nDo teachers have the skills to even utilize this kind of technology, not to mention the support?\nTurns out, according to this literature review from 2000 to 2021, no.\n\nBlogs do.\n\n\n\nBasilotta-Gómez-Pablos, V., Matarranz, M., Casado-Aranda, L.-A., & Otto, A. (2022). Teachers’ digital competencies in higher education: A systematic literature review. International Journal of Educational Technology in Higher Education, 19(1), 8. https://doi.org/10.1186/s41239-021-00312-8"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#conclusion",
+    "href": "events/in22/deck/index.html#conclusion",
+    "title": "",
+    "section": "Conclusion",
+    "text": "Conclusion\n\n\n\nIt’s effective.\nStudents enjoy it.\nTeachers lack the skills.\nBut there’s more to it.\n\n\n\n\n\n\n\n\n\n\nSo we know students enjoy it, we know they’re motivated by the modality, and we know teachers, by and large, don’t know much about it or how to use it. How do we address this? We’ll get to that because that’s one of the core reasons for exploring this, but first, there are some other considerations:"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#secondary-considerations",
+    "href": "events/in22/deck/index.html#secondary-considerations",
+    "title": "",
+    "section": "Secondary Considerations",
+    "text": "Secondary Considerations\n\n\n\nStudent data\nPrivacy\nEase of use\nFunding\nFidelity\nOwnership\nSafety\n\n\n\n\n\n\n\n\n\n\nWe need to think about issues and concerns beyond just the content. When we’re dealing with students, we could be dealing with minors, we’re dealing with privacy laws, were dealing with data ownership and stewardship, we’re dealing with safety.\nTo quote Elizabeth Warren, “I’ve got a plan for that.”"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#what-we-have",
+    "href": "events/in22/deck/index.html#what-we-have",
+    "title": "",
+    "section": "What We Have",
+    "text": "What We Have\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere are 41 sponsors at this conference. Neither “virtual reality” nor “VR” appear anywhere. “Virtual” appears in InScribe, Blindside Networks, and InSpace but these are “virtual classrooms,” not an immersive or extended reality experience. On the flip side, seven sponsors explicitly call out proctoring as a service they provide, either exclusively or as part of their overall business model. That’s roughly 1 in 6."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#what-we-have-continued",
+    "href": "events/in22/deck/index.html#what-we-have-continued",
+    "title": "",
+    "section": "What We Have (Continued)",
+    "text": "What We Have (Continued)\n\n\n\nvirtual reality: 1\nVR: 1\nimmersive: 2*\nimmersion: 1\naugmented reality: 0\nextended reality: 0*\n\n\n\n\n\n\n\n\n\n\nThe astrix next to “immersive:” there are actually 4 but one those is this session and one is an industry showcase. This doesn’t include the Innovation Lab; I’m just talking about sessions.\nThe conference sessions, themselves, aren’t much reflective, either. As far as talks and sessions go, one by Angelika Gulbis from Madison College (“Mission to Mars: Group Interactions in a Virtual Reality Learning Experience”; that was yesterday) and one from Garamis Campusano and Eric Simon (“The Challenge Of Deploying VR Experiences At Scale: The Development Of A VR Application To Address Classroom Needs”; that was also yesterday) shows up in the program with the term “virtual reality” or “VR” in the title or abstract anywhere. Interestingly, those referencing the metaverse (both with presenters from the University of Arizona, me and Craig Wilson’s session “A Metaversity Framework: Higher Education in the Metaverse Can Increase Diversity”; totally unplanned, by the way) are happening right now, simultaneously. Beyond this, the conference itself has included extended reality experiences and concepts into areas like the Innovation Lab and some other spaces, but that’s pretty much it.\nNow, this is not a criticism of the conference. I’m merely pointing out that, based on what we’ve seen so far, what people want is different from what they’re getting. Weirdly, we know that VR and related fields are insanely profitiable right now, so clearly money isn’t the issue. If anything, you’d expect more XR education platforms sponsoring a conference like this, right?\nSo how do we approach this? Perhaps this is a solution."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#the-name",
+    "href": "events/in22/deck/index.html#the-name",
+    "title": "",
+    "section": "The Name",
+    "text": "The Name\n\n\n\nCharun (or Charu, Karun) was an Etruscan psychopomp.\nShepherded across realities.\nThat’s our goal."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#what-is-karu-1",
+    "href": "events/in22/deck/index.html#what-is-karu-1",
+    "title": "",
+    "section": "What is Karu?",
+    "text": "What is Karu?\n\n\n\nKnowledge base\nSocial network\nContent hub\nCollaboration space\nMore"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#use-case-1-education",
+    "href": "events/in22/deck/index.html#use-case-1-education",
+    "title": "",
+    "section": "Use case 1: Education",
+    "text": "Use case 1: Education\n\n\n\nStudents enjoy XR.\nIt’s a powerful teaching medium.\nTeachers don’t know how to create it.\n\n\n\n\n\n\n\n\n\n\nNow, no mistake: this platform, Karu, is not meant to be some sort of VR Khan’s Academy. But…\nLet’s imagine you’re an instructor and you want to explore the use of XR in your classroom.\nHow do you start?\n\nDo you know what hardware is available for your needs?\nDo you know where to find funding to make what you want to happen happen?\nDo you know the difference between an OBJ and an FBX file?\nDo you know what software to use if you want to develop? Do you know how to use it?\nDo you know where to find an artist to design the thing?\nDo you know how to get the product to your students?\nDo you know who around you, physically, has what capabilities?\n\nBlended teaching is an example of this. And we hear a lot about blended learning and teaching here (and rightfully so). But let’s envision it as more than just how to bring in-person students and online students together. Imagine “blended” as students have AR glasses like a HoloLens and like with Spatial, share a wall. Maybe table. They can all stand around the same space, synchronously, and engage with one another actually seeing each other (well, an avatar, but it can look like you!).\nWouldn’t that count as blended?\nNow, do you know how to make this happen? Well, someone does, and Karu is precisely the kind of place where that information can be curated and shared."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#use-case-2-sharing",
+    "href": "events/in22/deck/index.html#use-case-2-sharing",
+    "title": "",
+    "section": "Use case 2: Sharing",
+    "text": "Use case 2: Sharing\n\n\n\nArtist: share your designs and projects.\nEducator: share your materials and reviews.\nCompany: share your needs and find developers.\nResearchers: share your findings and questions.\n\n\n\n\n\n\n\n\n\n\nOne of the major hurdles at this point is, as I’ve mentioned, how to find people and projects.\nWe’ll come back to the potential problems with this shortly."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#use-case-3-connection",
+    "href": "events/in22/deck/index.html#use-case-3-connection",
+    "title": "",
+    "section": "Use case 3: Connection",
+    "text": "Use case 3: Connection\n\n\n\nImmense interest in XR but folks don’t know where to look, what’s out there.\nWe need a space for folks to be weird, creative, paradigm-breaking.\nDistribution options are limited, so people don’t see it.\nListen to the whole interview: #1055: VR Comedy “Flat Earth VR” with Lucas Rizzotto, Lucas Builds the Future YouTube channel, & AR House in LA | Voices of VR Podcast\n\n\n\n\n\n\n\nLucas Rizzotto: Creative, Futurist, Mad Scientist\n\n\n\n\n\n\n\nIn a recent interview on the Voices of VR Podcast, Lucas Rizzotto lamented something that confirmed what we’d already been thinking: that perceived disconnect, the frustration, is real. SXSW. Sundance.\nBuilt the “AR House” in LA to bring artists and developers together. Events. Hackathons. Create an environment where people can be creative and find collaborators and inspiration.\nAR is a platform that hasn’t really matured enough yet. helps to unify the medium and those interested in it. There’s relatively little out there in terms of curation and distribution for XR experiences. How do we get the work out?\nSo, these issues are what we’re aiming at: how do you find content? Once you find it, how to do implement it? Once you implement it, how do you review it to let others know what has value and let the creator know you appreciate their work?\nKaru is, in part, a social network. It allows users to match up with others (be they individuals, teams, companies, et cetera) based on interests and project goals. An artist needing a project? Teams or companies can post their interests/needs and welcome applications/pitches/etc. Team that needs a developer? Vice versa, same thing. Users/teams/etc will be able to tag themselves on a map and state just what kinds of resources they have available, further fostering collaboration opportunities. This, of course, will have security and privacy settings baked in."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#use-case-4-the-repository",
+    "href": "events/in22/deck/index.html#use-case-4-the-repository",
+    "title": "",
+    "section": "Use case 4: The Repository",
+    "text": "Use case 4: The Repository\n\n\n\nThis is what it all comes to, eventually.\nA central location for all things XR.\nLesson plan? Go for it.\n3D model of a heart? Gotcha.\nReview of the new Pico headset? Yup.\nAn XR library in XR.\n\n\n\n\n\n\n\n\n\n\nThis is the library. Karu is designed to be a place where users can find content and collaboration easily, where identities are validated, where data is respected, and where …"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#security",
+    "href": "events/in22/deck/index.html#security",
+    "title": "",
+    "section": "Security",
+    "text": "Security\n\n\nProblem: public often means vulnerable.\nSolution: people.\n\n\n\n\n\n\n\n\n\nKaru will be, to some degree, publicly viewable, but those allowed to share, interact, engage, and so on, will go through a vetting process similar to BrightID(?). At first, invite-only. Then, vetted users will be given invitations to grow the network. And so on. It is not within the foreseeable future that Karu will be simply open to the public, as it is intended for industry, education, and so on."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#trust",
+    "href": "events/in22/deck/index.html#trust",
+    "title": "",
+    "section": "Trust",
+    "text": "Trust\n\n\nProblem: on the internet, nobody knows you’re a dog.\nSolution: zero-trust and self-sovereign identity.\n\n\n\n\n\n\n\n\n\nKaru will be based on a variety of Web3 principles: zero trust and self-sovereign identity. We believe that people should own their identities and their data, and that the platforms given stewardship over it should treat it–and them–with respect. Privacy, safety, and security are at the very top of our list of concerns and development priorities."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#privacy",
+    "href": "events/in22/deck/index.html#privacy",
+    "title": "",
+    "section": "Privacy",
+    "text": "Privacy\n\n\nProblem: not all projects should public. Not all assets are ready.\nSolution: full control.\n\n\n\n\n\n\n\n\n\nKaru will have a variety of privacy settings to control how much user profile data is shown to whom, what kinds of projects are viewable, pitchable, et cetera, and can lock down, for example, how many degrees of separation someone must be in order to engage with particular content of theirs. They can also set incoming engagement to only be after they have initiated contact or have set the privacy options accordingly. Think of it like… Bumble for the metaverse."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#content-ownership-and-monetization",
+    "href": "events/in22/deck/index.html#content-ownership-and-monetization",
+    "title": "",
+    "section": "Content Ownership and Monetization",
+    "text": "Content Ownership and Monetization\n\n\nProblem: who owns what?\nSolution: immutable records.\n\n\n\n\n\n\n\n\n\neach unit of content developed for or placed on Karu will become, itself, an NFT. If users wish to provide content with, for example, a CC0 license, they can do that. Public domain? Sure. Did they create something that they want to monetize and sell? Great! The NFT is then purchased and the developed content is transferred. Like music NFTs, if it is then sold on, a certain portion will always go back to the creator."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#the-platform-itself",
+    "href": "events/in22/deck/index.html#the-platform-itself",
+    "title": "",
+    "section": "The Platform, Itself",
+    "text": "The Platform, Itself\n\n\n\nWeb3\nSelf-Sovereign Identities\nCreator-Owned Assets\nPrivacy-focused\nLearning Prioritized\n\n\n\n\n\n\n\n\n\n\nEventually, the goal of Karu is to become, itself, an immersive platform. Imagine this: (and, please, whenever I say “imagine this,” understand it as “this is already absolutely possible, we just need to build it”).\nSo, while it will begin simply utilizing Web3 affordances, it will (in theory) end up in an XR space all its own, allowing for users to use (speaking for what’s available now) a shared wall and HoloLenses to meet, discuss, and so on. Users will be able to preview, for example, a low poly version of a virtual object before committing to getting the actual thing. Since all content is simultaneously minted with its own NFT and that is what gets bought and sold, users will always know where it came from and who the originator is.\nNo fakes, no frauds, no bait-and-switch. Everything is auditable and everything can be vouched for."
+  },
+  {
+    "objectID": "events/in22/deck/index.html#xr-learning",
+    "href": "events/in22/deck/index.html#xr-learning",
+    "title": "",
+    "section": "XR Learning",
+    "text": "XR Learning\n\n\nSo what do we need?\n\nTraining\nResources\nAccess\nCommunity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLet’s wrap up by looking at what we need, given what we know.\n\nTeachers need training.\n\nThey don’t need week-long workshops on creating XR content.\nThey need a platform that’s easy to use, simple to navigate, trustworthy, and instructive.\nFor that instruction, they need tutorials, how-to guides, references, and explanations.\nThe diataxis framework is the starting point for that.\n\nResources\n\nIs it impractical to expect every teacher to write a grant when they want to get this kind of tech into their classrooms or to their students? Probably.\nSo, what if you could just look to see who’s near you or who’s aligned with your interests and has what you need?\nMaybe it’s not just headsets or something, perhaps it’s someone to build what you have an idea for. Same approach: just look for them.\n\nAccess\n\nWe need access to the content, after all.\nAnd we need that access to be trustworthy, just like the content.\n\nAnd we need community\n\nTwo heads are usually better than one.\nWe need to be able to find out who’s doing what and how we can collaborate.\nWe need this person to provide a pedagogical framework for using XR, we need that person to provide reviews of headsets or software so you can make a decision, and we need those people to produce something that you can leverage.\nAnd how great would it be if all those were in a single place?"
+  },
+  {
+    "objectID": "events/in22/deck/index.html#section-1",
+    "href": "events/in22/deck/index.html#section-1",
+    "title": "",
+    "section": "",
+    "text": "Dr. Ryan Straight – University of Arizona – @ryanstraight"
+  },
+  {
+    "objectID": "events/in22/index.html",
+    "href": "events/in22/index.html",
+    "title": "Karu: Introducing the Metaversal Library for the Future of Immersive Learning",
+    "section": "",
+    "text": "The director of the MA{VR}X Lab, Dr. Ryan Straight will be presenting a conference talk at the Online Learning Consortium’s Innovate 2022 conference this in Dallas, April 13. This is an elaboration on and update for the Virtual Worlds Forum talk he gave on the same project."
+  },
+  {
+    "objectID": "events/in22/index.html#slides",
+    "href": "events/in22/index.html#slides",
+    "title": "Karu: Introducing the Metaversal Library for the Future of Immersive Learning",
+    "section": "Slides",
+    "text": "Slides\nFeel free to enjoy the slide deck made with Quarto for a very cool, totally Powerpoint-free experience! (Please be aware that, during the talk, the slide deck linked here will advance automatically as I advance mine. This is a feature, not a bug!)\n\nFull Abstract\nWhat is extended reality? Who lives and works in the metaverse? You have a great idea for a VR project, but with whom do you connect? And how? Why should you even consider this extended reality space to begin with?\nThese are questions we ask as a working research group of faculty and students at a major R1 university. To answer these, we envision a project known as Karu (formerly XRpedia). This platform is a place where people, projects, locations, services, even funding and employment opportunities exist to connect researchers, developers, instructors, and especially students in ways that will drive innovation in the metaverse. One main goal of Karu is to be user- and learner-focused, in that everything within it–hardware, companies, you name it–always comes back to the people. The importance of finding a way to make these connections within the metaverse, itself, cannot be overstated. Doing it in such a way that is accessible, secure, dependable, and sustainable is a driving force behind Karu.\nWhat is the “metaverse” and how does it apply to online learning? It encompasses virtually (pun intended) all experiences within the space of online learning: virtual and augmented reality, persistent digital spaces like discussion forums or Zoom rooms, even the entirety of the internet and every way in which it is utilized.\nIt is our hope that, as we develop and continue to shape Karu, attendees to the session–experts in online learning that they are–will provide great food for thought, both for us as the developers and for one another. This session will be primarily an introduction to the project, as well as a look at the roadmap for where it can and will go."
+  },
+  {
+    "objectID": "events/in22/index.html#relevant-references",
+    "href": "events/in22/index.html#relevant-references",
+    "title": "Karu: Introducing the Metaversal Library for the Future of Immersive Learning",
+    "section": "Relevant References",
+    "text": "Relevant References\n\n\nBasilotta-Gómez-Pablos, V., Matarranz, M., Casado-Aranda, L.-A., & Otto, A. (2022). Teachers’ digital competencies in higher education: A systematic literature review. International Journal of Educational Technology in Higher Education, 19(1), 8. https://doi.org/10.1186/s41239-021-00312-8\n\n\n\nBursali, H., & Yilmaz, R. M. (2019). Effect of augmented reality applications on secondary school students’ reading comprehension and learning permanency. Computers in Human Behavior, 95, 126–135. https://doi.org/10.1016/j.chb.2019.01.035\n\n\n\nCampos-Mesa, M.-C., Castañeda-Vázquez, C., DelCastillo-Andrés, Ó., & González-Campos, G. (2022). Augmented Reality and the Flipped Classroom—A Comparative Analysis of University Student Motivation in Semi-Presence-Based Education Due to COVID-19: A Pilot Study. Sustainability, 14(4), 2319. https://doi.org/10.3390/su14042319\n\n\n\nChiang, F.-K., Shang, X., & Qiao, L. (2022). Augmented reality in vocational training: A systematic review of research and applications. Computers in Human Behavior, 129, 107125. https://doi.org/10.1016/j.chb.2021.107125\n\n\n\nDi, X., & Zheng, X. (2022). A meta-analysis of the impact of virtual technologies on students’ spatial ability. Educational Technology Research and Development, 70(1), 73–98. https://doi.org/10.1007/s11423-022-10082-3\n\n\n\nGarzón, J., & Acevedo, J. (2019). Meta-analysis of the impact of Augmented Reality on students’ learning gains. Educational Research Review, 27, 244–260. https://doi.org/10.1016/j.edurev.2019.04.001\n\n\n\nHoward, M. C., & Gutworth, M. B. (2020). A meta-analysis of virtual reality training programs for social skill development. Computers & Education, 144, 103707. https://doi.org/10.1016/j.compedu.2019.103707\n\n\n\nIbáñez, M. B., Uriarte Portillo, A., Zatarain Cabada, R., & Barrón, M. L. (2020). Impact of augmented reality technology on academic achievement and motivation of students from public and private Mexican schools. A case study in a middle-school geometry course. Computers & Education, 145, 103734. https://doi.org/10.1016/j.compedu.2019.103734\n\n\n\nKimmons, R., & Rosenberg, J. M. (2022). Trends and Topics in Educational Technology, 2022 Edition. TechTrends, 66(2), 134–140. https://doi.org/10.1007/s11528-022-00713-0\n\n\n\nKyaw, B. M., Saxena, N., Posadzki, P., Vseteckova, J., Nikolaou, C. K., George, P. P., Divakar, U., Masiello, I., Kononowicz, A. A., Zary, N., & Tudor Car, L. (2019). Virtual Reality for Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. Journal of Medical Internet Research, 21(1), e12959. https://doi.org/10.2196/12959\n\n\n\nLi, F., Wang, X., He, X., Cheng, L., & Wang, Y. (2021). How augmented reality affected academic achievement in K-12 education – a meta-analysis and thematic-analysis. Interactive Learning Environments, 1–19. https://doi.org/10.1080/10494820.2021.2012810\n\n\n\nMerchant, Z., Goetz, E. T., Cifuentes, L., Keeney-Kennicutt, W., & Davis, T. J. (2014). Effectiveness of virtual reality-based instruction on students’ learning outcomes in K-12 and higher education: A meta-analysis. Computers & Education, 70, 29–40. https://doi.org/10.1016/j.compedu.2013.07.033\n\n\n\nTsai, C.-Y., & Lai, Y.-C. (2022). Design and Validation of an Augmented Reality Teaching System for Primary Logic Programming Education. Sensors, 22(1), 389. https://doi.org/10.3390/s22010389\n\n\n\nVillena-Taranilla, R., Tirado-Olivares, S., Cózar-Gutiérrez, R., & González-Calero, J. A. (2022). Effects of virtual reality on learning outcomes in K-6 education: A meta-analysis. Educational Research Review, 35, 100434. https://doi.org/10.1016/j.edurev.2022.100434\n\n\n\nWu, B., Yu, X., & Gu, X. (2020). Effectiveness of immersive virtual reality using head‐mounted displays on learning performance: A meta‐analysis. British Journal of Educational Technology, 51(6), 1991–2005. https://doi.org/10.1111/bjet.13023"
+  },
+  {
+    "objectID": "events/olc-digital-literacy-3/index.html",
+    "href": "events/olc-digital-literacy-3/index.html",
+    "title": "Simulation, Immersion, and Gamification",
+    "section": "",
+    "text": "Dr. Straight will be sitting on a UNESCO-supported webinar to talk extended reality, artificial intelligence, and online education. This is part 3 of 5 in a series of webinars entitled “Digital Literacy & AI.” The topic is “Simulation, Immersion, and Gamification.” This event is hosted by the Online Learning Consortium and organized by Dr. Ben Scragg."
+  },
+  {
+    "objectID": "events/olc-digital-literacy-3/index.html#takeaways",
+    "href": "events/olc-digital-literacy-3/index.html#takeaways",
+    "title": "Simulation, Immersion, and Gamification",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nExplore emerging technologies that are driving global innovation for teaching and learning through simulation, immersion, and gamification\nIdentify opportunities and technologies to implement innovative solutions across a spectrum of access, cost, and openness.\nGain insights on research, adoption and implementation strategies for scaling innovative technologies across systems and institutions."
+  },
+  {
+    "objectID": "events/olc-digital-literacy-3/index.html#intended-audience",
+    "href": "events/olc-digital-literacy-3/index.html#intended-audience",
+    "title": "Simulation, Immersion, and Gamification",
+    "section": "Intended audience",
+    "text": "Intended audience\nHigher Education Administrators, Higher Education Faculty, K-12 Administrators, K-12 Faculty, Online Education Directors, Instructional and Educational Technologists, Learning Experience Designers, Education Policy Makers, Educational Futurists, International Community"
+  },
+  {
+    "objectID": "events/vwf21/index.html",
+    "href": "events/vwf21/index.html",
+    "title": "Dr. Straight at Virtual Worlds Forum",
+    "section": "",
+    "text": "Dr. Straight gave an introduction to a secret project at the 2021 Virtual Worlds Forum, an invite-only event to engage government, higher education, industry, and the military in all things XR."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MA{VR}X Lab",
+    "section": "",
+    "text": "The Mixed Augmented ViRtual eXtended (Reality) Laboratory in the College of Applied Science & Technology is the University of Arizona’s center of research and development for alternative reality media and training in southeastern Arizona."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "",
+    "text": "The MA{VR}X Lab should be a fun, educational, and inspiring experience for everyone. Here’s how we make sure that happens.\nWe are taking the following precautions to prioritize the health of everyone involved, both lab staff and participants:\nPlease note: appointments are required for all in-person MA{VR}X Lab activities, events, and experiences unless otherwise specified!\nDue to COVID-19, the MA{VR}X Lab–while encouraging participation and free use–is open only by appointment and for a limited number of simultaneous users. Contact MAVRX-Lab@arizona.edu to schedule time or equipment rental.\nThe lab is large enough that social distancing can be maintained to the degree required by the university. However, masks are required at all times in the lab when social distancing cannot be observed. Those using headsets will be provided disposable mask guards to use and equipment is sanitized in a UV-C Cleanbox CX2 between uses.\n\n\n\n\n\nThe CX2"
+  },
+  {
+    "objectID": "about/index.html#lab-rules",
+    "href": "about/index.html#lab-rules",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "Lab Rules",
+    "text": "Lab Rules\nThe following rules apply to the lab, both physically and virtually.\n\nGeneral use of the MA{VR}X Lab is available free of charge for all University of Arizona community members.\nAll equipment usage must be scheduled and booked ahead of time. Walk-ins, while permitted, do not take priority over scheduled events or activities.\nAsk the lab staff if you wish to move any tables, equipment, cables, and so on.\nNo food or open drink containers allowed in the lab.\nCopyright infringement is prohibited.\nBringing your own equipment is permitted and encouraged.\nAny software installed on lab equipment requires staff approval.\nAll University of Arizona Code of Conduct policies also apply within the lab."
+  },
+  {
+    "objectID": "about/index.html#safety-disclaimer",
+    "href": "about/index.html#safety-disclaimer",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "Safety Disclaimer",
+    "text": "Safety Disclaimer\nAll participants involved in MA{VR}X Lab activities are required to acknowledge the following safety disclaimer.\n\nPlease be aware that using a virtual reality headset (such as the HTC Vive or Oculus Rift) may cause dizziness, headaches, disorientation, and seizures. Individuals who are prone to motion sickness may experience discomfort when using a virtual reality headset, as some experiences involve varying degrees of movement and motion.\nShould you experience any of the above symptoms or begin to feel uncomfortable with completing a virtual reality experience, remove the headset immediately and one of the lab or other staff members will assist you.\nDue to the immersive nature of virtual reality, it is also possible to lose awareness of your surroundings while engaged in an experience. Because of this, when wearing the headset please be cautious of other people, equipment, and/or miscellaneous items that may be within your immediate surroundings to avoid any unnecessary bodily injuries or damage to equipment."
+  },
+  {
+    "objectID": "about/index.html#where-is-the-mavrx-lab",
+    "href": "about/index.html#where-is-the-mavrx-lab",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "Where is the MA{VR}X Lab?",
+    "text": "Where is the MA{VR}X Lab?\nTwo places! The primary lab is located in the College of Applied Science and Technology on the University of Arizona Sierra Vista campus.\n\n\n\n\n\n\nYou can also find a satellite lab on the Yuma campus."
+  },
+  {
+    "objectID": "about/index.html#what-are-the-labs-hours-of-operation",
+    "href": "about/index.html#what-are-the-labs-hours-of-operation",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "What are the lab’s hours of operation?",
+    "text": "What are the lab’s hours of operation?\nDue to the varying projects ongoing that the lab is involved in, time is available only via appointment. Please contact MAVRX-Lab@arizona.edu to schedule time to work in the lab or book equipment."
+  },
+  {
+    "objectID": "about/index.html#what-equipment-does-the-lab-have",
+    "href": "about/index.html#what-equipment-does-the-lab-have",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "What equipment does the lab have?",
+    "text": "What equipment does the lab have?\nYou can see a running list of the available hardware, software, and games on the Lab Resources page."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nSubmitting a Project to the Lab\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nNew Year, New(sletter)!\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nPatterson Observatory 3D tour\n\n\n\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nIntroducing Proof of Attendance Protocol (POAP)\n\n\nA Brief Introduction\n\n\n\n\nPOAP\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nWhat is the MA{VR}X Lab?\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJul 21, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nCapturing Groth Hall\n\n\n3D Scanning for the 30th Anniversary\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nJun 14, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nA Philosophy of Technology and Education in the Metaverse\n\n\n\n\n\nExperience and education in the metaverse is, without fail, mediated by technology at some point. As we move further into a pervasive and ubiquitous metaversal landscape, it is crucial we consider these experiences as experiences, filters, and knowledge-generating moments in time that, while virtual, have real-world impacts. In this session, Dr. Ryan Straight, honors professor and lab director at the University of Arizona’s College of Applied Science and Technology will discuss the ways in which understanding these mediations leads to better teaching, better learning, and a more equitable experience for all.\n\n\n\n\n\n\nNov 13, 2022\n\n\n\n\n\n\n  \n\n\n\n\nWeb3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future\n\n\n\n\n\nThe internet is changing and online learning will necessarily change with it. Terms like ‘crypto,’ ‘blockchain,’ ‘NFT,’ ‘DAO,’ and ‘Web3’ are possibly not entirely new to you, but do you know what to expect when these stop being theoretical and become infused into the very bedrock of online learning? Join our panel of experts and educators to help answer questions like ‘What problem does this solve?,’ ‘What value does this add?,’ ‘How does it work?,’ and ‘What does it even do?’\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nKaru: Introducing the Metaversal Library for the Future of Immersive Learning\n\n\n\n\n\nAs education moves inexorably toward fully immersive, connected experiences, it is important to ensure openness, transparency, and collaboration. Karu (formerly XRpedia, the eXtended Reality encyclopedia) is an ongoing project that seeks to do precisely that. This session will introduce the project, its motivation, and the roadmap ahead.\n\n\n\n\n\n\nApr 13, 2022\n\n\n\n\n\n\n  \n\n\n\n\nSimulation, Immersion, and Gamification\n\n\n\n\n\nAs the real and virtual worlds continue to intertwine, we are reorienting ourselves to the notion of serious play, and to the value of simulation, immersion, and game-based learning. In this webinar, our expert panelists will explore the emergent possibilities and exciting teaching, learning, and doing taking place through immersive, virtual experiences.\n\n\n\n\n\n\nJan 10, 2022\n\n\n\n\n\n\n  \n\n\n\n\nBusiness at Twilight: Come visit the lab!\n\n\n\n\n\nThe University of Arizona’s College of Applied Science and Technology is partnering with the Sierra Vista Chamber of Commerce to host an evening on our campus for building relationships through networking with chamber members, University of Arizona faculty and staff, and other community leaders. The MA{VR}X Lab is participating, exhibiting a range of augmented, virtual, and extended reality experiences. Visitors will have the opportunity to fly over Mt. Fuji in Japan, get up close and personal with a blue whale, hold Jupiter in their hands, paint graffiti in thin air, and box in Egypt.\n\n\n\n\n\n\nNov 18, 2021\n\n\n\n\n\n\n  \n\n\n\n\nDr. Straight at Virtual Worlds Forum\n\n\n\n\n\nThe theme of this event was Into the Metaverse. As more of the “big-hitters” in the extended reality (XR) Industry express their vision, interest, and investment in the next disruptive platform, the “Metaverse” has become a common expression of what that will be. How that will impact the way people learn, train, live, work, socialize, travel, and entertain within the next decade is important for us to understand, prepare for, and leverage.\n\n\n\n\n\n\nNov 4, 2021\n\n\n\n\n\n\n  \n\n\n\n\nVirtually Dining Under the Stars\n\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2021\n\n\n\n\n\n\n  \n\n\n\n\nTechnological Mediation: A Postphenomenology Primer for Instructors, Designers, and More\n\n\n\n\n\nPostphenomenology isn’t just the biggest word at the conference; it’s also one of the most useful tools for understanding the deep and complex web of relationships between instructors, designers, students, content, and technology. If you’ve felt like something’s missing in designing online learning, this just may be it.\n\n\n\n\n\n\nSep 21, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Available Lab Resources",
+    "section": "",
+    "text": "So you want to try out some virtual reality equipment, or perhaps you need a place to develop graphics or video. The MA{VR}X Lab provides the space and equipment to do this free of charge to all students, staff, and faculty at the University of Arizona. Those outside the university community and established collaborators may still request access to lab resources. Please follow the participation guidance.\nHere is a(n incomplete and ever-growing) list of different resources available within the MA{VR}X Lab. Stations, equipment, and other resources can be reserved using our reservation platform. Please email MAVRX-Lab@arizona.edu for access."
+  },
+  {
+    "objectID": "resources/index.html#headsets-and-related-gear",
+    "href": "resources/index.html#headsets-and-related-gear",
+    "title": "Available Lab Resources",
+    "section": "Headsets and Related Gear",
+    "text": "Headsets and Related Gear\n\nHTC Vive kit (x3)\nMERGE Cube & Headset kit\nMicrosoft HoloLens 1 (x3)\nMicrosoft HoloLens 2 (x1)\nOculus Rift (x3)\nOculus Quest (x3)\nOculus Quest 2 (x1)\nOculus Go (x1)\nValve Index (x1)\n\n\nOther Equipment\n\nApple iPads (x2)\nApple iPad Pro (x1)\nCanon EOS Rebel T6 DSLR kit\nCleanbox CX2\nDouble3 Telepresence Robots (x2)\nInsta360 ONE X camera kit\nMatterport Pro2 3D Camera (x1)\nZoom H6 audio recorder/interface"
+  },
+  {
+    "objectID": "resources/index.html#work-stations",
+    "href": "resources/index.html#work-stations",
+    "title": "Available Lab Resources",
+    "section": "Work Stations",
+    "text": "Work Stations\n\nWorkstation 1\nThis workstation has the following equipment and must be reserved together:\n\nAlienware laptop\n65” Samsung SmartTV\n\n\n\nWorkstation 2\n\nMantis CUK gaming PC\nDual monitors\nExternal webcam\n75” Samsung SmartTV\n\n\n\nWorkstation 3\n\niMac\n\n\n\nWorkstation 4\n(This workstation is on a cart and can also be used for streaming.)\n\nMSI GT-75 Titan laptop\nWebcam\nExternal speakers\nBroadcast microphone"
+  },
+  {
+    "objectID": "resources/index.html#games-and-experiences",
+    "href": "resources/index.html#games-and-experiences",
+    "title": "Available Lab Resources",
+    "section": "Games and Experiences",
+    "text": "Games and Experiences\n\nA Chair in a Room: Greenwater - VR Horror - Original Indie Virtual Reality Scares\nAffected - The Virtual Reality Horror Experience\nCosmodread – A VR survival horror roguelike\nGoogle Earth VR\nHinge VR\nLayers of Fear VR on Steam\nMicrosoft Flight Simulator\nParanormal Activity: The Lost Soul - Virtual Reality Game\nPhasmophobia\nSpace Engine – the universe simulator\nSupernatural\nTheBlu\nExorcist: Legion\nThe Forest | Endnight Games\nThe Lab on Steam\nTransference | Ubisoft (UK)\nWraith: The Oblivion - Afterlife\n\n\nNon-VR Games\n\nAmnesia: A Machine for Pigs\nAmnesia: The Dark Descent\nClaire\nDark Fall: Lost Souls\nDark Fall 1: The Journal\nDark Fall 2: Lights Out\nDeadly Premonition\nDreadOut\nDreamfall: The Longest Journey\nDreamfall Chapters\nExo One: Prologue\nExplore Fushimi Inari\nGone Home\nGrimm\nKinoko\nLucius\nNever Alone (Kisima Ingitchuna)\nNeverending Nightmares\nOmikron - The Nomad Soul\nPenumbra: Black Plague\nPenumbra: Overture\nPenumbra: Requiem\nSerena\nSkyrim (Special Edition)\nThe 111th Soul\nThe Imagined Leviathan\nThe Last Show of Mr. Chardish: Act I\nThe Longest Journey\nThe Stanley Parable\nThe Ultimate Doom\nUndertale\nWORLD OF HORROR"
+  },
+  {
+    "objectID": "resources/index.html#software",
+    "href": "resources/index.html#software",
+    "title": "Available Lab Resources",
+    "section": "Software",
+    "text": "Software\n\nData Analysis, Coding, and Visualization\n\nAnaconda suite\nRStudio\nRStudio Connect\n\nOnly the lab director can push content to this platform. Consultation is required before its use.\n\n\n\n\nDevelopment\n\nAdobe Creative Cloud\n\nAero\nAfter Effects\nAnimate\nAudition\nDimension\nFresco\nIllustrator\nInDesign\nPhotoshop\nPremiere Pro\nPremiere Rush\nSubstance 3D\nXD\n\nBlender\nEyeJack\nMyWebAR\nNVIDIA Omniverse\nUnity\nUnreal Engine\n\n\n\nStreaming\nThe MA{VR}X Lab also provides microphones and an audio interface for streaming interviews, gameplay, and so on.\n\nBlue Yeti microphone\nGreen screen (x2)\nLED light panels (x2)\nNVIDIA Broadcast\nOBS Studio\nRode lavaliere microphone (x2)\nRode Wireless GO II kit\n\nIncludes two wireless transmitters and one wireless receiver.\n\nStreamlabs OBS\nZoom"
+  },
+  {
+    "objectID": "posts/2021-07-21-what-is-the-mavrx-lab/index.html",
+    "href": "posts/2021-07-21-what-is-the-mavrx-lab/index.html",
+    "title": "What is the MA{VR}X Lab?",
+    "section": "",
+    "text": "The Mixed Augmented ViRtual eXtended (Reality) Laboratory (referred to as the MAVRX Lab, pronounced mavericks) is space in which we drive innovation through alternative reality modalities and research. It came about in early 2021 as an entity, though its physical location had existed for some time. MA{VR}X Lab is intended as a collaborate effort, meant to be interdisciplinary and reside in a place of praxis and innovation."
+  },
+  {
+    "objectID": "posts/2021-07-21-what-is-the-mavrx-lab/index.html#mission",
+    "href": "posts/2021-07-21-what-is-the-mavrx-lab/index.html#mission",
+    "title": "What is the MA{VR}X Lab?",
+    "section": "Mission",
+    "text": "Mission\nThe primary mission of the MA{VR}X Lab is to develop human-focused ideas through technology, transparency, and care, with a focus on extending our reality using technology and evidence-based methodology."
+  },
+  {
+    "objectID": "posts/2021-07-21-what-is-the-mavrx-lab/index.html#vision",
+    "href": "posts/2021-07-21-what-is-the-mavrx-lab/index.html#vision",
+    "title": "What is the MA{VR}X Lab?",
+    "section": "Vision",
+    "text": "Vision\nManifested in the nexus of technology research, evidence-based pedagogy, and boundary-pushing ideas, the MA{VR}X Lab will act as a space for chances to be taken, brilliance to be realized, and people to come together."
+  },
+  {
+    "objectID": "posts/2021-07-21-what-is-the-mavrx-lab/index.html#values",
+    "href": "posts/2021-07-21-what-is-the-mavrx-lab/index.html#values",
+    "title": "What is the MA{VR}X Lab?",
+    "section": "Values",
+    "text": "Values\nThe MA{VR}X Lab’s vision is one of transparency, openness, and optimism. At all possible times, we believe knowledge should be not just presented publicly but developed there, as well. We are humans. We make mistakes and we want to make them in public so others may learn. We make those on our way to create great things and help build a better future for everyone.\n\n1: Praxis (process) - Wikipedia"
+  },
+  {
+    "objectID": "posts/2021-08-10-poap/index.html",
+    "href": "posts/2021-08-10-poap/index.html",
+    "title": "Introducing Proof of Attendance Protocol (POAP)",
+    "section": "",
+    "text": "I’m strictly of the mindset that, when we talk about “virtual reality,” we need to expand our thinking beyond just headsets and floating signs. (This is one of the reasons I dubbed this lab the MA{VR}X Lab, to demonstrate that we should always consider all angles in tandem.) With the recent popularity of the metaverse concept (thanks, Zuck), a variety of issues crop up, not least of all being proof of identity and experience. Enter POAP.\nUpdate 2022-10-12: much has changed in the POAP ecosystem since this article was initially published. The growth has been exponential and the quality standards and processes have increased and changed considerably. Great news, all around!"
+  },
+  {
+    "objectID": "posts/2021-08-10-poap/index.html#what-is-poap",
+    "href": "posts/2021-08-10-poap/index.html#what-is-poap",
+    "title": "Introducing Proof of Attendance Protocol (POAP)",
+    "section": "What is POAP?",
+    "text": "What is POAP?\nPronounced “PO-app” (like the po’ boy sandwich), POAP is an acronym for Proof Of Attendance Protocol. Check out the What is POAP: Explanation of the POAP ecosystem and components, and how they all fit together article for a fantastic rundown.\n\n\n\n\n\nA Poe app. Get it? Via GIPHY\n\nEssentially, it works like this:\n\nYou’re planning an event or something similar. This could be a physical event or virtual. There are many use-cases, some of which are very creative.\nYou create a POAP event for this, listing location, dates, how long POAPs can be minted (more on this soon), and a few other details.\nThis generates codes that you provide to people that have somehow engaged with your event. (There are other ways to get POAPs to people. See the article linked above for more on this.)\nThese codes give your participants POAPs that exist on the blockchain, where they can collect them as NFTs. (Think: permanent, portable badges.)\n\nAnd that’s it! These are NFTs (non-fungible tokens) that folks can carry with them wherever they go. They are unique, they are immutable, and have at least personal value (though they are technically possible to sell but, even then, there’s a paper trail, as it were, on the blockchain of where it came from and who has had it), though having professional value is not unrealistic, as these can be awarded for professional development experiences just as much as concerts or art gallery openings.\nFor example, I made a UAAppComp “test” event just to give it a whirl. I received the links to the POAPs shortly after, and this is what it looks like for someone who was given a link (or scanned a QR code at your event):\n\n\n\nPOAP example\n\n\nAt this point the attendee puts in their Ethereum address or email and, voila, they have a POAP!\nNote: when you create or claim an NFT, this process is called “minting.” With POAPs, you can specific just when participants can do this. If you only wanted folks to be able to get their POAP during an event, sure, lock it down. If you want them to be able to mint that proof for a week after the event (or, say the event is a week long), knock yourself out. Don’t get too bogged down in the language."
+  },
+  {
+    "objectID": "posts/2021-08-10-poap/index.html#our-first-poap",
+    "href": "posts/2021-08-10-poap/index.html#our-first-poap",
+    "title": "Introducing Proof of Attendance Protocol (POAP)",
+    "section": "Our first POAP",
+    "text": "Our first POAP\nI’m currently working on creating the lab’s very first POAP (beyond the test run above). For those that have helped the lab get set up and running, provided support, or “got in on the ground floor,” as I like to think of it, there will be a special POAP just for them. As time goes on and we have more events either virtually or physically, more POAPs will become available.\nCan you tell I’m excited?\nWhen we actually start creating these and getting folks involved, I’ll probably do another post with a step-by-step on how to get them, even if you have no blockchain knowledge or experience. Watch this space!"
+  },
+  {
+    "objectID": "posts/2021-09-02-patterson-observatory-3d-tour/index.html",
+    "href": "posts/2021-09-02-patterson-observatory-3d-tour/index.html",
+    "title": "Patterson Observatory 3D tour",
+    "section": "",
+    "text": "In August of this year, we had the pleasure of spending the afternoon in the Patterson Observatory in Sierra Vista, doing a Matterport 3D scan of this incredible space.\n\nThe Patterson Observatory is owned by the University South Foundation, Inc. and operated by volunteers from the Huachuca Astronomy Club (HAC). It is named for David Patterson who was a founding member of HAC and a major Foundation donor.\nThe observatory opened in September 2004 and consists of a fork-mounted f/8.1, 20-inch Ritchey Chretien reflector under a 16-foot dome. The observatory is a NASA Space Place community partner and the focal point for astronomy outreach and education in Southeast Arizona.\n\nPatterson Observatory is a tremendously educational and entertaining experience, and providing this fully immersive, 3D educational experience goes toward making this experience wider and more accessible. You can enjoy exploring this amazing location below (put on your VR headset for the best experience possible!):\n\n\n\n\n\nCitationBibTeX citation:@online{straight2021,\n  author = {Ryan Straight},\n  title = {Patterson {Observatory} {3D} Tour},\n  date = {2021-09-20},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan Straight. 2021. “Patterson Observatory 3D Tour.”\nSeptember 20, 2021."
+  },
+  {
+    "objectID": "posts/2022-01-04-new-year-new-sletter/index.html",
+    "href": "posts/2022-01-04-new-year-new-sletter/index.html",
+    "title": "New Year, New(sletter)!",
+    "section": "",
+    "text": "Wishing you could have more MA{VR}X Lab content? You’re in luck! We’ve begun a weekly newsletter! You can subscribe to MetaMeta by checking out the Newsletter tab or visiting https://www.getrevue.co/profile/metameta\n\n\n\nCitationBibTeX citation:@online{straight2022,\n  author = {Ryan Straight},\n  title = {New {Year,} {New(sletter)!}},\n  date = {2022-01-04},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan Straight. 2022. “New Year, New(sletter)!” January 4,\n2022."
+  },
+  {
+    "objectID": "posts/2022-02-10-project-submission/index.html",
+    "href": "posts/2022-02-10-project-submission/index.html",
+    "title": "Submitting a Project to the Lab",
+    "section": "",
+    "text": "The entire reason the MA{VR}X Lab exists is to produce human-focused and applied research products and services. To that end, we encourage project submissions, so we can help however possible, whether that’s providing consultation, advising, equipment, software, or just a place to work.\n What kinds of projects does the lab accept?\nWe are currently open to pretty much anything but are focusing on VR and AR projects as that is what the lab is currently equipped for.\n Does my project idea have to be fleshed out or funded?\nNeither! Obviously, if your project is funded and you want to partner with the lab, that’s fantastic. If you’re just in the initial ideation stage, that’s also great. We’re here to help.\n I’m a student in (insert class or independent study here) and have a project idea that involves (VR/AR/XR/etc). Can I work with the lab on this?\nAbsolutely! For students that aren’t working for or in the lab, this is actually ideal. Work with your instructor before submitting a project.\n How do I submit a project to the lab?\nUse this form to submit a project. Submissions are currently only open to those in the University of Arizona community. If you are outside the institution, you’ll need your UArizona sponsor/collaborator to submit the project. Alternately, scan this QR code:\n\n\n\n\n\nProject submission QR code.\n\n\n\n\n I’ve submitted a project. What’s next?\nUpon submitting the project, one of the lab staff will verify it and add it to the project tracker. You are then free to schedule time in the lab, request support, and do whatever else you need to do for your project. You will be assigned a lab worker as a point-of-contact that can help you schedule time, work with equipment, and so on.\n Where’s the project tracker?\nThe project tracker is a Microsoft List that’s tied to our lab’s Microsoft Team. Once you’ve been added to the Team, you’ll have access to and find the Project Tracker tab in the project-updates channel. If you’ve submitted a project and it’s been approved, you’ll receive an email with a link to edit your own projects within that List.\n\n\n\nCitationBibTeX citation:@online{straight2022,\n  author = {Ryan Straight},\n  title = {Submitting a {Project} to the {Lab}},\n  date = {2022-02-10},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan Straight. 2022. “Submitting a Project to the Lab.”\nFebruary 10, 2022."
+  }
+]
