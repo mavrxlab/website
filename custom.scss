@@ -1,0 +1,20 @@
+/* bootstrap */
+<link rel="stylesheet" href="https://cdn.digital.arizona.edu/lib/arizona-bootstrap/2.0.19/css/arizona-bootstrap.min.css" crossorigin="anonymous">
+
+/* font styles */
+
+$font-family-sans-serif:
+proxima-nova,
+calibri,
+// Safari for macOS and iOS (San Francisco)
+-apple-system,
+// Chrome < 56 for macOS (San Francisco)
+BlinkMacSystemFont,
+// Windows
+"Segoe UI",
+// Android
+Roboto,
+// Basic web fallback
+"Helvetica Neue", Arial, sans-serif,
+// Emoji fonts
+"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;

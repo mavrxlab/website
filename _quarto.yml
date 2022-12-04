@@ -2,9 +2,12 @@ project:
   type: website
   output-dir: public
 
+title-block-style: default
+title-block-banner: true
+
 website:
   title: "MA{VR}X Lab"
-  reader-mode: true
+  reader-mode: false
   navbar:
     left:
       - href: index.qmd
@@ -26,9 +29,14 @@ website:
         href: https://hci.social/@mavrxlab/
 format:
   html:
-    theme: minimal
+#    theme: materia
     css: styles.css
     toc: true
+    include-in-header:
+      - fonts.html
+    citations-hover: true
+    footnotes-hover: true
+
 
 
 

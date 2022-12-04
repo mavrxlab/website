@@ -1,17 +1,45 @@
 [
   {
-    "objectID": "events/ac22-ed3/index.html",
-    "href": "events/ac22-ed3/index.html",
-    "title": "Web3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Lab Safety, Policies, and FAQ",
     "section": "",
-    "text": "The director of the MA{VR}X Lab, Dr. Ryan Straight will be hosting a panel at this year’s Online Learning Consortium’s Accelerate conference.\nThe conference is run on Eastern Daylight Time (UTC-04)."
+    "text": "The MA{VR}X Lab should be a fun, educational, and inspiring experience for everyone. Here’s how we make sure that happens.\nWe are taking the following precautions to prioritize the health of everyone involved, both lab staff and participants:\nPlease note: appointments are required for all in-person MA{VR}X Lab activities, events, and experiences unless otherwise specified!\nDue to COVID-19, the MA{VR}X Lab–while encouraging participation and free use–is open only by appointment and for a limited number of simultaneous users. Contact MAVRX-Lab@arizona.edu to schedule time or equipment rental.\nThe lab is large enough that social distancing can be maintained to the degree required by the university. However, masks are required at all times in the lab when social distancing cannot be observed. Those using headsets will be provided disposable mask guards to use and equipment is sanitized in a UV-C Cleanbox CX2 between uses.\n\n\n\n\n\nThe CX2"
   },
   {
-    "objectID": "events/ac22-ed3/index.html#slides",
-    "href": "events/ac22-ed3/index.html#slides",
-    "title": "Web3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future",
-    "section": "Slides",
-    "text": "Slides\nFeel free to enjoy the slide deck made with Quarto.\n\nFull Abstract\nWith the shifting fundamental, underlying structures of how online learning is designed and delivered, it is important for educators, researchers, instructional designers, even leaders and students to understand just what this means and how to prepare. There is widespread confusion and concern over the (what many see as inevitable) move into a decentralized, transparent internet and what that could mean for online education if not approached with care, consideration, and intention. For example, how does one approach designing instruction for decentralized delivery and facilitation? What does that even mean? Isn’t a wallet just the same as a portfolio? What happens when there is no centralized, gated vault of knowledge, but rather a democratized outpouring of it? And how do we address authenticity and accountability? This discussion seeks to move beyond simply the excitement of the potentials of Web3 and address possible concerns and criticisms, as well. The Web3 space has a very steep learning curve, something this panel hopes to flatten at least in the online learning space. In short, the goal is to, to quote one of our panelists, “Discern signal from noise.”\nThe panel will have a set number of groundwork-setting topics and questions but will be open to questions from the audience. In fact, this is highly encouraged. As per usual, attendees will be able to submit questions throughout the discussion and the moderator will do their best to get to them.\nGiven the relatively short timeframe for the session and the likelihood of being able to answer everyone’s questions during, attendees of this session will be invited to a growing, vibrant community of educators, researchers, and leaders in the Web3 space with a focus on not just “doing Web3,” but doing it right, where the conversation can continue and grow. Attendees will also leave with a working understanding of what these concepts actually mean and the ability to engage authentically in the conversations that will inevitably arise. Finally, attendees will leave with their (likely) first true engagement with the Web3 ecosystem: an NFT! (No annoyed monkeys, we promise. And if you a) don’t know what that is, or b) are skeptical about it, this is definitely the panel for you!)"
+    "objectID": "about/index.html#lab-rules",
+    "href": "about/index.html#lab-rules",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "Lab Rules",
+    "text": "Lab Rules\nThe following rules apply to the lab, both physically and virtually.\n\nGeneral use of the MA{VR}X Lab is available free of charge for all University of Arizona community members.\nAll equipment usage must be scheduled and booked ahead of time. Walk-ins, while permitted, do not take priority over scheduled events or activities.\nAsk the lab staff if you wish to move any tables, equipment, cables, and so on.\nNo food or open drink containers allowed in the lab.\nCopyright infringement is prohibited.\nBringing your own equipment is permitted and encouraged.\nAny software installed on lab equipment requires staff approval.\nAll University of Arizona Code of Conduct policies also apply within the lab."
+  },
+  {
+    "objectID": "about/index.html#safety-disclaimer",
+    "href": "about/index.html#safety-disclaimer",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "Safety Disclaimer",
+    "text": "Safety Disclaimer\nAll participants involved in MA{VR}X Lab activities are required to acknowledge the following safety disclaimer.\n\nPlease be aware that using a virtual reality headset (such as the HTC Vive or Oculus Rift) may cause dizziness, headaches, disorientation, and seizures. Individuals who are prone to motion sickness may experience discomfort when using a virtual reality headset, as some experiences involve varying degrees of movement and motion.\nShould you experience any of the above symptoms or begin to feel uncomfortable with completing a virtual reality experience, remove the headset immediately and one of the lab or other staff members will assist you.\nDue to the immersive nature of virtual reality, it is also possible to lose awareness of your surroundings while engaged in an experience. Because of this, when wearing the headset please be cautious of other people, equipment, and/or miscellaneous items that may be within your immediate surroundings to avoid any unnecessary bodily injuries or damage to equipment."
+  },
+  {
+    "objectID": "about/index.html#where-is-the-mavrx-lab",
+    "href": "about/index.html#where-is-the-mavrx-lab",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "Where is the MA{VR}X Lab?",
+    "text": "Where is the MA{VR}X Lab?\nTwo places! The primary lab is located in the College of Applied Science and Technology on the University of Arizona Sierra Vista campus.\n\n\n\n\n\n\nYou can also find a satellite lab on the Yuma campus."
+  },
+  {
+    "objectID": "about/index.html#what-are-the-labs-hours-of-operation",
+    "href": "about/index.html#what-are-the-labs-hours-of-operation",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "What are the lab’s hours of operation?",
+    "text": "What are the lab’s hours of operation?\nDue to the varying projects ongoing that the lab is involved in, time is available only via appointment. Please contact MAVRX-Lab@arizona.edu to schedule time to work in the lab or book equipment."
+  },
+  {
+    "objectID": "about/index.html#what-equipment-does-the-lab-have",
+    "href": "about/index.html#what-equipment-does-the-lab-have",
+    "title": "Lab Safety, Policies, and FAQ",
+    "section": "What equipment does the lab have?",
+    "text": "What equipment does the lab have?\nYou can see a running list of the available hardware, software, and games on the Lab Resources page."
   },
   {
     "objectID": "events/2021-dine_under_the_stars/index.html",
@@ -110,6 +138,20 @@
     "title": "",
     "section": "That’s a wrap!",
     "text": "That’s a wrap!\nThank you for coming! Find out more at:\n\n\nMA{VR}X Lab\nhttps://mavrxlab.org\nhttps://ryanstraight.com\n\n\nEd3DAO\nhttps://ed3dao.com\n@ed3dao\n\n\n\n\n\n@ryanstraight – @barberification – @DaganBernstein – @EdTechPeck"
+  },
+  {
+    "objectID": "events/ac22-ed3/index.html",
+    "href": "events/ac22-ed3/index.html",
+    "title": "Web3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future",
+    "section": "",
+    "text": "The director of the MA{VR}X Lab, Dr. Ryan Straight will be hosting a panel at this year’s Online Learning Consortium’s Accelerate conference.\nThe conference is run on Eastern Daylight Time (UTC-04)."
+  },
+  {
+    "objectID": "events/ac22-ed3/index.html#slides",
+    "href": "events/ac22-ed3/index.html#slides",
+    "title": "Web3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future",
+    "section": "Slides",
+    "text": "Slides\nFeel free to enjoy the slide deck made with Quarto.\n\nFull Abstract\nWith the shifting fundamental, underlying structures of how online learning is designed and delivered, it is important for educators, researchers, instructional designers, even leaders and students to understand just what this means and how to prepare. There is widespread confusion and concern over the (what many see as inevitable) move into a decentralized, transparent internet and what that could mean for online education if not approached with care, consideration, and intention. For example, how does one approach designing instruction for decentralized delivery and facilitation? What does that even mean? Isn’t a wallet just the same as a portfolio? What happens when there is no centralized, gated vault of knowledge, but rather a democratized outpouring of it? And how do we address authenticity and accountability? This discussion seeks to move beyond simply the excitement of the potentials of Web3 and address possible concerns and criticisms, as well. The Web3 space has a very steep learning curve, something this panel hopes to flatten at least in the online learning space. In short, the goal is to, to quote one of our panelists, “Discern signal from noise.”\nThe panel will have a set number of groundwork-setting topics and questions but will be open to questions from the audience. In fact, this is highly encouraged. As per usual, attendees will be able to submit questions throughout the discussion and the moderator will do their best to get to them.\nGiven the relatively short timeframe for the session and the likelihood of being able to answer everyone’s questions during, attendees of this session will be invited to a growing, vibrant community of educators, researchers, and leaders in the Web3 space with a focus on not just “doing Web3,” but doing it right, where the conversation can continue and grow. Attendees will also leave with a working understanding of what these concepts actually mean and the ability to engage authentically in the conversations that will inevitably arise. Finally, attendees will leave with their (likely) first true engagement with the Web3 ecosystem: an NFT! (No annoyed monkeys, we promise. And if you a) don’t know what that is, or b) are skeptical about it, this is definitely the panel for you!)"
   },
   {
     "objectID": "events/business-at-twilight-2021/index.html",
@@ -490,62 +532,6 @@
     "text": "Dr. Straight gave an introduction to a secret project at the 2021 Virtual Worlds Forum, an invite-only event to engage government, higher education, industry, and the military in all things XR."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MA{VR}X Lab",
-    "section": "",
-    "text": "The Mixed Augmented ViRtual eXtended (Reality) Laboratory in the College of Applied Science & Technology is the University of Arizona’s center of research and development for alternative reality media and training in southeastern Arizona."
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Lab Safety, Policies, and FAQ",
-    "section": "",
-    "text": "The MA{VR}X Lab should be a fun, educational, and inspiring experience for everyone. Here’s how we make sure that happens.\nWe are taking the following precautions to prioritize the health of everyone involved, both lab staff and participants:\nPlease note: appointments are required for all in-person MA{VR}X Lab activities, events, and experiences unless otherwise specified!\nDue to COVID-19, the MA{VR}X Lab–while encouraging participation and free use–is open only by appointment and for a limited number of simultaneous users. Contact MAVRX-Lab@arizona.edu to schedule time or equipment rental.\nThe lab is large enough that social distancing can be maintained to the degree required by the university. However, masks are required at all times in the lab when social distancing cannot be observed. Those using headsets will be provided disposable mask guards to use and equipment is sanitized in a UV-C Cleanbox CX2 between uses.\n\n\n\n\n\nThe CX2"
-  },
-  {
-    "objectID": "about/index.html#lab-rules",
-    "href": "about/index.html#lab-rules",
-    "title": "Lab Safety, Policies, and FAQ",
-    "section": "Lab Rules",
-    "text": "Lab Rules\nThe following rules apply to the lab, both physically and virtually.\n\nGeneral use of the MA{VR}X Lab is available free of charge for all University of Arizona community members.\nAll equipment usage must be scheduled and booked ahead of time. Walk-ins, while permitted, do not take priority over scheduled events or activities.\nAsk the lab staff if you wish to move any tables, equipment, cables, and so on.\nNo food or open drink containers allowed in the lab.\nCopyright infringement is prohibited.\nBringing your own equipment is permitted and encouraged.\nAny software installed on lab equipment requires staff approval.\nAll University of Arizona Code of Conduct policies also apply within the lab."
-  },
-  {
-    "objectID": "about/index.html#safety-disclaimer",
-    "href": "about/index.html#safety-disclaimer",
-    "title": "Lab Safety, Policies, and FAQ",
-    "section": "Safety Disclaimer",
-    "text": "Safety Disclaimer\nAll participants involved in MA{VR}X Lab activities are required to acknowledge the following safety disclaimer.\n\nPlease be aware that using a virtual reality headset (such as the HTC Vive or Oculus Rift) may cause dizziness, headaches, disorientation, and seizures. Individuals who are prone to motion sickness may experience discomfort when using a virtual reality headset, as some experiences involve varying degrees of movement and motion.\nShould you experience any of the above symptoms or begin to feel uncomfortable with completing a virtual reality experience, remove the headset immediately and one of the lab or other staff members will assist you.\nDue to the immersive nature of virtual reality, it is also possible to lose awareness of your surroundings while engaged in an experience. Because of this, when wearing the headset please be cautious of other people, equipment, and/or miscellaneous items that may be within your immediate surroundings to avoid any unnecessary bodily injuries or damage to equipment."
-  },
-  {
-    "objectID": "about/index.html#where-is-the-mavrx-lab",
-    "href": "about/index.html#where-is-the-mavrx-lab",
-    "title": "Lab Safety, Policies, and FAQ",
-    "section": "Where is the MA{VR}X Lab?",
-    "text": "Where is the MA{VR}X Lab?\nTwo places! The primary lab is located in the College of Applied Science and Technology on the University of Arizona Sierra Vista campus.\n\n\n\n\n\n\nYou can also find a satellite lab on the Yuma campus."
-  },
-  {
-    "objectID": "about/index.html#what-are-the-labs-hours-of-operation",
-    "href": "about/index.html#what-are-the-labs-hours-of-operation",
-    "title": "Lab Safety, Policies, and FAQ",
-    "section": "What are the lab’s hours of operation?",
-    "text": "What are the lab’s hours of operation?\nDue to the varying projects ongoing that the lab is involved in, time is available only via appointment. Please contact MAVRX-Lab@arizona.edu to schedule time to work in the lab or book equipment."
-  },
-  {
-    "objectID": "about/index.html#what-equipment-does-the-lab-have",
-    "href": "about/index.html#what-equipment-does-the-lab-have",
-    "title": "Lab Safety, Policies, and FAQ",
-    "section": "What equipment does the lab have?",
-    "text": "What equipment does the lab have?\nYou can see a running list of the available hardware, software, and games on the Lab Resources page."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nSubmitting a Project to the Lab\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nNew Year, New(sletter)!\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nPatterson Observatory 3D tour\n\n\n\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nIntroducing Proof of Attendance Protocol (POAP)\n\n\nA Brief Introduction\n\n\n\n\nPOAP\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nWhat is the MA{VR}X Lab?\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJul 21, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nCapturing Groth Hall\n\n\n3D Scanning for the 30th Anniversary\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nJun 14, 2021\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events",
@@ -553,39 +539,32 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nA Philosophy of Technology and Education in the Metaverse\n\n\n\n\n\nExperience and education in the metaverse is, without fail, mediated by technology at some point. As we move further into a pervasive and ubiquitous metaversal landscape, it is crucial we consider these experiences as experiences, filters, and knowledge-generating moments in time that, while virtual, have real-world impacts. In this session, Dr. Ryan Straight, honors professor and lab director at the University of Arizona’s College of Applied Science and Technology will discuss the ways in which understanding these mediations leads to better teaching, better learning, and a more equitable experience for all.\n\n\n\n\n\n\nNov 13, 2022\n\n\n\n\n\n\n  \n\n\n\n\nWeb3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future\n\n\n\n\n\nThe internet is changing and online learning will necessarily change with it. Terms like ‘crypto,’ ‘blockchain,’ ‘NFT,’ ‘DAO,’ and ‘Web3’ are possibly not entirely new to you, but do you know what to expect when these stop being theoretical and become infused into the very bedrock of online learning? Join our panel of experts and educators to help answer questions like ‘What problem does this solve?,’ ‘What value does this add?,’ ‘How does it work?,’ and ‘What does it even do?’\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nKaru: Introducing the Metaversal Library for the Future of Immersive Learning\n\n\n\n\n\nAs education moves inexorably toward fully immersive, connected experiences, it is important to ensure openness, transparency, and collaboration. Karu (formerly XRpedia, the eXtended Reality encyclopedia) is an ongoing project that seeks to do precisely that. This session will introduce the project, its motivation, and the roadmap ahead.\n\n\n\n\n\n\nApr 13, 2022\n\n\n\n\n\n\n  \n\n\n\n\nSimulation, Immersion, and Gamification\n\n\n\n\n\nAs the real and virtual worlds continue to intertwine, we are reorienting ourselves to the notion of serious play, and to the value of simulation, immersion, and game-based learning. In this webinar, our expert panelists will explore the emergent possibilities and exciting teaching, learning, and doing taking place through immersive, virtual experiences.\n\n\n\n\n\n\nJan 10, 2022\n\n\n\n\n\n\n  \n\n\n\n\nBusiness at Twilight: Come visit the lab!\n\n\n\n\n\nThe University of Arizona’s College of Applied Science and Technology is partnering with the Sierra Vista Chamber of Commerce to host an evening on our campus for building relationships through networking with chamber members, University of Arizona faculty and staff, and other community leaders. The MA{VR}X Lab is participating, exhibiting a range of augmented, virtual, and extended reality experiences. Visitors will have the opportunity to fly over Mt. Fuji in Japan, get up close and personal with a blue whale, hold Jupiter in their hands, paint graffiti in thin air, and box in Egypt.\n\n\n\n\n\n\nNov 18, 2021\n\n\n\n\n\n\n  \n\n\n\n\nDr. Straight at Virtual Worlds Forum\n\n\n\n\n\nThe theme of this event was Into the Metaverse. As more of the “big-hitters” in the extended reality (XR) Industry express their vision, interest, and investment in the next disruptive platform, the “Metaverse” has become a common expression of what that will be. How that will impact the way people learn, train, live, work, socialize, travel, and entertain within the next decade is important for us to understand, prepare for, and leverage.\n\n\n\n\n\n\nNov 4, 2021\n\n\n\n\n\n\n  \n\n\n\n\nVirtually Dining Under the Stars\n\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2021\n\n\n\n\n\n\n  \n\n\n\n\nTechnological Mediation: A Postphenomenology Primer for Instructors, Designers, and More\n\n\n\n\n\nPostphenomenology isn’t just the biggest word at the conference; it’s also one of the most useful tools for understanding the deep and complex web of relationships between instructors, designers, students, content, and technology. If you’ve felt like something’s missing in designing online learning, this just may be it.\n\n\n\n\n\n\nSep 21, 2021\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Available Lab Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MA{VR}X Lab",
     "section": "",
-    "text": "So you want to try out some virtual reality equipment, or perhaps you need a place to develop graphics or video. The MA{VR}X Lab provides the space and equipment to do this free of charge to all students, staff, and faculty at the University of Arizona. Those outside the university community and established collaborators may still request access to lab resources. Please follow the participation guidance.\nHere is a(n incomplete and ever-growing) list of different resources available within the MA{VR}X Lab. Stations, equipment, and other resources can be reserved using our reservation platform. Please email MAVRX-Lab@arizona.edu for access."
+    "text": "The Mixed Augmented ViRtual eXtended (Reality) Laboratory in the College of Applied Science & Technology is the University of Arizona’s center of research and development for alternative reality media and training in southeastern Arizona."
   },
   {
-    "objectID": "resources/index.html#headsets-and-related-gear",
-    "href": "resources/index.html#headsets-and-related-gear",
-    "title": "Available Lab Resources",
-    "section": "Headsets and Related Gear",
-    "text": "Headsets and Related Gear\n\nHTC Vive kit (x3)\nMERGE Cube & Headset kit\nMicrosoft HoloLens 1 (x3)\nMicrosoft HoloLens 2 (x1)\nOculus Rift (x3)\nOculus Quest (x3)\nOculus Quest 2 (x1)\nOculus Go (x1)\nValve Index (x1)\n\n\nOther Equipment\n\nApple iPads (x2)\nApple iPad Pro (x1)\nCanon EOS Rebel T6 DSLR kit\nCleanbox CX2\nDouble3 Telepresence Robots (x2)\nInsta360 ONE X camera kit\nMatterport Pro2 3D Camera (x1)\nZoom H6 audio recorder/interface"
+    "objectID": "posts/2021-06-14-capturing-groth-hall/index.html",
+    "href": "posts/2021-06-14-capturing-groth-hall/index.html",
+    "title": "Capturing Groth Hall",
+    "section": "",
+    "text": "I’m collaborating with the VR lab at the Fort Huachuca US Army Base on a few different projects but this was one we could bust out pretty quick just to get something on the books. So, the MA{VR}X Lab’s very first official project: the Groth Hall renovation scan!"
   },
   {
-    "objectID": "resources/index.html#work-stations",
-    "href": "resources/index.html#work-stations",
-    "title": "Available Lab Resources",
-    "section": "Work Stations",
-    "text": "Work Stations\n\nWorkstation 1\nThis workstation has the following equipment and must be reserved together:\n\nAlienware laptop\n65” Samsung SmartTV\n\n\n\nWorkstation 2\n\nMantis CUK gaming PC\nDual monitors\nExternal webcam\n75” Samsung SmartTV\n\n\n\nWorkstation 3\n\niMac\n\n\n\nWorkstation 4\n(This workstation is on a cart and can also be used for streaming.)\n\nMSI GT-75 Titan laptop\nWebcam\nExternal speakers\nBroadcast microphone"
+    "objectID": "posts/2021-06-14-capturing-groth-hall/index.html#groth-hall",
+    "href": "posts/2021-06-14-capturing-groth-hall/index.html#groth-hall",
+    "title": "Capturing Groth Hall",
+    "section": "Groth Hall",
+    "text": "Groth Hall\nCurrently the administrative center of the Sierra Vista campus, Groth Hall was opened in 1993 but (I believe) the Sierra Vista campus began construction in 1988.\n\n\n\nGroth Hall, Sierra Vista campus, opened 1993\n\n\nSo, while the building does host a couple classrooms and the University South Foundation’s office, it is mostly for CAST administrative staff offices, along with the folks from the Near You (formerly Distance) Network."
   },
   {
-    "objectID": "resources/index.html#games-and-experiences",
-    "href": "resources/index.html#games-and-experiences",
-    "title": "Available Lab Resources",
-    "section": "Games and Experiences",
-    "text": "Games and Experiences\n\nA Chair in a Room: Greenwater - VR Horror - Original Indie Virtual Reality Scares\nAffected - The Virtual Reality Horror Experience\nCosmodread – A VR survival horror roguelike\nGoogle Earth VR\nHinge VR\nLayers of Fear VR on Steam\nMicrosoft Flight Simulator\nParanormal Activity: The Lost Soul - Virtual Reality Game\nPhasmophobia\nSpace Engine – the universe simulator\nSupernatural\nTheBlu\nExorcist: Legion\nThe Forest | Endnight Games\nThe Lab on Steam\nTransference | Ubisoft (UK)\nWraith: The Oblivion - Afterlife\n\n\nNon-VR Games\n\nAmnesia: A Machine for Pigs\nAmnesia: The Dark Descent\nClaire\nDark Fall: Lost Souls\nDark Fall 1: The Journal\nDark Fall 2: Lights Out\nDeadly Premonition\nDreadOut\nDreamfall: The Longest Journey\nDreamfall Chapters\nExo One: Prologue\nExplore Fushimi Inari\nGone Home\nGrimm\nKinoko\nLucius\nNever Alone (Kisima Ingitchuna)\nNeverending Nightmares\nOmikron - The Nomad Soul\nPenumbra: Black Plague\nPenumbra: Overture\nPenumbra: Requiem\nSerena\nSkyrim (Special Edition)\nThe 111th Soul\nThe Imagined Leviathan\nThe Last Show of Mr. Chardish: Act I\nThe Longest Journey\nThe Stanley Parable\nThe Ultimate Doom\nUndertale\nWORLD OF HORROR"
-  },
-  {
-    "objectID": "resources/index.html#software",
-    "href": "resources/index.html#software",
-    "title": "Available Lab Resources",
-    "section": "Software",
-    "text": "Software\n\nData Analysis, Coding, and Visualization\n\nAnaconda suite\nRStudio\nRStudio Connect\n\nOnly the lab director can push content to this platform. Consultation is required before its use.\n\n\n\n\nDevelopment\n\nAdobe Creative Cloud\n\nAero\nAfter Effects\nAnimate\nAudition\nDimension\nFresco\nIllustrator\nInDesign\nPhotoshop\nPremiere Pro\nPremiere Rush\nSubstance 3D\nXD\n\nBlender\nEyeJack\nMyWebAR\nNVIDIA Omniverse\nUnity\nUnreal Engine\n\n\n\nStreaming\nThe MA{VR}X Lab also provides microphones and an audio interface for streaming interviews, gameplay, and so on.\n\nBlue Yeti microphone\nGreen screen (x2)\nLED light panels (x2)\nNVIDIA Broadcast\nOBS Studio\nRode lavaliere microphone (x2)\nRode Wireless GO II kit\n\nIncludes two wireless transmitters and one wireless receiver.\n\nStreamlabs OBS\nZoom"
+    "objectID": "posts/2021-06-14-capturing-groth-hall/index.html#the-hardware",
+    "href": "posts/2021-06-14-capturing-groth-hall/index.html#the-hardware",
+    "title": "Capturing Groth Hall",
+    "section": "The Hardware",
+    "text": "The Hardware\nAlong with an iPad to run the Matterport application that captures the scans, we were using two cameras:\n\nMatterport Pro2\nScanning physical spaces has come a long way. Case in point, the Matterport Pro2 3D Camera:\n\n\n\n\n\nThis beast comes in at 134 megapixels.\nThe photography website Adorama has a great introductory video for the camera:\n\n\n\nLeica BLK360\nWe were also using this monster:\n\n\n\nLeica BLK360\n\n\nThe Leica BLK360 Imaging Laser Scanner is really a surveying instrument more than a traditional 360 degree camera (despite the product number).\n\nThe BLK360 is a compact imaging laser scanner that uses a 360° laser distance meter and high definition panoramic imaging to create a 3D point cloud of the space around it.\n\nThe Leica takes between 3 and 5 minutes to complete a scan depending on a few factors but we found it averaged between 4 and 4 1/2. Compared to the Matterport, that means it takes anywhere between 6 and 8 times as long to complete the scan.\nSo why use the Leica instead of the Matterport? I’ll give you a hint:\n\n\n\n\n\nvia GIPHY\n\nFirst of all, the mid-day sun is very confusing for cameras like the Matterport, as they can have a difficult time making connections with previous scan points. So, in those cases, the Leica–which is a lidar scanner, remember–works just fine in full sun.\nMostly.\nYesterday, when we were doing the Groth Hall scans–which had been planned for weeks, mind–the temperature in Sierra Vista wasn’t far behind that of Tucson, which reached 115°F (46.1°C). The Leica camera is black. We were scanning outside. Yeah.\nNeedless to say, while we did get nearly 300 scans done, we just missed out on the very last few because of the sun. Those will get completed at a later date as they’re not crucial to the building scan.\nSo, now it’s a matter of getting the 3D model uploaded and ready to work with. Here’s a little preview:\n\n\n\n\n\nGroth Hall Matterport scan\n\n\n\n\nWatch this space for more updates on the project!"
   },
   {
     "objectID": "posts/2021-07-21-what-is-the-mavrx-lab/index.html",
@@ -656,5 +635,47 @@
     "title": "Submitting a Project to the Lab",
     "section": "",
     "text": "The entire reason the MA{VR}X Lab exists is to produce human-focused and applied research products and services. To that end, we encourage project submissions, so we can help however possible, whether that’s providing consultation, advising, equipment, software, or just a place to work.\n What kinds of projects does the lab accept?\nWe are currently open to pretty much anything but are focusing on VR and AR projects as that is what the lab is currently equipped for.\n Does my project idea have to be fleshed out or funded?\nNeither! Obviously, if your project is funded and you want to partner with the lab, that’s fantastic. If you’re just in the initial ideation stage, that’s also great. We’re here to help.\n I’m a student in (insert class or independent study here) and have a project idea that involves (VR/AR/XR/etc). Can I work with the lab on this?\nAbsolutely! For students that aren’t working for or in the lab, this is actually ideal. Work with your instructor before submitting a project.\n How do I submit a project to the lab?\nUse this form to submit a project. Submissions are currently only open to those in the University of Arizona community. If you are outside the institution, you’ll need your UArizona sponsor/collaborator to submit the project. Alternately, scan this QR code:\n\n\n\n\n\nProject submission QR code.\n\n\n\n\n I’ve submitted a project. What’s next?\nUpon submitting the project, one of the lab staff will verify it and add it to the project tracker. You are then free to schedule time in the lab, request support, and do whatever else you need to do for your project. You will be assigned a lab worker as a point-of-contact that can help you schedule time, work with equipment, and so on.\n Where’s the project tracker?\nThe project tracker is a Microsoft List that’s tied to our lab’s Microsoft Team. Once you’ve been added to the Team, you’ll have access to and find the Project Tracker tab in the project-updates channel. If you’ve submitted a project and it’s been approved, you’ll receive an email with a link to edit your own projects within that List.\n\n\n\nCitationBibTeX citation:@online{straight2022,\n  author = {Ryan Straight},\n  title = {Submitting a {Project} to the {Lab}},\n  date = {2022-02-10},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan Straight. 2022. “Submitting a Project to the Lab.”\nFebruary 10, 2022."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nSubmitting a Project to the Lab\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nNew Year, New(sletter)!\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nPatterson Observatory 3D tour\n\n\n\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nIntroducing Proof of Attendance Protocol (POAP)\n\n\nA Brief Introduction\n\n\n\n\nPOAP\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nWhat is the MA{VR}X Lab?\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJul 21, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nCapturing Groth Hall\n\n\n3D Scanning for the 30th Anniversary\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nJun 14, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Available Lab Resources",
+    "section": "",
+    "text": "So you want to try out some virtual reality equipment, or perhaps you need a place to develop graphics or video. The MA{VR}X Lab provides the space and equipment to do this free of charge to all students, staff, and faculty at the University of Arizona. Those outside the university community and established collaborators may still request access to lab resources. Please follow the participation guidance.\nHere is a(n incomplete and ever-growing) list of different resources available within the MA{VR}X Lab. Stations, equipment, and other resources can be reserved using our reservation platform. Please email MAVRX-Lab@arizona.edu for access."
+  },
+  {
+    "objectID": "resources/index.html#headsets-and-related-gear",
+    "href": "resources/index.html#headsets-and-related-gear",
+    "title": "Available Lab Resources",
+    "section": "Headsets and Related Gear",
+    "text": "Headsets and Related Gear\n\nHTC Vive kit (x3)\nMERGE Cube & Headset kit\nMicrosoft HoloLens 1 (x3)\nMicrosoft HoloLens 2 (x1)\nOculus Rift (x3)\nOculus Quest (x3)\nOculus Quest 2 (x1)\nOculus Go (x1)\nValve Index (x1)\n\n\nOther Equipment\n\nApple iPads (x2)\nApple iPad Pro (x1)\nCanon EOS Rebel T6 DSLR kit\nCleanbox CX2\nDouble3 Telepresence Robots (x2)\nInsta360 ONE X camera kit\nMatterport Pro2 3D Camera (x1)\nZoom H6 audio recorder/interface"
+  },
+  {
+    "objectID": "resources/index.html#work-stations",
+    "href": "resources/index.html#work-stations",
+    "title": "Available Lab Resources",
+    "section": "Work Stations",
+    "text": "Work Stations\n\nWorkstation 1\nThis workstation has the following equipment and must be reserved together:\n\nAlienware laptop\n65” Samsung SmartTV\n\n\n\nWorkstation 2\n\nMantis CUK gaming PC\nDual monitors\nExternal webcam\n75” Samsung SmartTV\n\n\n\nWorkstation 3\n\niMac\n\n\n\nWorkstation 4\n(This workstation is on a cart and can also be used for streaming.)\n\nMSI GT-75 Titan laptop\nWebcam\nExternal speakers\nBroadcast microphone"
+  },
+  {
+    "objectID": "resources/index.html#games-and-experiences",
+    "href": "resources/index.html#games-and-experiences",
+    "title": "Available Lab Resources",
+    "section": "Games and Experiences",
+    "text": "Games and Experiences\n\nA Chair in a Room: Greenwater - VR Horror - Original Indie Virtual Reality Scares\nAffected - The Virtual Reality Horror Experience\nCosmodread – A VR survival horror roguelike\nGoogle Earth VR\nHinge VR\nLayers of Fear VR on Steam\nMicrosoft Flight Simulator\nParanormal Activity: The Lost Soul - Virtual Reality Game\nPhasmophobia\nSpace Engine – the universe simulator\nSupernatural\nTheBlu\nExorcist: Legion\nThe Forest | Endnight Games\nThe Lab on Steam\nTransference | Ubisoft (UK)\nWraith: The Oblivion - Afterlife\n\n\nNon-VR Games\n\nAmnesia: A Machine for Pigs\nAmnesia: The Dark Descent\nClaire\nDark Fall: Lost Souls\nDark Fall 1: The Journal\nDark Fall 2: Lights Out\nDeadly Premonition\nDreadOut\nDreamfall: The Longest Journey\nDreamfall Chapters\nExo One: Prologue\nExplore Fushimi Inari\nGone Home\nGrimm\nKinoko\nLucius\nNever Alone (Kisima Ingitchuna)\nNeverending Nightmares\nOmikron - The Nomad Soul\nPenumbra: Black Plague\nPenumbra: Overture\nPenumbra: Requiem\nSerena\nSkyrim (Special Edition)\nThe 111th Soul\nThe Imagined Leviathan\nThe Last Show of Mr. Chardish: Act I\nThe Longest Journey\nThe Stanley Parable\nThe Ultimate Doom\nUndertale\nWORLD OF HORROR"
+  },
+  {
+    "objectID": "resources/index.html#software",
+    "href": "resources/index.html#software",
+    "title": "Available Lab Resources",
+    "section": "Software",
+    "text": "Software\n\nData Analysis, Coding, and Visualization\n\nAnaconda suite\nRStudio\nRStudio Connect\n\nOnly the lab director can push content to this platform. Consultation is required before its use.\n\n\n\n\nDevelopment\n\nAdobe Creative Cloud\n\nAero\nAfter Effects\nAnimate\nAudition\nDimension\nFresco\nIllustrator\nInDesign\nPhotoshop\nPremiere Pro\nPremiere Rush\nSubstance 3D\nXD\n\nBlender\nEyeJack\nMyWebAR\nNVIDIA Omniverse\nUnity\nUnreal Engine\n\n\n\nStreaming\nThe MA{VR}X Lab also provides microphones and an audio interface for streaming interviews, gameplay, and so on.\n\nBlue Yeti microphone\nGreen screen (x2)\nLED light panels (x2)\nNVIDIA Broadcast\nOBS Studio\nRode lavaliere microphone (x2)\nRode Wireless GO II kit\n\nIncludes two wireless transmitters and one wireless receiver.\n\nStreamlabs OBS\nZoom"
   }
 ]

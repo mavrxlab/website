@@ -1,1 +1,25 @@
 /* css styles */
+.h1, h1 {
+  color: #FFF;
+}
+
+.h3, .h4, .h5, .h6, .text-size-h3, .text-size-h4, .text-size-h5, .text-size-h6, h3, h4, h5, h6 {
+  color: #001C48;
+}
+
+a {
+  font-weight: 400;
+}
+
+.navbar-dark {
+  background-color: #1E5288;
+}
+
+em {
+    font-style: italic;
+    color: #330005;
+}
+
+.quarto-title-banner {
+  background: #001C48;
+} 
