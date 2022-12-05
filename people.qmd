@@ -1,0 +1,38 @@
+---
+title: "People"
+page-layout: full
+title-block-banner: true
+comments: false
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+(image of director)
+:::
+
+::: {.g-col-8}
+
+## Director
+
+Ryan Straight, Ph.D  
+Associate Professor of Practice  
+Cyber Operations and Applied Computing  
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-4}
+(next person)
+:::
+
+::: {.g-col-8}
+
+## Next Person
+
+:::
+
+:::

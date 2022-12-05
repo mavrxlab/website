@@ -1,0 +1,10 @@
+---
+title: "Meta"
+summary: "Content related to the lab, itself."
+image: featured.jpeg
+draft: true
+
+---
+
+See the [MA{VR}X Lab chronology](post/chronology/).
+

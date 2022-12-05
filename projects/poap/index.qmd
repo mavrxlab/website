@@ -1,0 +1,18 @@
+---
+title: "POAP: Proof of Attendance Protocol"
+description: "Virtually proving your virtual participation in a virtual lab!"
+image: featured.png
+tags: 
+  - NFTs
+  - participation
+  - blockchain
+categories:
+  - poap
+
+---
+
+Here at the MA{VR}X Lab, we believe people should get credit for the things they do. This includes engaging with the lab! We've adopted [POAP](https://poap.xyz) as a mechanism for achieving this.
+
+What is POAP? Check out [*What is POAP?* by Cooper Turley](https://medium.com/poap/what-is-poap-d7e8fdfc207d) over on Medium. We've put together our own brief introduction, as well, that explains just how we'll be using it (or, planning to, anyway!).
+
+See the _Related_ links below that outline just how and why we're getting involved with this amazing little community-driven project.

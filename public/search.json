@@ -541,7 +541,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MA{VR}X Lab",
+    "title": "",
     "section": "",
     "text": "The Mixed Augmented ViRtual eXtended (Reality) Laboratory in the College of Applied Science & Technology is the University of Arizona’s center of research and development for alternative reality media and training in southeastern Arizona."
   },
@@ -641,7 +641,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nSubmitting a Project to the Lab\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nNew Year, New(sletter)!\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nPatterson Observatory 3D tour\n\n\n\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nIntroducing Proof of Attendance Protocol (POAP)\n\n\nA Brief Introduction\n\n\n\n\nPOAP\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nWhat is the MA{VR}X Lab?\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJul 21, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nCapturing Groth Hall\n\n\n3D Scanning for the 30th Anniversary\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nJun 14, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nSubmitting a Project to the Lab\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nNew Year, New(sletter)!\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2022\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nPatterson Observatory 3D tour\n\n\n\n\n\n\n\n3D scanning\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nIntroducing Proof of Attendance Protocol (POAP)\n\n\nA Brief Introduction\n\n\n\n\nPOAP\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nWhat is the MA{VR}X Lab?\n\n\n\n\n\n\n\nmeta\n\n\n\n\n\n\n\n\n\n\n\nJul 21, 2021\n\n\nRyan Straight\n\n\n\n\n\n\n  \n\n\n\n\nCapturing Groth Hall\n\n\n3D Scanning for the 30th Anniversary\n\n\n\n\n3D scanning\n\n\n\n\nDocumenting the process of performing a 3D scan of an entire building using the Matterport camera.\n\n\n\n\n\n\nJun 14, 2021\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources/index.html",
@@ -677,5 +677,47 @@
     "title": "Available Lab Resources",
     "section": "Software",
     "text": "Software\n\nData Analysis, Coding, and Visualization\n\nAnaconda suite\nRStudio\nRStudio Connect\n\nOnly the lab director can push content to this platform. Consultation is required before its use.\n\n\n\n\nDevelopment\n\nAdobe Creative Cloud\n\nAero\nAfter Effects\nAnimate\nAudition\nDimension\nFresco\nIllustrator\nInDesign\nPhotoshop\nPremiere Pro\nPremiere Rush\nSubstance 3D\nXD\n\nBlender\nEyeJack\nMyWebAR\nNVIDIA Omniverse\nUnity\nUnreal Engine\n\n\n\nStreaming\nThe MA{VR}X Lab also provides microphones and an audio interface for streaming interviews, gameplay, and so on.\n\nBlue Yeti microphone\nGreen screen (x2)\nLED light panels (x2)\nNVIDIA Broadcast\nOBS Studio\nRode lavaliere microphone (x2)\nRode Wireless GO II kit\n\nIncludes two wireless transmitters and one wireless receiver.\n\nStreamlabs OBS\nZoom"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPOAP: Proof of Attendance Protocol\n\n\n\npoap\n\n\n\nVirtually proving your virtual participation in a virtual lab!\n\n\n\nRyan Straight\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3D Scanning\n\n\nThe lab has the capacity to do 3D scans of spaces.\n\n\n\nRyan Straight\n\n\nJun 14, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/poap/index.html",
+    "href": "projects/poap/index.html",
+    "title": "POAP: Proof of Attendance Protocol",
+    "section": "",
+    "text": "Here at the MA{VR}X Lab, we believe people should get credit for the things they do. This includes engaging with the lab! We’ve adopted POAP as a mechanism for achieving this.\nWhat is POAP? Check out What is POAP? by Cooper Turley over on Medium. We’ve put together our own brief introduction, as well, that explains just how we’ll be using it (or, planning to, anyway!).\nSee the Related links below that outline just how and why we’re getting involved with this amazing little community-driven project.\n\n\n\nCitationBibTeX citation:@online{untitled,\n  author = {},\n  title = {POAP: {Proof} of {Attendance} {Protocol}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“POAP: Proof of Attendance Protocol.” n.d."
+  },
+  {
+    "objectID": "projects/groth-hall-renovation/index.html",
+    "href": "projects/groth-hall-renovation/index.html",
+    "title": "Groth Hall Renovation",
+    "section": "",
+    "text": "Part 1: Capturing Groth Hall\n\n\nCitationBibTeX citation:@online{straight2021,\n  author = {Ryan Straight},\n  title = {Groth {Hall} {Renovation}},\n  date = {2021-06-14},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan Straight. 2021. “Groth Hall Renovation.” June 14,\n2021."
+  },
+  {
+    "objectID": "projects/3D-scanning/index.html",
+    "href": "projects/3D-scanning/index.html",
+    "title": "3D Scanning",
+    "section": "",
+    "text": "Capturing Groth Hall"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "(image of director)\n\n\n\nRyan Straight, Ph.D\nAssociate Professor of Practice\nCyber Operations and Applied Computing"
+  },
+  {
+    "objectID": "people.html#next-person",
+    "href": "people.html#next-person",
+    "title": "People",
+    "section": "Next Person",
+    "text": "Next Person"
   }
 ]

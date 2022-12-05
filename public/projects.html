@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Posts</title>
+<title>Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -126,11 +126,11 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" rel="" aria-current="page">
+    <a class="nav-link" href="./posts.html" rel="">
  <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="">
+    <a class="nav-link active" href="./projects.html" rel="" aria-current="page">
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -155,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Posts</h1>
+      <h1 class="title">Projects</h1>
                       </div>
   </div>
     
@@ -173,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="3D scanning">3D scanning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="POAP">POAP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meta">meta <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="poap">poap <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -184,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
@@ -210,213 +210,58 @@ ul.task-list li input[type="checkbox"] {
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="meta" data-listing-date-sort="1644469200000" data-listing-file-modified-sort="1670183614090" data-listing-reading-time-sort="1.89">
-<div class="thumbnail">
-<p><a href="./posts/2022-02-10-project-submission/index.html"> <img src="./posts/2022-02-10-project-submission/featured.jpeg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2022-02-10-project-submission/index.html">
-<h3 class="no-anchor listing-title">
-Submitting a Project to the Lab
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="poap" data-listing-file-modified-sort="1670200934801" data-listing-reading-time-sort="0.42">
+<a href="./projects/poap/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/poap/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+POAP: Proof of Attendance Protocol
+</h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('meta'); return false;">
-meta
+<div class="listing-category" onclick="window.quartoListingCategory('poap'); return false;">
+poap
 </div>
 </div>
-<a href="./posts/2022-02-10-project-submission/index.html">
-<div class="listing-description">
-The entire reason the MA{VR}X Lab exists is to produce human-focused and applied research products and…
+<div class="card-text listing-description">
+Virtually proving your virtual participation in a virtual lab!
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2022-02-10-project-submission/index.html">
-<div class="listing-date">
-Feb 10, 2022
-</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
 Ryan Straight
 </div>
-</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="meta" data-listing-date-sort="1641272400000" data-listing-file-modified-sort="1670183462010" data-listing-reading-time-sort="0.15">
-<div class="thumbnail">
-<p><a href="./posts/2022-01-04-new-year-new-sletter/index.html"> <img src="./posts/2022-01-04-new-year-new-sletter/featured.jpeg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2022-01-04-new-year-new-sletter/index.html">
-<h3 class="no-anchor listing-title">
-New Year, New(sletter)!
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('meta'); return false;">
-meta
-</div>
-</div>
-<a href="./posts/2022-01-04-new-year-new-sletter/index.html">
-<div class="listing-description">
-Wishing you could have more MA{VR}X Lab content? You’re in luck! We’ve begun a weekly newsletter! You can subscribe to <strong>MetaMeta</strong> by checking out the Newsletter tab or visiting…
 </div>
 </a>
 </div>
-<div class="metadata">
-<a href="./posts/2022-01-04-new-year-new-sletter/index.html">
-<div class="listing-date">
-Jan 4, 2022
+<div class="g-col-1" data-index="1" data-listing-date-sort="1623643200000" data-listing-file-modified-sort="1670204056630" data-listing-reading-time-sort="0.02">
+<a href="./projects/3D-scanning/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/3D-scanning/featured.png" class="thumbnail-image card-img" style="height: 150px;" alt="Stock image of a tesseract">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+3D Scanning
+</h5>
+<div class="card-text listing-description">
+The lab has the capacity to do 3D scans of spaces.
 </div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Ryan Straight
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="3D scanning" data-listing-date-sort="1632110400000" data-listing-file-modified-sort="1670183429312" data-listing-reading-time-sort="0.78">
-<div class="thumbnail">
-<p><a href="./posts/2021-09-02-patterson-observatory-3d-tour/index.html"> <img src="./posts/2021-09-02-patterson-observatory-3d-tour/featured.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2021-09-02-patterson-observatory-3d-tour/index.html">
-<h3 class="no-anchor listing-title">
-Patterson Observatory 3D tour
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('3D scanning'); return false;">
-3D scanning
-</div>
-</div>
-<a href="./posts/2021-09-02-patterson-observatory-3d-tour/index.html">
-<div class="listing-description">
-In August of this year, we had the pleasure of spending the afternoon in the Patterson Observatory in Sierra Vista, doing a Matterport 3D scan of this incredible space.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2021-09-02-patterson-observatory-3d-tour/index.html">
-<div class="listing-date">
-Sep 20, 2021
-</div>
-<div class="listing-author">
-Ryan Straight
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="POAP" data-listing-date-sort="1628654400000" data-listing-file-modified-sort="1670183391199" data-listing-reading-time-sort="3.035">
-<div class="thumbnail">
-<p><a href="./posts/2021-08-10-poap/index.html"> <img src="./posts/2021-08-10-poap/featured.jpeg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2021-08-10-poap/index.html">
-<h3 class="no-anchor listing-title">
-Introducing Proof of Attendance Protocol (POAP)
-</h3>
-<div class="listing-subtitle">
-A Brief Introduction
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('POAP'); return false;">
-POAP
-</div>
-</div>
-<a href="./posts/2021-08-10-poap/index.html">
-<div class="listing-description">
-I’m strictly of…<strong></strong><em></em><strong></strong>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2021-08-10-poap/index.html">
-<div class="listing-date">
-Aug 11, 2021
-</div>
-<div class="listing-author">
-Ryan Straight
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="meta" data-listing-date-sort="1626840000000" data-listing-file-modified-sort="1670183345430" data-listing-reading-time-sort="1.225">
-<div class="thumbnail">
-<p><a href="./posts/2021-07-21-what-is-the-mavrx-lab/index.html"> <img src="./posts/2021-07-21-what-is-the-mavrx-lab/featured.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2021-07-21-what-is-the-mavrx-lab/index.html">
-<h3 class="no-anchor listing-title">
-What is the MA{VR}X Lab?
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('meta'); return false;">
-meta
-</div>
-</div>
-<a href="./posts/2021-07-21-what-is-the-mavrx-lab/index.html">
-<div class="listing-description">
-The <strong>M</strong>ixed <strong>A</strong>ugmented <strong>V</strong>i<strong>R</strong>tual e<strong>X</strong>tended (Reality) Laboratory (referred to as the MAVRX Lab, pronounced <em>mavericks</em>) is space in which we drive innovation through alternative reality modalities and research. It came about in early 2021 as an entity, though its physical location had…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2021-07-21-what-is-the-mavrx-lab/index.html">
-<div class="listing-date">
-Jul 21, 2021
-</div>
-<div class="listing-author">
-Ryan Straight
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="3D scanning" data-listing-date-sort="1623643200000" data-listing-file-modified-sort="1670202340403" data-listing-reading-time-sort="2.255">
-<div class="thumbnail">
-<p><a href="./posts/2021-06-14-capturing-groth-hall/index.html"> <img src="https://static.wixstatic.com/media/edd9e8_5a0ae5bbe5f3481797651309eaeb90fe.jpg/v1/fill/w_552,h_311,fp_0.44_0.42,q_90/edd9e8_5a0ae5bbe5f3481797651309eaeb90fe.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/2021-06-14-capturing-groth-hall/index.html">
-<h3 class="no-anchor listing-title">
-Capturing Groth Hall
-</h3>
-<div class="listing-subtitle">
-3D Scanning for the 30th Anniversary
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('3D scanning'); return false;">
-3D scanning
-</div>
-</div>
-<a href="./posts/2021-06-14-capturing-groth-hall/index.html">
-<div class="listing-description">
-<p>Documenting the process of performing a 3D scan of an entire building using the Matterport camera.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2021-06-14-capturing-groth-hall/index.html">
 <div class="listing-date">
 Jun 14, 2021
 </div>
-</a>
 </div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">

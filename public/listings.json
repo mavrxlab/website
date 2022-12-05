@@ -22,5 +22,12 @@
       "/posts/2021-07-21-what-is-the-mavrx-lab/index.html",
       "/posts/2021-06-14-capturing-groth-hall/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/poap/index.html",
+      "/projects/3D-scanning/index.html"
+    ]
   }
 ]

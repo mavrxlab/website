@@ -1,0 +1,17 @@
+---
+title: "3D Scanning"
+description: "The lab has the capacity to do 3D scans of spaces."
+image: featured.jpeg
+image-alt: "Stock image of a tesseract"
+date: 2021-06-14
+
+about:
+  image-width: 20em
+  image-shape: rounded
+  image: featured.jpeg
+---
+
+## Related Posts
+ 
++ [Capturing Groth Hall](post/capturing-groth-hall/)
+

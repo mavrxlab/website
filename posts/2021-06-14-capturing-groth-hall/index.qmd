@@ -6,9 +6,9 @@ slug: capturing-groth-hall
 categories: ['3D scanning']
 tags: ['matterport pro2', '3d scan', 'sierra vista', 'groth hall', 'leica blk360']
 subtitle: '3D Scanning for the 30th Anniversary'
-summary: "Documenting the process of performing a 3D scan of an entire building using the Matterport camera."
+description: "Documenting the process of performing a 3D scan of an entire building using the Matterport camera."
 lastmod: '2021-06-14T18:58:27-07:00'
-projects: ['groth-hall-renovation']
+projects: ['3D-scanning']
 ---
 
 I'm collaborating with the VR lab at the [Fort Huachuca US Army Base](https://home.army.mil/huachuca/index.php) on a few different projects but this was one we could bust out pretty quick just to get something on the books. So, the MA{VR}X Lab's very first official project: the Groth Hall renovation scan!

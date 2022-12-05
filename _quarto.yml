@@ -6,9 +6,11 @@ title-block-style: default
 title-block-banner: true
 
 website:
-  title: "MA{VR}X Lab"
   reader-mode: false
   navbar:
+    logo: assets/images/big-banner-white.png
+    logo-alt: "MA{VR}X Lab"
+    title: false
     left:
       - href: index.qmd
         text: Home
@@ -16,24 +18,39 @@ website:
         text: About
       - href: posts.qmd
         text: Posts
+      - href: projects.qmd
+        text: Projects
       - href: events.qmd
         text: Events
       - href: resources/
         text: Resources
+      - href: people.qmd
+        text: People
   page-footer: 
-    left: "Copyright 2022, Ryan Straight" 
-    right: 
+    left: |
+      {{< fa regular copyright >}} Ryan Straight, {{< var year >}}<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+     
+    center: 
       - icon: github
+        aria-label: GitHub
         href: https://github.com/mavrxlab/
       - icon: mastodon 
+        aria-label: Mastodon
         href: https://hci.social/@mavrxlab/
+        
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      with much inspiration from [Andreas Handel](https://github.com/andreashandel/andreashandelwebsite).
+
 format:
   html:
 #    theme: materia
     css: styles.css
     toc: true
     include-in-header:
-      - fonts.html
+      - assets/fonts.html
     citations-hover: true
     footnotes-hover: true
 

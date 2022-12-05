@@ -1,16 +1,14 @@
 # Freeze computed outputs
 freeze: auto
 
+author:
+  - name: Ryan Straight
+  
+about:
+  template: solana
+
 # Enable banner style title blocks
-title-block-banner: true
-
-# Default for table of contents
-toc: true
-toc-title: Table of contents
-toc-location: left
-toc-depth: 3
-
-page-layout: article
+title-block-banner: plain
 
 # Default knitr options
 execute:
@@ -19,6 +17,6 @@ execute:
   warning: false
 
 # Default fields for citation
-citation: true
+citation: false
 
 comments: false
