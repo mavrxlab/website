@@ -723,9 +723,9 @@
   {
     "objectID": "people/index.html",
     "href": "people/index.html",
-    "title": "People",
+    "title": "Team",
     "section": "",
-    "text": "Ryan Straight, Ph.D\nAssociate Professor of Practice\nCyber Operations and Applied Computing"
+    "text": "Director & Principal Investigator\nRyan Straight, Ph.D\nAssociate Professor of Practice\nCyber Operations and Applied Computing\n\n\n\n\nCurrent Members\n\n\nCurrent undergraduates involved in the lab. \n\n\n\nCollaborators\n\n\n\nDiana Saldana, Ph.D\nAssistant Professor of Practice\nSoftware Engineering\nCollege of Engineering\n\n\n\n\nBrian Yecies, Ph.D\nAssociate Professor\nUniversity of Wollongong\n\n\n\n\nAriella McGeachy\nAdministrative Assistant\nCyber, Intelligence, and Information Operations (CIIO)\nCollege of Applied Science and Technology\nariellamvalencia@arizona.edu\n\n\n\n\n\nAlumni\nThose who have survived their time in the lab.\n\n\n\nAnthony Vega\nApplied Computing\n(2022)\n\n\n\n\nTyler Rhea\nApplied Computing\n(2022)"
   },
   {
     "objectID": "people/index.html#next-person",
@@ -733,5 +733,40 @@
     "title": "People",
     "section": "Next Person",
     "text": "Next Person"
+  },
+  {
+    "objectID": "people/index.html#staff",
+    "href": "people/index.html#staff",
+    "title": "People",
+    "section": "Staff",
+    "text": "Staff\nUniversity staff that spend time supporting the lab.\n\n\n\n\n\n\nAdministrative Support\nAriella McGeachy\nAdministrative Assistant\nCyber, Intelligence, and Information Operations (CIIO)\nCollege of Applied Science and Technology\nariellamvalencia@arizona.edu"
+  },
+  {
+    "objectID": "people/index.html#students",
+    "href": "people/index.html#students",
+    "title": "People",
+    "section": "Students",
+    "text": "Students\n\n\nCurrent undergraduates involved in the lab.\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\nThose who have survived their time in the lab.\n\n\n\nAnthony Vega\nApplied Computing\n\n\n\n\nTyler Rhea\nApplied Computing\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram"
+  },
+  {
+    "objectID": "people/index.html#current-members",
+    "href": "people/index.html#current-members",
+    "title": "Team",
+    "section": "Current Members",
+    "text": "Current Members\n\n\nCurrent undergraduates involved in the lab.\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram\n\n\n\n\nStudent’s name\nProgram"
+  },
+  {
+    "objectID": "people/index.html#collaborators",
+    "href": "people/index.html#collaborators",
+    "title": "Team",
+    "section": "Collaborators",
+    "text": "Collaborators\n\n\n\nDiana Saldana, Ph.D\nAssistant Professor of Practice\nSoftware Engineering\nCollege of Engineering\n\n\n\n\nBrian Yecies, Ph.D\nAssociate Professor\nUniversity of Wollongong\n\n\n\n\nAriella McGeachy\nAdministrative Assistant\nCyber, Intelligence, and Information Operations (CIIO)\nCollege of Applied Science and Technology\nariellamvalencia@arizona.edu"
   }
 ]

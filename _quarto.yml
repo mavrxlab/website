@@ -2,8 +2,6 @@ project:
   type: website
   output-dir: public
 
-
-
 title-block-style: default
 title-block-banner: true
 
