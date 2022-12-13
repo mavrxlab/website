@@ -2,6 +2,8 @@ project:
   type: website
   output-dir: public
 
+
+
 title-block-style: default
 title-block-banner: true
 
@@ -24,7 +26,7 @@ website:
         text: Events
       - href: resources/
         text: Resources
-      - href: people.qmd
+      - href: people/
         text: People
   page-footer: 
     left: |
@@ -54,6 +56,8 @@ format:
     citations-hover: true
     footnotes-hover: true
 
-
+editor_options:
+  markdown:
+    canonical: true
 
 
