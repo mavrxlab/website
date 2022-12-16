@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  render:
-    - "!reports/"
 
 title-block-style: default
 title-block-banner: true
@@ -19,7 +17,7 @@ website:
       - href: about/
         text: About
       - href: posts.qmd
-        text: Posts
+        text: News
       - href: projects.qmd
         text: Projects
       - href: events.qmd
