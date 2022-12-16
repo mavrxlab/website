@@ -48,7 +48,6 @@ website:
 
 format:
   html:
-#    theme: materia
     css: styles.css
     toc: true
     include-in-header:

@@ -6,6 +6,8 @@ comments: false
 toc: false
 ---
 
+<!-- Use to crop: https://www.adobe.com/express/feature/image/crop -->
+
 <center>
 
 ![](images/director.jpg)
@@ -24,28 +26,32 @@ Cyber Operations and Applied Computing\
 
 <!-- Undergrads -->
 
-Current undergraduates involved in the lab. <!--
+Current undergraduates involved in the lab.
+
 ::: grid
 ::: g-col-3
-![]()
+![](images/wildcat.png)
 
-Student's name\
-Program\
+Anthony Somohano\
+Pre-Business\
 :::
 
 ::: g-col-3
-![]()
+![](images/wildcat.png)
 
-Student's name\
-Program\
+Jacob Keroack\
+Neuroscience and Cognitive Science\
 :::
 
 ::: g-col-3
-![]()
+![](images/wildcat.png)
 
-Student's name\
-Program\
+David Poehlman\
+Cyber Operations\
 :::
+
+```{=html}
+<!--
 
 ::: g-col-3
 ![]()
@@ -69,6 +75,8 @@ Program\
 :::
 :::
 -->
+```
+:::
 
 <!-- Collaborators -->
 
@@ -84,6 +92,9 @@ Software Engineering\
 College of Engineering\
 :::
 
+```{=html}
+<!-- Brian, when he gets here
+
 ::: g-col-3
 ![]()
 
@@ -92,6 +103,8 @@ Associate Professor\
 University of Wollongong\
 :::
 
+-->
+```
 ::: g-col-3
 ![](images/ariella.png)
 
