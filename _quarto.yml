@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: public
+  render:
+    - "!reports/"
 
 title-block-style: default
 title-block-banner: true
