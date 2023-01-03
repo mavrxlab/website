@@ -1,0 +1,14 @@
+{
+  "hash": "087c238de4903f3f19b97994d96873a5",
+  "result": {
+    "markdown": "---\ntitle: \"Example\"\nsummary: |\n  An example project page.\nimage: featured.jpeg\nimage-alt: \"Stock image of a tesseract\"\ndate: 2021-06-14\ndraft: false\n\nabout:\n  image-width: 20em\n  image-shape: rounded\n  image: featured.jpeg\n---\n\n\nDolor tempor massa bibendum inceptos orci erat enim eros pellentesque velit. Montes enim molestie ullamcorper duis velit parturient hac hendrerit sociosqu suscipit! Integer taciti penatibus torquent nisi sapien sapien praesent cursus nisl. Facilisis tortor urna massa ultricies a diam eget.\n\nAmet purus fusce dictumst netus hendrerit cursus ridiculus. Iaculis sagittis suspendisse vivamus turpis aptent at dictumst dignissim. In diam vehicula feugiat feugiat ligula mauris felis parturient. Aptent cum quisque lobortis netus dictum ultricies lobortis penatibus. Na penatibus.\n\nIpsum ultricies ridiculus mauris placerat mauris ad. Pellentesque at sem sollicitudin maecenas metus pulvinar facilisis luctus. A et curae nisi egestas libero risus primis mauris nostra vivamus. Lacus rutrum posuere netus vehicula!\n\nAdipiscing ligula sapien auctor facilisis molestie faucibus ligula ullamcorper congue! Vehicula suspendisse tellus per condimentum facilisis risus senectus cursus vestibulum eu. Senectus neque nisl justo in fermentum phasellus potenti odio. Felis pulvinar risus cras nostra ligula cursus quisque ultrices pellentesque. Mus sem fringilla purus pulvinar egestas duis molestie augue pretium.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

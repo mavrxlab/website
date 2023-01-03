@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>index</title>
+<title>MA{VR}X Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -60,11 +62,69 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-news'] = new List('listing-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <!-- Proxima Nova reference. -->
 <link href="https://use.typekit.net/emv3zbo.css" rel="stylesheet" crossorigin="anonymous">
 <!-- Arizona Bootstrap reference. -->
 <link rel="stylesheet" href="https://cdn.digital.arizona.edu/lib/arizona-bootstrap/2.0.19/css/arizona-bootstrap.min.css" crossorigin="anonymous">
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -94,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html">
+    <a class="nav-link" href="./news.html">
  <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
@@ -102,16 +162,15 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./events.html">
- <span class="menu-text">Events</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./resources/">
  <span class="menu-text">Resources</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./people/">
- <span class="menu-text">People</span></a>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"><i class="bi bi-rss" role="img">
+</i> 
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -123,21 +182,139 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
 <p><img src="assets/images/big-banner.png" class="img-fluid"></p>
+<!--# Verifying lab on Mastodon -->
 <p>&nbsp;<a rel="me" href="https://hci.social/@mavrxlab"></a></p>
 <hr>
-<p>&nbsp;</p>
-<p>The <strong>M</strong>ixed <strong>A</strong>ugmented <strong>V</strong>i<strong>R</strong>tual e<strong>X</strong>tended (Reality) Laboratory in the College of Applied Science &amp; Technology is the University of Arizona’s center of research and development for alternative reality media and training in southeastern Arizona.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p>The <strong>M</strong>ixed <strong>A</strong>ugmented <strong>V</strong>i<strong>R</strong>tual e<strong>X</strong>tended (Reality) Laboratory in the College of Applied Science &amp; Technology is the University of Arizona’s home for research, exploration, and development for alternative and extended reality media and training in southeastern Arizona.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p>We take a very broad view of “extended reality” to include everything from head-mounted displays, volumetric video, digital identity, and more.</p>
+</div>
+</div>
+</div>
+<section id="news" class="level2">
+<h2 class="anchored" data-anchor-id="news">News</h2>
+<div id="listing-news" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="meta" data-listing-date-sort="1671433200000" data-listing-file-modified-sort="1671684915728" data-listing-reading-time-sort="0.085">
+<a href="./news/2022-12-19-new-folks/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./news/2022-12-19-new-folks/featured.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Welcome to the new mavericks!
+</h5>
+<div class="card-text listing-description">
+I’m thrilled to welcome the newest members of the MA{VR}X Lab for the spring 2023 semester!
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1668322800000" data-listing-file-modified-sort="1671686608936" data-listing-reading-time-sort="0.645">
+<a href="./news/2022-11-12-ed3-postphenom/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./news/2022-11-12-ed3-postphenom/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A Philosophy of Technology and Education in the Metaverse
+</h5>
+<div class="card-text listing-description">
+<p>A talk given by Dr.&nbsp;Straight at Ed3Con22.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 13, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1667286000000" data-listing-file-modified-sort="1671688430681" data-listing-reading-time-sort="2.01">
+<a href="./news/2022-11-01-ac22-ed3/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./news/2022-11-01-ac22-ed3/featured.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Web3 and Education: An Optimistic Primer on Online Learning’s Blockchain-based Future
+</h5>
+<div class="card-text listing-description">
+A panel discussion hosted by Dr.&nbsp;Straight at the OLC Accelerate 2022 conference.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 1, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p><a href="./news.html">View all news <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i></a></p>
+</section>
+<section id="projects" class="level2">
+<h2 class="anchored" data-anchor-id="projects">Projects</h2>
+<div id="listing-projects" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1671684666610" data-listing-reading-time-sort="0.01">
+<a href="./projects/example/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/example/featured.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Example
+</h5>
+<div class="card-text listing-description">
+Sit rutrum congue feugiat ligula pharetra aliquam iaculis quam integer cum. Metus fermentum mi primis fermentum risus nunc turpis malesuada nibh? Integer nam dis fusce…
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p><a href="./projects.html">View all projects <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i></a></p>
+</section>
+<section id="social" class="level2">
+<h2 class="anchored" data-anchor-id="social">Social</h2>
+<iframe allowfullscreen="" sandbox="allow-top-navigation allow-scripts" width="100%" height="800" src="http://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fhci.social%2Fusers%2Fmavrxlab&amp;theme=light&amp;size=100&amp;header=false&amp;replies=true&amp;boosts=false">
+</iframe>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -276,7 +453,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left"><i class="fa-regular fa-copyright" aria-label="copyright"></i> Ryan Straight, 2022<br> All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a></div>   
+    <div class="nav-footer-left"><i class="fa-regular fa-copyright" aria-label="copyright"></i> Ryan Straight, 2023<br> All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a></div>   
       <div class="nav-footer-center">
         <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

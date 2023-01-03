@@ -1,0 +1,17 @@
+---
+title: "Public Scholarship and Media Coverage"
+page-layout: full
+title-block-banner: true
+comments: false
+toc: false
+---
+
+<!-- Use to crop: https://www.adobe.com/express/feature/image/crop -->
+
+## My Herald Review
+
+::: {#fig-myheraldreview}
+[![](images/myhr.png)](https://www.myheraldreview.com/news/lifestyle/cast-is-diving-into-virtual-reality-with-new-lab/article_3702222e-9f07-11ec-965a-07c77fbdc622.html)
+
+"CAST is diving into virtual reality with new lab" by Summer Horn
+:::

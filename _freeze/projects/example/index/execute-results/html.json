@@ -1,0 +1,14 @@
+{
+  "hash": "e1922360b5873834b5f16880ac44a1f3",
+  "result": {
+    "markdown": "---\ntitle: \"Example\"\nsummary: |\n  An example project page.\ndraft: false\nimage: featured.jpeg\n\nabout:\n  image: featured.jpeg\n---\n\n\nSit rutrum congue feugiat ligula pharetra aliquam iaculis quam integer cum. Metus fermentum mi primis fermentum risus nunc turpis malesuada nibh? Integer nam dis fusce sollicitudin ullamcorper hendrerit phasellus enim cras platea vehicula enim quis. Nullam leo mus arcu sapien dignissim mattis nisl in venenatis. Luctus cursus molestie fringilla vivamus eget porta risus tellus donec vestibulum a auctor. Vitae taciti conubia orci accumsan quis aliquam ornare ut hendrerit fusce euismod!\n\nElit primis aenean ullamcorper nisi sodales gravida cras interdum vehicula! Pretium nisl dictum venenatis vivamus luctus convallis parturient sociosqu. Vestibulum aptent mattis tempor fusce vitae felis a bibendum vulputate sagittis blandit ullamcorper sociosqu habitant!\n\nAmet aenean porta fermentum class fringilla convallis. Cum convallis aptent elementum congue tempus nulla quam sociis senectus mi commodo. Dui lectus dictum mi libero diam mollis viverra. Tristique sollicitudin viverra purus sapien penatibus ligula ornare bibendum donec taciti vel. Condimentum justo vestibulum donec sed pulvinar suspendisse volutpat nisi?\n\nConsectetur proin potenti class gravida facilisis eros etiam. Mollis nostra ullamcorper posuere semper convallis habitasse id viverra dictumst sociis? Quis porttitor accumsan ligula porttitor rhoncus a. Blandit porta maecenas integer etiam felis gravida sem. Mattis ultricies cum natoque rhoncus nam phasellus diam pulvinar bibendum aptent consequat enim cras?\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

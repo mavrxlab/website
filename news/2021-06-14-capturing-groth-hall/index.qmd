@@ -1,0 +1,75 @@
+---
+draft: false
+title: "Capturing Groth Hall"
+date: '2021-06-14'
+categories: ['3D scanning']
+subtitle: '3D Scanning for the 30th Anniversary'
+description: "Documenting the process of performing a 3D scan of an entire building using the Matterport camera."
+---
+
+I'm collaborating with the VR lab at the [Fort Huachuca US Army Base](https://home.army.mil/huachuca/index.php) on a few different projects but this was one we could bust out pretty quick just to get something on the books. So, the MA{VR}X Lab's very first official project: the Groth Hall renovation scan!
+
+## Groth Hall
+
+Currently the administrative center of the Sierra Vista campus, Groth Hall was opened in 1993 but (I believe) the Sierra Vista campus began construction in 1988.
+
+[![Groth Hall, Sierra Vista campus, opened 1993](https://static.wixstatic.com/media/edd9e8_5a0ae5bbe5f3481797651309eaeb90fe.jpg/v1/fill/w_552,h_311,fp_0.44_0.42,q_90/edd9e8_5a0ae5bbe5f3481797651309eaeb90fe.jpg)](https://www.universitysouthfoundation.com/history)
+
+So, while the building does host a couple classrooms and the [University South Foundation's office](https://www.universitysouthfoundation.com/), it is mostly for CAST administrative staff offices, along with the folks from the [Near You (formerly Distance) Network](https://transfer.arizona.edu/near-you-network).
+
+## The Hardware
+
+Along with an iPad to run the Matterport application that captures the scans, we were using two cameras:
+
+### Matterport Pro2
+
+Scanning physical spaces has come a long way. Case in point, the [Matterport Pro2 3D Camera](https://matterport.com/cameras/pro2-3D-camera):
+
+[![](https://matterport.com/sites/default/files/images/Pro2Hero.png)](https://matterport.com/cameras/pro2-3D-camera)
+
+This beast comes in at **134** megapixels.
+
+The photography website Adorama has a great introductory video for the camera:
+
+{{< video https://www.youtube.com/embed/mGa-uiKRLGg >}}
+
+### Leica BLK360
+
+We were also using this monster:
+
+![Leica BLK360](https://www.sccssurvey.co.uk/media/catalog/product/cache/1/image/800x/040ec09b1e35df139433887a97daa66f/l/e/leica_blk360_led.jpg)
+
+The [Leica BLK360 Imaging Laser Scanner](https://leica-geosystems.com/products/laser-scanners/scanners/blk360) is really [a surveying instrument](https://shop.leica-geosystems.com/learn/reality-capture/blk360) more than a traditional 360 degree camera (despite the product number).
+
+> The BLK360 is a compact imaging laser scanner that uses a 360° laser distance meter and high definition panoramic imaging to create a 3D point cloud of the space around it.
+
+The Leica takes between 3 and 5 minutes to complete a scan depending on a few factors but we found it averaged between 4 and 4 1/2. Compared to the Matterport, that means it takes anywhere between 6 and 8 times as long to complete the scan.
+
+So why use the Leica instead of the Matterport? I'll give you a hint:
+
+::: {style="width:100%;height:0;padding-bottom:94%;position:relative;"}
+<iframe src="https://giphy.com/embed/5TBlqBtLtrzUc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+:::
+
+<p><a href="https://giphy.com/gifs/sun-desert-raccoon-5TBlqBtLtrzUc">via GIPHY</a></p>
+
+First of all, the mid-day sun is very confusing for cameras like the Matterport, as they can have a difficult time making connections with previous scan points. So, in those cases, the Leica--which is a lidar scanner, remember--works just fine in full sun.
+
+Mostly.
+
+Yesterday, when we were doing the Groth Hall scans--which had been planned for weeks, mind--the temperature in Sierra Vista wasn't far behind that of Tucson, [which reached 115°F (46.1°C)](https://kvoa.com/weather/2021/06/14/excessive-heat-through-saturday-and-a-slight-chance-for-storms/). The Leica camera is black. We were scanning outside. Yeah.
+
+Needless to say, while we did get nearly 300 scans done, we just missed out on the very last few because of the sun. Those will get completed at a later date as they're not crucial to the building scan.
+
+So, now it's a matter of getting the 3D model uploaded and ready to work with. Here's a little preview:
+
+```{r}
+#| label: groth-screenshot
+#| out.width: "100%"
+#| fig.cap: "Groth Hall Matterport scan"
+knitr::include_graphics("IMG_0001-screen.png")
+```
+
+Watch this space for more updates on the project!

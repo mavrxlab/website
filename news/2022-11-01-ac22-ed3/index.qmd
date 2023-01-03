@@ -1,0 +1,33 @@
+---
+date: "2022-11-01"
+draft: FALSE
+description: "A panel discussion hosted by Dr. Straight at the OLC Accelerate 2022 conference."
+title: "Web3 and Education: An Optimistic Primer on Online Learning's Blockchain-based Future"
+image: featured.jpeg
+category: talks
+
+citation:
+  title: "Web3 and Education: An Optimistic Primer on Online Learning's Blockchain-based Future"
+  type: event
+  event: "OLC Accelerate '22"
+  event-date: 2022-04-13
+  genre: talk
+  url: "https://onlinelearningconsortium.org/olc-accelerate-2022-session-page/?session=11670"
+  abstract: "The internet is changing and online learning will necessarily change with it. Terms like 'crypto,' 'blockchain,' 'NFT,' 'DAO,' and 'Web3' are possibly not entirely new to you, but do you know what to expect when these stop being theoretical and become infused into the very bedrock of online learning? Join our panel of experts and educators to help answer questions like 'What problem does this solve?,' 'What value does this add?,' 'How does it work?,' and 'What does it even do?'"
+---
+
+The director of the MA{VR}X Lab, Dr. Ryan Straight will be hosting a panel at this year's Online Learning Consortium's **Accelerate** conference.
+
+**The conference is run on Eastern Daylight Time (UTC-04).**
+
+## Slides
+
+Feel free to [enjoy the slide deck](deck/) made with [Quarto](https://quarto.org).
+
+## Full Abstract
+
+With the shifting fundamental, underlying structures of how online learning is designed and delivered, it is important for educators, researchers, instructional designers, even leaders and students to understand just what this means and how to prepare. There is widespread confusion and concern over the (what many see as inevitable) move into a decentralized, transparent internet and what that could mean for online education if not approached with care, consideration, and intention. For example, how does one approach designing instruction for decentralized delivery and facilitation? What does that even mean? Isn't a wallet just the same as a portfolio? What happens when there is no centralized, gated vault of knowledge, but rather a democratized outpouring of it? And how do we address authenticity and accountability? This discussion seeks to move beyond simply the excitement of the potentials of Web3 and address possible concerns and criticisms, as well. The Web3 space has a very steep learning curve, something this panel hopes to flatten at least in the online learning space. In short, the goal is to, to quote one of our panelists, "Discern signal from noise."
+
+The panel will have a set number of groundwork-setting topics and questions but will be open to questions from the audience. In fact, this is highly encouraged. As per usual, attendees will be able to submit questions throughout the discussion and the moderator will do their best to get to them.
+
+Given the relatively short timeframe for the session and the likelihood of being able to answer everyone's questions during, attendees of this session will be invited to a growing, vibrant community of educators, researchers, and leaders in the Web3 space with a focus on not just "doing Web3," but doing it right, where the conversation can continue and grow. Attendees will also leave with a working understanding of what these concepts actually mean and the ability to engage authentically in the conversations that will inevitably arise. Finally, attendees will leave with their (likely) first true engagement with the Web3 ecosystem: an NFT! (No annoyed monkeys, we promise. And if you a) don't know what that is, or b) are skeptical about it, this is definitely the panel for you!)

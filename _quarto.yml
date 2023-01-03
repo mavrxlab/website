@@ -7,25 +7,30 @@ title-block-banner: true
 
 website:
   reader-mode: false
+  title: "MA{VR}X Lab"
+  site-url: "https://mavrxlab.org"
+  description: "Official site for the University of Arizona's MA{VR}X Lab"
   navbar:
     logo: assets/images/big-banner-white.png
     logo-alt: "MA{VR}X Lab"
+    right:
+      - icon: rss
+        href: index.xml
     title: false
     left:
       - href: index.qmd
         text: Home
       - href: about/
         text: About
-      - href: posts.qmd
+      - href: news.qmd
         text: News
       - href: projects.qmd
         text: Projects
-      - href: events.qmd
-        text: Events
+#      - href: team/
+#        text: Team
       - href: resources/
         text: Resources
-      - href: people/
-        text: People
+
   page-footer: 
     left: |
       {{< fa regular copyright >}} Ryan Straight, {{< var year >}}<br>

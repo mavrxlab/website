@@ -1,11 +1,10 @@
 # Freeze computed outputs
 freeze: auto
 
-author:
-  - name: Ryan Straight
-  
 about:
   template: solana
+  image-width: 20em
+  image-shape: rounded
 
 # Enable banner style title blocks
 title-block-banner: plain
@@ -20,3 +19,4 @@ execute:
 citation: false
 
 comments: false
+

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projects</title>
+<title>MA{VR}X Lab - Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -65,20 +65,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-project-list .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-project-list'] = new List('listing-project-list', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html">
+    <a class="nav-link" href="./news.html">
  <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
@@ -134,16 +134,19 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./events.html">
- <span class="menu-text">Events</span></a>
+    <a class="nav-link" href="./team/">
+ <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./resources/">
  <span class="menu-text">Resources</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./people/">
- <span class="menu-text">People</span></a>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"><i class="bi bi-rss" role="img">
+</i> 
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -154,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
+    <div class="quarto-title column-page">
       <h1 class="title">Projects</h1>
                       </div>
   </div>
@@ -171,93 +174,30 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="poap">poap <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
     </div>
-</div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+<p>Current projects going on in the lab. Dig into each project to learn more, see related posts, and get the point of contact.</p>
+<div id="listing-project-list" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="poap" data-listing-file-modified-sort="1670200934801" data-listing-reading-time-sort="0.42">
-<a href="./projects/poap/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1671684666610" data-listing-reading-time-sort="0.01">
+<a href="./projects/example/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/poap/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="./projects/example/featured.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-POAP: Proof of Attendance Protocol
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('poap'); return false;">
-poap
-</div>
-</div>
-<div class="card-text listing-description">
-Virtually proving your virtual participation in a virtual lab!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Ryan Straight
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1623654000000" data-listing-file-modified-sort="1670204166584" data-listing-reading-time-sort="0.025">
-<a href="./projects/3D-scanning/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projects/3D-scanning/featured.jpeg" class="thumbnail-image card-img" style="height: 150px;" alt="Stock image of a tesseract">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-3D Scanning
+Example
 </h5>
 <div class="card-text listing-description">
-The lab has the capacity to do 3D scans of spaces.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ryan Straight
-</div>
-<div class="listing-date">
-Jun 14, 2021
-</div>
+Sit rutrum congue feugiat ligula pharetra aliquam iaculis quam integer cum. Metus fermentum mi primis fermentum risus nunc turpis malesuada nibh? Integer nam dis fusce…
 </div>
 </div>
 </div>
@@ -267,7 +207,12 @@ Jun 14, 2021
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -404,7 +349,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left"><i class="fa-regular fa-copyright" aria-label="copyright"></i> Ryan Straight, 2022<br> All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a></div>   
+    <div class="nav-footer-left"><i class="fa-regular fa-copyright" aria-label="copyright"></i> Ryan Straight, 2023<br> All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a></div>   
       <div class="nav-footer-center">
         <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

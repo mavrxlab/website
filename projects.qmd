@@ -1,15 +1,21 @@
 ---
 title: "Projects"
 listing:
-  contents: projects
-  sort: "date desc"
-  type: grid
-  categories: true
-  sort-ui: true
-  filter-ui: true
+  - id: project-list
+    contents: projects
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, description]
 page-layout: full
 title-block-banner: true
 comments: false
-# Remove author from grid info
 # Model on https://www.snowdaylearninglab.org/projects
 ---
+
+Current projects going on in the lab. Dig into each project to learn more, see related posts, and get the point of contact.
+
+::: {#project-list}
+:::

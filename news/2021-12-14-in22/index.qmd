@@ -1,0 +1,97 @@
+---
+title: "Karu: Introducing the Metaversal Library for the Future of Immersive Learning"
+date: "2021-12-14"
+description: "A conference presentation given by Dr. Straight at the OLC Innovate 2022 conference."
+image: featured.jpeg
+category: talks
+
+citation:
+  title: 'Karu: Introducing the Metaversal Library for the Future of Immersive Learning'
+  abstract: "As education moves inexorably toward fully immersive, connected experiences, it is important to ensure openness, transparency, and collaboration. Karu (formerly XRpedia, the eXtended Reality encyclopedia) is an ongoing project that seeks to do precisely that. This session will introduce the project, its motivation, and the roadmap ahead."
+  event-date: "2022-04-13"
+  type: event
+  genre: talk
+  event: "OLC Innovate '22"
+  url: "https://onlinelearningconsortium.org/olc-innovate-2022-session-page/?session=10765"
+  event-place: "Gaylord Texan Resort & Convention Center - Grapevine, Texas - Room: Dallas 3-4"
+---
+
+The director of the MA{VR}X Lab, Dr. Ryan Straight will be presenting a conference talk at the Online Learning Consortium's **Innovate 2022** conference this in Dallas, April 13. This is an elaboration on and update for the [Virtual Worlds Forum](https://mavrxlab.org/event/vwf21/) talk he gave on the same project.
+
+## Slides
+
+Feel free to [enjoy the slide deck](deck/) made with [Quarto](https://quarto.org) for a very cool, totally Powerpoint-free experience! (Please be aware that, during the talk, the slide deck linked here will *advance automatically* as I advance mine. [This is a feature, not a bug!](https://quarto.org/docs/presentations/revealjs/presenting.html#multiplex))
+
+## Full Abstract
+
+What is extended reality? Who lives and works in the metaverse? You have a great idea for a VR project, but with whom do you connect? And how? Why should you even consider this extended reality space to begin with?
+
+These are questions we ask as a working research group of faculty and students at a major R1 university. To answer these, we envision a project known as **Karu** (formerly XRpedia). This platform is a place where people, projects, locations, services, even funding and employment opportunities exist to connect researchers, developers, instructors, and especially students in ways that will drive innovation in the metaverse. One main goal of **Karu** is to be user- and learner-focused, in that everything within it--hardware, companies, you name it--always comes back to the people. The importance of finding a way to make these connections within the metaverse, itself, cannot be overstated. Doing it in such a way that is accessible, secure, dependable, and sustainable is a driving force behind **Karu**.
+
+What is the "metaverse" and how does it apply to online learning? It encompasses virtually (pun intended) all experiences within the space of online learning: virtual and augmented reality, persistent digital spaces like discussion forums or Zoom rooms, even the entirety of the internet and every way in which it is utilized.
+
+It is our hope that, as we develop and continue to shape **Karu**, attendees to the session--experts in online learning that they are--will provide great food for thought, both for us as the developers and for one another. This session will be primarily an introduction to the project, as well as a look at the roadmap for where it can and will go.
+
+## Relevant References
+
+::: {.csl-bib-body style="line-height: 2; margin-left: 2em; text-indent:-2em;"}
+::: csl-entry
+Basilotta-Gómez-Pablos, V., Matarranz, M., Casado-Aranda, L.-A., & Otto, A. (2022). Teachers' digital competencies in higher education: A systematic literature review. <i>International Journal of Educational Technology in Higher Education</i>, <i>19</i>(1), 8. <a href="https://doi.org/10.1186/s41239-021-00312-8">https://doi.org/10.1186/s41239-021-00312-8</a>
+:::
+
+::: csl-entry
+Bursali, H., & Yilmaz, R. M. (2019). Effect of augmented reality applications on secondary school students' reading comprehension and learning permanency. <i>Computers in Human Behavior</i>, <i>95</i>, 126--135. <a href="https://doi.org/10.1016/j.chb.2019.01.035">https://doi.org/10.1016/j.chb.2019.01.035</a>
+:::
+
+::: csl-entry
+Campos-Mesa, M.-C., Castañeda-Vázquez, C., DelCastillo-Andrés, Ó., & González-Campos, G. (2022). Augmented Reality and the Flipped Classroom---A Comparative Analysis of University Student Motivation in Semi-Presence-Based Education Due to COVID-19: A Pilot Study. <i>Sustainability</i>, <i>14</i>(4), 2319. <a href="https://doi.org/10.3390/su14042319">https://doi.org/10.3390/su14042319</a>
+:::
+
+::: csl-entry
+Chiang, F.-K., Shang, X., & Qiao, L. (2022). Augmented reality in vocational training: A systematic review of research and applications. <i>Computers in Human Behavior</i>, <i>129</i>, 107125. <a href="https://doi.org/10.1016/j.chb.2021.107125">https://doi.org/10.1016/j.chb.2021.107125</a>
+:::
+
+::: csl-entry
+Di, X., & Zheng, X. (2022). A meta-analysis of the impact of virtual technologies on students' spatial ability. <i>Educational Technology Research and Development</i>, <i>70</i>(1), 73--98. <a href="https://doi.org/10.1007/s11423-022-10082-3">https://doi.org/10.1007/s11423-022-10082-3</a>
+:::
+
+::: csl-entry
+Garzón, J., & Acevedo, J. (2019). Meta-analysis of the impact of Augmented Reality on students' learning gains. <i>Educational Research Review</i>, <i>27</i>, 244--260. <a href="https://doi.org/10.1016/j.edurev.2019.04.001">https://doi.org/10.1016/j.edurev.2019.04.001</a>
+:::
+
+::: csl-entry
+Howard, M. C., & Gutworth, M. B. (2020). A meta-analysis of virtual reality training programs for social skill development. <i>Computers & Education</i>, <i>144</i>, 103707. <a href="https://doi.org/10.1016/j.compedu.2019.103707">https://doi.org/10.1016/j.compedu.2019.103707</a>
+:::
+
+::: csl-entry
+Ibáñez, M. B., Uriarte Portillo, A., Zatarain Cabada, R., & Barrón, M. L. (2020). Impact of augmented reality technology on academic achievement and motivation of students from public and private Mexican schools. A case study in a middle-school geometry course. <i>Computers & Education</i>, <i>145</i>, 103734. <a href="https://doi.org/10.1016/j.compedu.2019.103734">https://doi.org/10.1016/j.compedu.2019.103734</a>
+:::
+
+::: csl-entry
+Kimmons, R., & Rosenberg, J. M. (2022). Trends and Topics in Educational Technology, 2022 Edition. <i>TechTrends</i>, <i>66</i>(2), 134--140. <a href="https://doi.org/10.1007/s11528-022-00713-0">https://doi.org/10.1007/s11528-022-00713-0</a>
+:::
+
+::: csl-entry
+Kyaw, B. M., Saxena, N., Posadzki, P., Vseteckova, J., Nikolaou, C. K., George, P. P., Divakar, U., Masiello, I., Kononowicz, A. A., Zary, N., & Tudor Car, L. (2019). Virtual Reality for Health Professions Education: Systematic Review and Meta-Analysis by the Digital Health Education Collaboration. <i>Journal of Medical Internet Research</i>, <i>21</i>(1), e12959. <a href="https://doi.org/10.2196/12959">https://doi.org/10.2196/12959</a>
+:::
+
+::: csl-entry
+Li, F., Wang, X., He, X., Cheng, L., & Wang, Y. (2021). How augmented reality affected academic achievement in K-12 education -- a meta-analysis and thematic-analysis. <i>Interactive Learning Environments</i>, 1--19. <a href="https://doi.org/10.1080/10494820.2021.2012810">https://doi.org/10.1080/10494820.2021.2012810</a>
+:::
+
+::: csl-entry
+Merchant, Z., Goetz, E. T., Cifuentes, L., Keeney-Kennicutt, W., & Davis, T. J. (2014). Effectiveness of virtual reality-based instruction on students' learning outcomes in K-12 and higher education: A meta-analysis. <i>Computers & Education</i>, <i>70</i>, 29--40. <a href="https://doi.org/10.1016/j.compedu.2013.07.033">https://doi.org/10.1016/j.compedu.2013.07.033</a>
+:::
+
+::: csl-entry
+Tsai, C.-Y., & Lai, Y.-C. (2022). Design and Validation of an Augmented Reality Teaching System for Primary Logic Programming Education. <i>Sensors</i>, <i>22</i>(1), 389. <a href="https://doi.org/10.3390/s22010389">https://doi.org/10.3390/s22010389</a>
+:::
+
+::: csl-entry
+Villena-Taranilla, R., Tirado-Olivares, S., Cózar-Gutiérrez, R., & González-Calero, J. A. (2022). Effects of virtual reality on learning outcomes in K-6 education: A meta-analysis. <i>Educational Research Review</i>, <i>35</i>, 100434. <a href="https://doi.org/10.1016/j.edurev.2022.100434">https://doi.org/10.1016/j.edurev.2022.100434</a>
+:::
+
+::: csl-entry
+Wu, B., Yu, X., & Gu, X. (2020). Effectiveness of immersive virtual reality using head‐mounted displays on learning performance: A meta‐analysis. <i>British Journal of Educational Technology</i>, <i>51</i>(6), 1991--2005. <a href="https://doi.org/10.1111/bjet.13023">https://doi.org/10.1111/bjet.13023</a>
+:::
+:::

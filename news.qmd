@@ -1,0 +1,18 @@
+---
+title: "News"
+listing:
+  id: "news-posts"
+  contents:
+    - "/news/*/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  fields: [image, title, reading-time, description, categories]
+  filter-ui: true
+  feed: true
+page-layout: full
+---
+
+::: {#news-posts}
+:::

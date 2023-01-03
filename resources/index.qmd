@@ -1,6 +1,7 @@
 ---
 title: Available Lab Resources
-summary: "The resources within the lab (and the lab, itself) are available for use by students, staff, and faculty."
+description: "The resources within the lab (and the lab, itself) are available for use by students, staff, and faculty."
+image: featured.jpeg
 ---
 
 [![](featured.jpeg)](https://stock.adobe.com/images/vr-isometric-icon-immersed-virtual-reality-experience-gaming-equipment-helmet-and-glasses-simulator-vector-3d-pictures-illustration-of-helmet-equipment-device-technology-vr/225472422?prev_url=detail)
@@ -11,27 +12,26 @@ Here is a(n incomplete and ever-growing) list of different resources available w
 
 ## Headsets and Related Gear
 
-+ [HTC Vive kit](https://www.vive.com/us/) (x3)
-+ [MERGE Cube & Headset kit](https://mergeedu.com/cube)
-+ [Microsoft HoloLens 1](https://www.microsoft.com/en-us/hololens) (x3)
-+ [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) 2 (x1)
-+ [Oculus Rift](https://www.oculus.com/rift/) (x3)
-+ [Oculus Quest](https://www.oculus.com/quest/features/) (x3)
-+ [Oculus Quest 2](https://www.oculus.com/quest-2/) (x1)
-+ [Oculus Go](https://www.cnet.com/reviews/oculus-go-review/) (x1)
-+ [Valve Index](https://store.steampowered.com/valveindex) (x1)
+-   [HTC Vive kit](https://www.vive.com/us/) (x3)
+-   [MERGE Cube & Headset kit](https://mergeedu.com/cube)
+-   [Microsoft HoloLens 1](https://www.microsoft.com/en-us/hololens) (x3)
+-   [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) 2 (x1)
+-   [Oculus Rift](https://www.oculus.com/rift/) (x3)
+-   [Oculus Quest](https://www.oculus.com/quest/features/) (x3)
+-   [Oculus Quest 2](https://www.oculus.com/quest-2/) (x1)
+-   [Oculus Go](https://www.cnet.com/reviews/oculus-go-review/) (x1)
+-   [Valve Index](https://store.steampowered.com/valveindex) (x1)
 
 ### Other Equipment
 
-+ Apple iPads (x2)
-+ Apple iPad Pro (x1)
-+ Canon EOS Rebel T6 DSLR kit
-+ [Cleanbox CX2](https://cleanboxtech.com/cx-series)
-+ Double3 Telepresence Robots (x2)
-+ Insta360 ONE X camera kit
-+ [Matterport Pro2 3D Camera](https://matterport.com/cameras/pro2-3D-camera) (x1)
-+ Zoom H6 audio recorder/interface
-
+-   Apple iPads (x2)
+-   Apple iPad Pro (x1)
+-   Canon EOS Rebel T6 DSLR kit
+-   [Cleanbox CX2](https://cleanboxtech.com/cx-series)
+-   Double3 Telepresence Robots (x2)
+-   Insta360 ONE X camera kit
+-   [Matterport Pro2 3D Camera](https://matterport.com/cameras/pro2-3D-camera) (x1)
+-   Zoom H6 audio recorder/interface
 
 ## Work Stations
 
@@ -39,127 +39,127 @@ Here is a(n incomplete and ever-growing) list of different resources available w
 
 This workstation has the following equipment and must be reserved together:
 
-+ Alienware laptop
-+ 65" Samsung SmartTV
+-   Alienware laptop
+-   65" Samsung SmartTV
 
 ### Workstation 2
 
-+ Mantis CUK gaming PC
-+ Dual monitors
-+ External webcam
-+ 75" Samsung SmartTV
+-   Mantis CUK gaming PC
+-   Dual monitors
+-   External webcam
+-   75" Samsung SmartTV
 
 ### Workstation 3
 
-+ iMac
+-   iMac
 
 ### Workstation 4
 
 (This workstation is on a cart and can also be used for streaming.)
 
-+ MSI GT-75 Titan laptop
-+ Webcam
-+ External speakers
-+ Broadcast microphone
+-   MSI GT-75 Titan laptop
+-   Webcam
+-   External speakers
+-   Broadcast microphone
 
 ## Games and Experiences
 
-+ [A Chair in a Room: Greenwater - VR Horror - Original Indie Virtual Reality Scares](http://www.achairinaroom.com/)
-+ [Affected - The Virtual Reality Horror Experience](https://www.fallenplanetstudios.com/affected-the-manor/)
-+ [Cosmodread – A VR survival horror roguelike](http://www.cosmodread.com/)
-+ [Google Earth VR](https://arvr.google.com/earth/)
-+ [Hinge VR](https://hinge.arcadia-vr.com/)
-+ [Layers of Fear VR on Steam](https://store.steampowered.com/app/1183030/Layers_of_Fear_VR/)
-+ [Microsoft Flight Simulator](https://www.flightsimulator.com/)
-+ [Paranormal Activity: The Lost Soul - Virtual Reality Game](https://www.pavrgame.com/)
-+ [Phasmophobia](https://kineticgames.co.uk/)
-+ [Space Engine – the universe simulator](https://spaceengine.org/)
-+ [Supernatural](https://www.getsupernatural.com/)
-+ [TheBlu](https://wevr.com/theblu)
-+ [Exorcist: Legion](https://www.exorcistlegion.com/)
-+ [The Forest | Endnight Games](https://endnightgames.com/games/the-forest)
-+ [The Lab on Steam](https://store.steampowered.com/app/450390/The_Lab/)
-+ [Transference | Ubisoft (UK)](https://www.ubisoft.com/en-gb/game/transference)
-+ [Wraith: The Oblivion - Afterlife](https://www.fasttravelgames.com/games/wraithafterlife)
+-   [A Chair in a Room: Greenwater - VR Horror - Original Indie Virtual Reality Scares](http://www.achairinaroom.com/)
+-   [Affected - The Virtual Reality Horror Experience](https://www.fallenplanetstudios.com/affected-the-manor/)
+-   [Cosmodread -- A VR survival horror roguelike](http://www.cosmodread.com/)
+-   [Google Earth VR](https://arvr.google.com/earth/)
+-   [Hinge VR](https://hinge.arcadia-vr.com/)
+-   [Layers of Fear VR on Steam](https://store.steampowered.com/app/1183030/Layers_of_Fear_VR/)
+-   [Microsoft Flight Simulator](https://www.flightsimulator.com/)
+-   [Paranormal Activity: The Lost Soul - Virtual Reality Game](https://www.pavrgame.com/)
+-   [Phasmophobia](https://kineticgames.co.uk/)
+-   [Space Engine -- the universe simulator](https://spaceengine.org/)
+-   [Supernatural](https://www.getsupernatural.com/)
+-   [TheBlu](https://wevr.com/theblu)
+-   [Exorcist: Legion](https://www.exorcistlegion.com/)
+-   [The Forest \| Endnight Games](https://endnightgames.com/games/the-forest)
+-   [The Lab on Steam](https://store.steampowered.com/app/450390/The_Lab/)
+-   [Transference \| Ubisoft (UK)](https://www.ubisoft.com/en-gb/game/transference)
+-   [Wraith: The Oblivion - Afterlife](https://www.fasttravelgames.com/games/wraithafterlife)
 
 ### Non-VR Games
 
-+ Amnesia: A Machine for Pigs
-+ Amnesia: The Dark Descent
-+ Claire
-+ Dark Fall: Lost Souls
-+ Dark Fall 1: The Journal
-+ Dark Fall 2: Lights Out
-+ Deadly Premonition
-+ DreadOut
-+ Dreamfall: The Longest Journey
-+ Dreamfall Chapters
-+ Exo One: Prologue
-+ Explore Fushimi Inari
-+ Gone Home
-+ Grimm
-+ Kinoko
-+ Lucius
-+ Never Alone (Kisima Ingitchuna)
-+ Neverending Nightmares
-+ Omikron - The Nomad Soul
-+ Penumbra: Black Plague
-+ Penumbra: Overture
-+ Penumbra: Requiem
-+ Serena
-+ Skyrim (Special Edition)
-+ The 111th Soul
-+ The Imagined Leviathan
-+ The Last Show of Mr. Chardish: Act I
-+ The Longest Journey
-+ The Stanley Parable
-+ The Ultimate Doom
-+ Undertale
-+ WORLD OF HORROR
+-   Amnesia: A Machine for Pigs
+-   Amnesia: The Dark Descent
+-   Claire
+-   Dark Fall: Lost Souls
+-   Dark Fall 1: The Journal
+-   Dark Fall 2: Lights Out
+-   Deadly Premonition
+-   DreadOut
+-   Dreamfall: The Longest Journey
+-   Dreamfall Chapters
+-   Exo One: Prologue
+-   Explore Fushimi Inari
+-   Gone Home
+-   Grimm
+-   Kinoko
+-   Lucius
+-   Never Alone (Kisima Ingitchuna)
+-   Neverending Nightmares
+-   Omikron - The Nomad Soul
+-   Penumbra: Black Plague
+-   Penumbra: Overture
+-   Penumbra: Requiem
+-   Serena
+-   Skyrim (Special Edition)
+-   The 111th Soul
+-   The Imagined Leviathan
+-   The Last Show of Mr. Chardish: Act I
+-   The Longest Journey
+-   The Stanley Parable
+-   The Ultimate Doom
+-   Undertale
+-   WORLD OF HORROR
 
 ## Software
 
 ### Data Analysis, Coding, and Visualization
 
-+ Anaconda suite
-+ RStudio
-+ RStudio Connect
-    + *Only the lab director can push content to this platform. Consultation is required before its use.*
+-   Anaconda suite
+-   RStudio
+-   RStudio Connect
+    -   *Only the lab director can push content to this platform. Consultation is required before its use.*
 
 ### Development
 
-+ Adobe Creative Cloud
-    + Aero
-    + After Effects
-    + Animate
-    + Audition
-    + Dimension
-    + Fresco
-    + Illustrator
-    + InDesign
-    + Photoshop
-    + Premiere Pro
-    + Premiere Rush
-    + Substance 3D
-    + XD
-+ Blender
-+ EyeJack
-+ MyWebAR
-+ NVIDIA Omniverse
-+ Unity
-+ Unreal Engine
+-   Adobe Creative Cloud
+    -   Aero
+    -   After Effects
+    -   Animate
+    -   Audition
+    -   Dimension
+    -   Fresco
+    -   Illustrator
+    -   InDesign
+    -   Photoshop
+    -   Premiere Pro
+    -   Premiere Rush
+    -   Substance 3D
+    -   XD
+-   Blender
+-   EyeJack
+-   MyWebAR
+-   NVIDIA Omniverse
+-   Unity
+-   Unreal Engine
 
 ### Streaming
 
 The MA{VR}X Lab also provides microphones and an audio interface for streaming interviews, gameplay, and so on.
 
-+ Blue Yeti microphone
-+ Green screen (x2)
-+ LED light panels (x2)
-+ NVIDIA Broadcast
-+ OBS Studio
-+ Rode lavaliere microphone (x2)
-+ Rode Wireless GO II kit
-    + Includes two wireless transmitters and one wireless receiver.
-+ Streamlabs OBS
-+ Zoom
+-   Blue Yeti microphone
+-   Green screen (x2)
+-   LED light panels (x2)
+-   NVIDIA Broadcast
+-   OBS Studio
+-   Rode lavaliere microphone (x2)
+-   Rode Wireless GO II kit
+    -   Includes two wireless transmitters and one wireless receiver.
+-   Streamlabs OBS
+-   Zoom

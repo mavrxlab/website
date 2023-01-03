@@ -1,14 +1,53 @@
 ---
 page-layout: full
+toc: false
+listing: 
+  - id: news
+    sort: "date desc"
+    contents: "news/*/*.qmd"
+    type: grid
+    categories: false
+    max-items: 3
+    fields: [image, date, title, description]
+  - id: projects
+    sort: "date desc"
+    contents: "projects/*/*.qmd"
+    type: grid
+    categories: false
+    max-items: 3
+    fields: [image, title, description]
 ---
 
-![](assets/images/big-banner.png) 
+![](assets/images/big-banner.png)
 
-&nbsp;<a rel="me" href="https://hci.social/@mavrxlab"></a>
+<!--# Verifying lab on Mastodon -->
 
------
+ <a rel="me" href="https://hci.social/@mavrxlab"></a>
 
-&nbsp;
+------------------------------------------------------------------------
 
-The **M**ixed **A**ugmented **V**i**R**tual e**X**tended (Reality) Laboratory in the College of Applied Science & Technology is the University of Arizona's center of research and development for alternative reality media and training in southeastern Arizona.
+::: {layout-ncol="2"}
+The **M**ixed **A**ugmented **V**i**R**tual e**X**tended (Reality) Laboratory in the College of Applied Science & Technology is the University of Arizona's home for research, exploration, and development for alternative and extended reality media and training in southeastern Arizona.
 
+We take a very broad view of "extended reality" to include everything from head-mounted displays, volumetric video, digital identity, and more.
+:::
+
+## News
+
+::: {#news}
+:::
+
+[View all news {{< fa arrow-right >}}](news.qmd)
+
+## Projects
+
+::: {#projects}
+:::
+
+[View all projects {{< fa arrow-right >}}](projects.qmd)
+
+## Social
+
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="100%" height="800" src="http://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fhci.social%2Fusers%2Fmavrxlab&amp;theme=light&amp;size=100&amp;header=false&amp;replies=true&amp;boosts=false">
+
+</iframe>

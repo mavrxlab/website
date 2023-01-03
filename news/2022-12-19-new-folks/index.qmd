@@ -1,0 +1,23 @@
+---
+title: "Welcome to the new mavericks!"
+draft: false
+date: '2022-12-19'
+categories:
+  - meta
+summary: 'Say hello to the new members of the lab!'
+lastmod: '2022-12-19T09:00:00-07:00'
+---
+
+![](featured.jpeg)
+
+I'm thrilled to welcome the newest members of the MA{VR}X Lab for the spring 2023 semester!
+
+::: {layout-ncol="4"}
+![Wilbur](wildcat.png)
+
+![Wilbur](wildcat.png)
+
+![Wilbur](wildcat.png)
+
+![Wilbur](wildcat.png)
+:::

@@ -1,0 +1,29 @@
+---
+title: 'Simulation, Immersion, and Gamification'
+description: "Dr. Straight will be sitting on a UNESCO-supported webinar to talk extended reality, artificial intelligence, and online education."
+category: talks
+date: "2022-01-03"
+image: featured.jpeg
+
+citation:
+  title: 'Simulation, Immersion, and Gamification'
+  abstract: "As the real and virtual worlds continue to intertwine, we are reorienting ourselves to the notion of serious play, and to the value of simulation, immersion, and game-based learning. In this webinar, our expert panelists will explore the emergent possibilities and exciting teaching, learning, and doing taking place through immersive, virtual experiences."
+  type: event
+  genre: talk
+  event-date: "2022-01-10"
+  event: "Digital Literacy & AI Webinar Series"
+  url: "https://onlinelearningconsortium.org/webinar/digital-literacy-ai-webinar-series-3-simulation-immersion-and-gamification/"
+  event-place: "Online"
+---
+
+Dr. Straight will be sitting on a UNESCO-supported webinar to talk extended reality, artificial intelligence, and online education. This is part 3 of 5 in a series of webinars entitled "Digital Literacy & AI." The topic is "Simulation, Immersion, and Gamification." This event is hosted by the Online Learning Consortium and organized by Dr. Ben Scragg.
+
+## Takeaways
+
+-   Explore emerging technologies that are driving global innovation for teaching and learning through simulation, immersion, and gamification
+-   Identify opportunities and technologies to implement innovative solutions across a spectrum of access, cost, and openness.
+-   Gain insights on research, adoption and implementation strategies for scaling innovative technologies across systems and institutions.
+
+## Intended audience
+
+Higher Education Administrators, Higher Education Faculty, K-12 Administrators, K-12 Faculty, Online Education Directors, Instructional and Educational Technologists, Learning Experience Designers, Education Policy Makers, Educational Futurists, International Community

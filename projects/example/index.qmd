@@ -1,0 +1,12 @@
+---
+title: "Example"
+summary: |
+  An example project page.
+draft: false
+image: featured.jpeg
+
+about:
+  image: featured.jpeg
+---
+
+`r lorem::ipsum(4)`

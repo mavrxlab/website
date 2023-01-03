@@ -1,0 +1,13 @@
+---
+title: "Scholarly Output"
+image: featured.jpeg
+about:
+  template: jolla
+  image-width: 10em
+  image-shape: round
+comments: false
+draft: true
+# Modeled on https://www.snowdaylearninglab.org/projects
+---
+
+The wide range of scholarly output related to and coming through the lab.
