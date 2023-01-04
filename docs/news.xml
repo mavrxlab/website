@@ -9,7 +9,7 @@
 <link>https://mavrxlab.org/news.html</link>
 <atom:link href="https://mavrxlab.org/news.xml" rel="self" type="application/rss+xml"/>
 <description>Official site for the University of Arizona&#39;s MA{VR}X Lab</description>
-<generator>quarto-1.2.280</generator>
+<generator>quarto-1.3.34</generator>
 <lastBuildDate>Mon, 19 Dec 2022 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome to the new mavericks!</title>
@@ -787,7 +787,7 @@ Ryan Straight. 2021. <span>“What Is the MA{VR}X Lab?”</span> July 21,
 </div>
 <p>This beast comes in at <strong>134</strong> megapixels.</p>
 <p>The photography website Adorama has a great introductory video for the camera:</p>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/mGa-uiKRLGg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/mGa-uiKRLGg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="leica-blk360" class="level3">
 <h3 class="anchored" data-anchor-id="leica-blk360">Leica BLK360</h3>

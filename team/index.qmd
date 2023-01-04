@@ -32,7 +32,15 @@ Current undergraduates involved in the lab.
 ::: g-col-3
 ![](images/wildcat.png)
 
-Anthony Somohano\
+**Waamene Yowika**\
+Cyber Operations\
+Undergraduate Researcher\
+:::
+
+::: g-col-3
+![](images/wildcat.png)
+
+**Anthony Somohano**\
 Pre-Business\
 Undergraduate Researcher\
 :::
@@ -40,7 +48,7 @@ Undergraduate Researcher\
 ::: g-col-3
 ![](images/wildcat.png)
 
-Jacob Keroack\
+**Jacob Keroack**\
 Neuroscience and Cognitive Science\
 Undergraduate Researcher\
 :::
@@ -48,7 +56,7 @@ Undergraduate Researcher\
 ::: g-col-3
 ![](images/wildcat.png)
 
-David Poehlman\
+**David Poehlman**\
 Cyber Operations\
 Lab Volunteer\
 :::
@@ -56,7 +64,7 @@ Lab Volunteer\
 ::: g-col-3
 ![](images/wildcat.png)
 
-Aaron Beck\
+**Aaron Beck**\
 Cyber Operations\
 :::
 :::
