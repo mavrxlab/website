@@ -1,6 +1,3 @@
-# Freeze computed outputs
-freeze: auto
-
 about:
   template: solana
   image-width: 20em

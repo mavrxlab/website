@@ -2,7 +2,7 @@
 title: "Ed3: Web3 and Education"
 description: |
   This project focuses on so-called Web3 technologies and their influence on and use in education.
-draft: true
+draft: false
 image: featured.jpeg
 
 about:
