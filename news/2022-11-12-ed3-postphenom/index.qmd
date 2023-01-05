@@ -5,6 +5,7 @@ image: "featured.png"
 description: |
   A talk given by Dr. Straight at Ed3Con22.
 category: talks
+doi: "10.17605/OSF.IO/JCE6B"
 
 citation:
   title: "A Philosophy of Technology and Education in the Metaverse"
@@ -12,6 +13,7 @@ citation:
   event: "Web3 & the Evolution of Education Unconference (Ed3Con22)"
   genre: talk
   url: "https://www.ed3dao.com/ed3con-day3-schedule#:~:text=A%20Philosophy%20of%20Technology%20and%20Education%20in%20the%20Metaverse"
+  doi: "10.17605/OSF.IO/JCE6B"
   abstract: "Experience and education in the metaverse is, without fail, mediated by technology at some point. As we move further into a pervasive and ubiquitous metaversal landscape, it is crucial we consider these experiences as experiences, filters, and knowledge-generating moments in time that, while virtual, have real-world impacts. In this session, Dr. Ryan Straight, honors professor and lab director at the University of Arizona's College of Applied Science and Technology will discuss the ways in which understanding these mediations leads to better teaching, better learning, and a more equitable experience for all."
 ---
 

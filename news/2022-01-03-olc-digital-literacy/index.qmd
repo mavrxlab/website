@@ -4,6 +4,7 @@ description: "Dr. Straight will be sitting on a UNESCO-supported webinar to talk
 category: talks
 date: "2022-01-03"
 image: featured.jpeg
+doi: "10.17605/OSF.IO/54DF3"
 
 citation:
   title: 'Simulation, Immersion, and Gamification'
@@ -14,6 +15,7 @@ citation:
   event: "Digital Literacy & AI Webinar Series"
   url: "https://onlinelearningconsortium.org/webinar/digital-literacy-ai-webinar-series-3-simulation-immersion-and-gamification/"
   event-place: "Online"
+  doi: "10.17605/OSF.IO/54DF3"
 ---
 
 Dr. Straight will be sitting on a UNESCO-supported webinar to talk extended reality, artificial intelligence, and online education. This is part 3 of 5 in a series of webinars entitled "Digital Literacy & AI." The topic is "Simulation, Immersion, and Gamification." This event is hosted by the Online Learning Consortium and organized by Dr. Ben Scragg.

@@ -5,6 +5,7 @@ description: "A panel discussion hosted by Dr. Straight at the OLC Accelerate 20
 title: "Web3 and Education: An Optimistic Primer on Online Learning's Blockchain-based Future"
 image: featured.jpeg
 category: talks
+doi: "10.17605/OSF.IO/8HSRX"
 
 citation:
   title: "Web3 and Education: An Optimistic Primer on Online Learning's Blockchain-based Future"
@@ -12,6 +13,7 @@ citation:
   event: "OLC Accelerate '22"
   event-date: 2022-04-13
   genre: talk
+  doi: "10.17605/OSF.IO/8HSRX"
   url: "https://onlinelearningconsortium.org/olc-accelerate-2022-session-page/?session=11670"
   abstract: "The internet is changing and online learning will necessarily change with it. Terms like 'crypto,' 'blockchain,' 'NFT,' 'DAO,' and 'Web3' are possibly not entirely new to you, but do you know what to expect when these stop being theoretical and become infused into the very bedrock of online learning? Join our panel of experts and educators to help answer questions like 'What problem does this solve?,' 'What value does this add?,' 'How does it work?,' and 'What does it even do?'"
 ---

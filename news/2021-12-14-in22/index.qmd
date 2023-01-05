@@ -3,6 +3,7 @@ title: "Karu: Introducing the Metaversal Library for the Future of Immersive Lea
 date: "2021-12-14"
 description: "A conference presentation given by Dr. Straight at the OLC Innovate 2022 conference."
 image: featured.jpeg
+doi: "10.17605/OSF.IO/3A9CS"
 category: talks
 
 citation:
@@ -11,6 +12,7 @@ citation:
   event-date: "2022-04-13"
   type: event
   genre: talk
+  doi: "10.17605/OSF.IO/3A9CS"
   event: "OLC Innovate '22"
   url: "https://onlinelearningconsortium.org/olc-innovate-2022-session-page/?session=10765"
   event-place: "Gaylord Texan Resort & Convention Center - Grapevine, Texas - Room: Dallas 3-4"
