@@ -45,9 +45,3 @@ We take a very broad view of "extended reality" to include everything from head-
 :::
 
 [View all projects {{< fa arrow-right >}}](projects.qmd)
-
-## Social
-
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="100%" height="800" src="http://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fhci.social%2Fusers%2Fmavrxlab&amp;theme=light&amp;size=100&amp;header=false&amp;replies=true&amp;boosts=false">
-
-</iframe>
