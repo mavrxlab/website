@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the new mavericks!"
-draft: false
-date: '2022-12-19'
+draft: true
+date: 2022-12-19
 categories:
   - meta
 summary: 'Say hello to the new members of the lab!'

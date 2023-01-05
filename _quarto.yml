@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
 
 title-block-style: default
 title-block-banner: true
@@ -49,6 +49,9 @@ website:
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
       with much inspiration from [Andreas Handel](https://github.com/andreashandel/andreashandelwebsite).
 
+execute:
+  freeze: true
+  
 format:
   html:
     css: styles.css

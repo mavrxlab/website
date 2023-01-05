@@ -4,5 +4,5 @@
 .RData
 .Ruserdata
 /.quarto/
-_site
 data/
+/_site/

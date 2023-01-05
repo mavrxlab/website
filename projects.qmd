@@ -15,7 +15,7 @@ comments: false
 # Model on https://www.snowdaylearninglab.org/projects
 ---
 
-Current projects going on in the lab. Dig into each project to learn more, see related posts, and get the point of contact.
+Current projects going on in the lab. Dig into each project to learn more and see related posts, public scholarship, and academic output.
 
 ::: {#project-list}
 :::

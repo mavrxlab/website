@@ -1,0 +1,12 @@
+---
+title: "Ed3: Web3 and Education"
+description: |
+  This project focuses on so-called Web3 technologies and their influence on and use in education.
+draft: true
+image: featured.jpeg
+
+about:
+  image: featured.jpeg
+---
+
+The movement toward a sufficiently decentralized internet (known as Web3) has been gaining popularity in areas such as finance (cryptocurrency) and the industrial supply chain (blockchain). Another area that is beginning to build steam is in education. Proponents of decentralization, learner sovereignty, and verifiable credentials see the Web3 movement as a boon for education. This is generally known as Ed3. This study seeks to gather opinions, attitudes, criticisms, and concerns about the Ed3 movement from organizers, attendees, and online community members at a conference specifically built around this topic.
