@@ -38,7 +38,15 @@ Undergraduate Researcher\
 :::
 
 ::: g-col-3
-![](images/wildcat.png)
+![](images/nikki.png)
+
+**Nikki Diguardi**\
+Software Development\
+Undergraduate Researcher\
+:::
+
+::: g-col-3
+![](images/anthony-s.png)
 
 **Anthony Somohano**\
 Pre-Business\
@@ -46,7 +54,7 @@ Undergraduate Researcher\
 :::
 
 ::: g-col-3
-![](images/wildcat.png)
+![](images/jacob.png)
 
 **Jacob Keroack**\
 Neuroscience and Cognitive Science\
