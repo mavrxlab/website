@@ -1,4 +1,10 @@
 project:
+  render:
+    - "*.qmd"
+    - "*/*.qmd"
+    - "*/*/*.qmd"
+    - "!*/*/*/*.qmd"
+    - "!reports/"
   type: website
   output-dir: _site
 

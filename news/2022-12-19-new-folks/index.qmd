@@ -1,23 +1,87 @@
 ---
 title: "Welcome to the new mavericks!"
 draft: true
-date: 2022-12-19
+date: 2023-01-19
 categories:
   - meta
 summary: 'Say hello to the new members of the lab!'
-lastmod: '2022-12-19T09:00:00-07:00'
+lastmod: '2023-01-19T09:00:00-07:00'
 ---
 
 ![](featured.jpeg)
 
 I'm thrilled to welcome the newest members of the MA{VR}X Lab for the spring 2023 semester!
 
-::: {layout-ncol="4"}
-![Wilbur](wildcat.png)
+::: grid
+::: g-col-4
+![Waamene Yowika](waamene.png)
+:::
 
-![Wilbur](wildcat.png)
+::: g-col-8
+**Waamene Yowika**\
+Cyber Operations\
+Undergraduate Researcher\
 
-![Wilbur](wildcat.png)
+I am a junior within CAST and I will be earning my degree in Cyber Engineering. I've always been interested in the Cyberspace and how various factors affect it, especially when it comes to privacy. I would love to complete labs on Cybersecurity Awareness and Fidelity to Reality, Posthuman Inquiry into Cyber, Virtual Reality Fitness Coaches and Parasocial Relationships, and MA{VR}X. My career goal is to become a Cybersecurity Architect or Network Architect. After I graduate, I intend to go to graduate school, and I believe that this research experience will not only help me develop internally, but also serve to make me a more competitive applicant. I love fashion, walking, technology, video games, movies, traveling, and photography.
+:::
+:::
 
-![Wilbur](wildcat.png)
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![Nikki Diguardi](nikki.png)
+:::
+
+::: g-col-8
+**Nikki Diguardi**\
+Software Development\
+Undergraduate Researcher\
+
+I am a Senior with CAST earning a degree in Software Development. My pet project would be creating software for a full dive rig. I need more information with the interaction of the brain//human interaction in an altered reality as I personally have only dove into VR once for about 3 minutes. My goal is become a Software Engineer from a 10 year manufacturing career. I have a wide array of hobbies and enjoyments- from food, painting, TV shows, movies, anime, video games, and Magic the Gathering which I leisure with my Husband, Brand.
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![Anthony Somohano](anthony-s.png)
+:::
+
+::: g-col-8
+**Anthony Somohano**\
+Pre-Business\
+Undergraduate Researcher\
+
+I am Studying MIS and Accounting. I am really interested in VR and its applications in training professional athletes. I recently was able to tour the Penn-State football facility, and I got to see how large football programs use VR when it comes to training their athletes. My Hobbies are coding, watching college football, And lifting weights.
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![Jacob Keroack](jacob.png)
+:::
+
+::: g-col-8
+**Jacob Keroack**\
+Neuroscience and Cognitive Science\
+Undergraduate Researcher\
+
+I study Neuroscience and Cognitive Science because of my interest in the neuropsychiatric disorders. I would like to complete a lab affiliated project around the neuropsych disorders and XR/VR. I am hopeful this research experience will make me a more competitive neuroscience PhD applicant (I start applying Fall 2023). Fall of 2022 I got a great new dog, Vaughn, who I spend a lot of time caring for. I'm a big fan of door dashing food, watching niche youtubers, and daily cardio.
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![David Poehlman](david.png)
+:::
+
+::: g-col-8
+This column takes 2/3 of the page
+:::
 :::

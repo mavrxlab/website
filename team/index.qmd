@@ -30,7 +30,7 @@ Current undergraduates involved in the lab.
 
 ::: grid
 ::: g-col-3
-![](images/wildcat.png)
+![](images/waamene.png)
 
 **Waamene Yowika**\
 Cyber Operations\
@@ -69,12 +69,15 @@ Cyber Operations\
 Lab Volunteer\
 :::
 
-::: g-col-3
-![](images/wildcat.png)
+<!-- ::: g-col-3 -->
 
-**Aaron Beck**\
-Cyber Operations\
-:::
+<!-- ![](images/wildcat.png) -->
+
+<!-- **Aaron Beck**\ -->
+
+<!-- Cyber Operations\ -->
+
+<!-- ::: -->
 :::
 
 <!--# Collaborators -->
@@ -122,7 +125,7 @@ Those who have survived their time in the lab.
 
 ::: grid
 ::: g-col-3
-![](images/anthony.jpg)
+![](images/anthony.png)
 
 Anthony Vega\
 Applied Computing\
