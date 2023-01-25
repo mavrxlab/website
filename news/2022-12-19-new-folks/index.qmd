@@ -4,7 +4,7 @@ draft: false
 date: 2023-01-19
 categories:
   - meta
-summary: 'Say hello to the new members of the lab!'
+description: 'Say hello to the new members of the lab!'
 lastmod: '2023-01-19T09:00:00-07:00'
 ---
 
