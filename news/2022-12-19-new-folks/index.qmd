@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the new mavericks!"
-draft: true
+draft: false
 date: 2023-01-19
 categories:
   - meta
@@ -10,7 +10,7 @@ lastmod: '2023-01-19T09:00:00-07:00'
 
 ![](featured.jpeg)
 
-I'm thrilled to welcome the newest members of the MA{VR}X Lab for the spring 2023 semester!
+I'm thrilled to welcome the newest members of the MA{VR}X Lab for the spring 2023 semester! Keep an eye on this space for updates on all the amazing things being done by these amazing people.
 
 ::: grid
 ::: g-col-4
@@ -22,7 +22,7 @@ I'm thrilled to welcome the newest members of the MA{VR}X Lab for the spring 202
 Cyber Operations\
 Undergraduate Researcher\
 
-I am a junior within CAST and I will be earning my degree in Cyber Engineering. I've always been interested in the Cyberspace and how various factors affect it, especially when it comes to privacy. I would love to complete labs on Cybersecurity Awareness and Fidelity to Reality, Posthuman Inquiry into Cyber, Virtual Reality Fitness Coaches and Parasocial Relationships, and MA{VR}X. My career goal is to become a Cybersecurity Architect or Network Architect. After I graduate, I intend to go to graduate school, and I believe that this research experience will not only help me develop internally, but also serve to make me a more competitive applicant. I love fashion, walking, technology, video games, movies, traveling, and photography.
+I am a junior within CAST and I will be earning my degree in Cyber Engineering. I've always been interested in the Cyberspace and how various factors affect it, especially when it comes to privacy. My career goal is to become a Cybersecurity Architect or Network Architect. After I graduate, I intend to go to graduate school, and I believe that this research experience will not only help me develop internally, but also serve to make me a more competitive applicant. I love fashion, walking, technology, video games, movies, traveling, and photography.
 :::
 :::
 
@@ -82,6 +82,10 @@ I study Neuroscience and Cognitive Science because of my interest in the neurops
 :::
 
 ::: g-col-8
-This column takes 2/3 of the page
+**David Poehlman**\
+Cyber Operations: Engineering\
+Lab Volunteer\
+
+My name is David, and I am a Walmart associate turned CAST student studying to complete a BAS in Cyber Operations with an Engineering track. I've always been a bit of a tech nerd and enjoy building and troubleshooting computers and devices. As I've delved further into the topic of Cybersecurity I've become more fascinated by how data works and how our lives are so intertwined with our digital footprint as well as the presence we have out there with technology. Whether we realize it or not. I'm also really fascinated about VR and seeing where things will go in the future as well as how Cybersecurity impacts and will impact our future in a virtual and augmented world. I would personally love to see the world move in a direction that is hybridized to include the kinetic world and the VR/AR world ubiquitously. I really think that kind of a world would be amazing to live in. My other hobbies include spending time with my cats, video gaming and watching anime.
 :::
 :::

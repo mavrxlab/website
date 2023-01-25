@@ -62,7 +62,7 @@ Undergraduate Researcher\
 :::
 
 ::: g-col-3
-![](images/wildcat.png)
+![](images/david.png)
 
 **David Poehlman**\
 Cyber Operations\
