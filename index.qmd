@@ -9,6 +9,7 @@ listing:
     categories: false
     max-items: 3
     fields: [image, date, title, description]
+    feed: true
   - id: projects
     sort: "date desc"
     contents: "projects/*/*.qmd"

@@ -14,7 +14,7 @@ title-block-banner: true
 website:
   reader-mode: false
   title: "MA{VR}X Lab"
-  site-url: "https://mavrxlab.org"
+  site-url: https://mavrxlab.org
   description: "Official site for the University of Arizona's MA{VR}X Lab"
   navbar:
     logo: assets/images/big-banner-white.png
@@ -32,8 +32,8 @@ website:
         text: News
       - href: projects.qmd
         text: Projects
-      - href: team/
-        text: Team
+#      - href: team/
+#        text: Team
       - href: resources/
         text: Resources
 
