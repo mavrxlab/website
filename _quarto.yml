@@ -32,8 +32,8 @@ website:
         text: News
       - href: projects.qmd
         text: Projects
-#      - href: team/
-#        text: Team
+      - href: team/
+        text: Team
       - href: resources/
         text: Resources
 
