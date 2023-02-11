@@ -23,3 +23,67 @@ The director of the MA{VR}X Lab, Dr. Ryan Straight will be presenting a conferen
 ## Slides
 
 Feel free to [enjoy the slide deck](https://ryanstraight.github.io/ttle-2023/index.html) made with [xaringan](https://slides.yihui.org/xaringan/#1) and [xaringanExtra](https://pkg.garrickadenbuie.com/xaringanExtra/#/).
+
+## Resources
+
+Aagaard, J.
+(2016).
+Introducing postphenomenological research: A brief and selective sketch of phenomenological research methods.
+International Journal of Qualitative Studies in Education, 30(6), 519--533.
+https://doi.org/10.1080/09518398.2016.1263884
+
+Adams, C. A., & Thompson, T. L.
+(2011).
+Interviewing objects: Including educational technologies as qualitative research participants.
+International Journal of Qualitative Studies in Education, 24(6), 733--750.
+https://doi.org/10.1080/09518398.2010.529849
+
+Adams, C., & Turville, J.
+(2018).
+Doing Postphenomenology in Education.
+In Postphenomenological Methodologies: New Ways in Mediating Techno-Human Relationships (pp. 3--25).
+Lexington Books.
+echnology (2nd ed., pp. 539--560).
+Wiley-Blackwell.
+
+Ihde, D.
+(2009).
+Postphenomenology and Technoscience: The Peking University Lectures.
+SUNY Press.
+
+Ihde, D.
+(2008).
+Introduction: Postphenomenological research.
+Human Studies, 31(1), 1--9.
+https://doi.org/10.1007/s10746-007-9077-2
+
+Ihde, D.
+(2012).
+Experimental Phenomenology: Multistabilities (2nd ed.).
+State University of New York Press.
+
+Ihde, D.
+(2014).
+A Phenomenology of Technics.
+In R. C. Scharff & V. Dusek (Eds.), Philosophy of T
+
+Irving, L.
+(2016).
+Virtual Worlds as Pedagogical Places: Experiences of Higher Education Academics \[Doctoral dissertation, Deakin University\].
+http://dro.deakin.edu.au/view/DU:30088534
+
+Tripathi, A. K.
+(2015).
+Postphenomenological investigations of technological experience.
+AI and Society, 30(2), 199--205.
+https://doi.org/10.1007/s00146-014-0575-2
+
+Wellner, G.
+(2021).
+The Zoom-bie Student and the Lecturer: Reflections on Teaching and Learning with Zoom.
+Techné: Research in Philosophy and Technology, 25(1), 1--25.
+
+Verbeek, P. P. (2008).
+Cyborg intentionality: Rethinking the phenomenology of human-technology relations.
+Phenomenology and the Cognitive Sciences, 7(3), 387--395.
+https://doi.org/10.1007/s11097-008-9099-x
