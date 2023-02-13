@@ -9,9 +9,10 @@ citation:
   title: "The Inescapable Technological Mediation of Online Learning"
   abstract: "At each and every step, education in an online modality is necessarily mediated by innumerable technologies. In a variation on the traditional postphenomenological understanding of technological mediation, we will trace the experience through the learner, into the technology, the design of the instruction, to the content, and back again. At these “enigma points,” we find we end up playing a kind of pedagogical ‘telephone,’ potentially divorcing what is actually being experienced from what and how it was intended. Like designing a user or learning experience, you can’t design the experience, only for it."
   type: event
-  genre: talk
+  genre: Invited talk.
   event-date: "2023-02-13"
   event: "Transforming the Teaching & Learning Environment conference"
+  container-title: "Transforming the Teaching & Learning Environment conference"
   url: "https://passhe.info/conference/?page_id=8534"
   event-place: "Online"
   doi: "DOI 10.17605/OSF.IO/T86DB"
