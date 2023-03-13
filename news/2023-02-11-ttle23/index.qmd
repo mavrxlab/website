@@ -13,12 +13,12 @@ citation:
   event-date: "2023-02-13"
   event: "Transforming the Teaching & Learning Environment conference"
   container-title: "Transforming the Teaching & Learning Environment conference"
-  url: "https://passhe.info/conference/?page_id=8534"
+  url: "https://ducmediasite.passhe.edu/Mediasite/Channel/e66b99676d1a4b17b854afc22f28ff355f/watch/645ad83cdbdc4c2ea8ceead4fe7016a61d"
   event-place: "Online"
   doi: "DOI 10.17605/OSF.IO/T86DB"
 ---
 
-The director of the MA{VR}X Lab, Dr. Ryan Straight will be presenting a conference talk at the *14th Annual Transforming the Teaching & Learning Environment* conference this February.
+The director of the MA{VR}X Lab, Dr. Ryan Straight, presented a conference talk at the *14th Annual Transforming the Teaching & Learning Environment* conference on February 13th.
 
 **The conference is run on Central (UTC-06).**
 
@@ -26,6 +26,11 @@ The director of the MA{VR}X Lab, Dr. Ryan Straight will be presenting a conferen
 
 Feel free to [enjoy the slide deck](https://ryanstraight.github.io/ttle-2023/index.html) made with [xaringan](https://slides.yihui.org/xaringan/#1) and [xaringanExtra](https://pkg.garrickadenbuie.com/xaringanExtra/#/).
 
+## Recording
+
+```{=html}
+<iframe width="640" height="480" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://ducmediasite.passhe.edu/Mediasite/Channel/e66b99676d1a4b17b854afc22f28ff355f/headless/watch/645ad83cdbdc4c2ea8ceead4fe7016a61d"></iframe>
+```
 ## Resources
 
 Aagaard, J. (2016). Introducing postphenomenological research: A brief and selective sketch of phenomenological research methods. International Journal of Qualitative Studies in Education, 30(6), 519--533. https://doi.org/10.1080/09518398.2016.1263884
