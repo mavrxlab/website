@@ -16,6 +16,8 @@ website:
   title: "MA{VR}X Lab"
   site-url: https://mavrxlab.org
   description: "Official site for the University of Arizona's MA{VR}X Lab"
+  open-graph:
+    site-name: "MA{VR}X Lab"
   navbar:
     logo: assets/images/big-banner-white.png
     logo-alt: "MA{VR}X Lab"

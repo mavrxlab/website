@@ -1,0 +1,51 @@
+---
+title: "The State of Online Learning in Web3: How Educators Understand and Implement Ed3, Blockchain, and Metaversal Technologies"
+date: "2023-03-30"
+description: "A talk given by Dr. Straight at the 2023 OLC Innovate conference."
+image: featured.jpeg
+category: talks
+
+citation:
+  title: "The State of Online Learning in Web3: How Educators Understand and Implement Ed3, Blockchain, and Metaversal Technologies"
+  abstract: "The 'Ed3' movement champions integrating education with internet technologies targeting decentralization, learner sovereignty, and verifiable credentials, known collectively as Web3 and the metaverse. While this movement grows, the knowledge, attitudes, and concerns of those involved remain unknown. Contextual to online learning, results and implications of such a study are discussed."
+  type: event
+  genre: Conference presentation.
+  event-date: "2023-04-04"
+  event: "OLC Innovate 2023"
+  container-title: "OLC Innovate 2023"
+  url: "https://onlinelearningconsortium.org/olc-innovate-2023-session-page/?session=12323&kwds="
+  event-place: "Online"
+  doi: "10.17605/OSF.IO/E8SZT"
+---
+
+![](featured.jpeg)
+
+The director of the MA{VR}X Lab, Dr. Ryan Straight, will give a conference talk at the *OLC Innovate 2023* conference on April 4th at 2pm. **The conference is run on Central Daylight time (UTC-05).**
+
+## Slides and Resources
+
+The slide deck and additional resources will be available after the talk.
+
+<!-- Feel free to [enjoy the slide deck](https://ryanstraight.github.io/in23/index.html) made with [Quarto and revealjs](https://quarto.org). -->
+
+## Extended Abstract
+
+On the heels of a recent introduction to these technologies, this session seeks to expand beyond the potentiality of these technologies and focus instead on their relevance to online and hybrid learning by sharing the results, analysis, and implications of a study focused explicitly on if and how educators understand the intersection of online learning, Web3, and metaversal technologies.
+
+"Blockchain," the catch-all term for immutable decentralized ledgers of data transactions, have been explored academically for use in education for a number of years, from generally applying blockchain to higher education (Lizcano, et al, 2020; Federova & Skobleva, 2020), to how it may impact student motivation and learning retention (Chivu, et al, 2022), to how its inherent consensus mechanism, persistence, and the inclusion of "smart contracts" and other blockchain-based tools support learning outcomes (Bucea-Manea-Tonis, et al, 2021).
+
+There is little to no regulation in the Web3 space, however (Rosenberg, 2022), and this presents problems when incorporating student records (protected by federal law) and intellectual property (Fenwick & Jurcys, 2022). This necessarily requires the exploration of ethics as these technologies provide hyperreal experiences (Graham, 2022) and may not lend themselves to good-faith actors or intrinsic respect between users, especially considering the core anonymity built into the decentralized internet. The nearly universally steep learning curve associated with these technologies is a hindrance to education, not just for students, but for educators and administrators, as well.
+
+As this move has occurred, it has brought with it questions and considerations regarding how education is "performed" online but also how students' credentials and records are stored and maintained. Of course, Ed3 is not solely relegated to blockchains. This broad shift to further and ubiquitous technologically mediated educational experiences is accompanied by the increased use of new or rediscovered technologies like augmented reality and other immersive technologies that have come to be collectively known as the "metaverse," inclusive of the broad collection of experiences within this sphere. This understanding is reflected within the study design, and the ways in which educators expect (or don't) these intersections and the potentials (or hesitancies), are also discussed.
+
+Attendees will be provided with an actionable, practical toolkit consisting of fully accessible Web3-native content that will allow them to more functionally engage in the Ed3 space. The session will consist of 30 minutes devoted to sharing the content and interpretation of research data, followed by the remainder of the session consisting of discussion and collaborative futurecasting.
+
+## Resources
+
+Bucea-Manea-Țoniş, R., Martins, O. M. D., Bucea-Manea-Țoniş, R., Gheorghiță, C., Kuleto, V., Ilić, M. P., & Simion, V.-E. (2021). Blockchain Technology Enhances Sustainable Higher Education. *Sustainability*, *13*(22), 12347. http://dx.doi.org/10.3390/su132212347
+
+Chivu, R.-G. (Popa), Popa, I.-C., Orzan, M.-C., Marinescu, C., Florescu, M. S., & Orzan, A.-O. (2022). The Role of Blockchain Technologies in the Sustainable Development of Students' Learning Process. *Sustainability*, *14*(3), 1406. http://dx.doi.org/10.3390/su14031406
+
+Fedorova, E. P., & Skobleva, E. I. (2020). Application of Blockchain Technology in Higher Education. *European Journal of Contemporary Education*, *9*(3), 552--571. https://eric.ed.gov/?id=EJ1272331
+
+Lizcano, D., Lara, J. A., White, B., & Aljawarneh, S. (2020). Blockchain-based approach to create a model of trust in open and ubiquitous higher education. *Journal of Computing in Higher Education*, *32*(1), 109--134. https://doi.org/10.1007/s12528-019-09209-y
