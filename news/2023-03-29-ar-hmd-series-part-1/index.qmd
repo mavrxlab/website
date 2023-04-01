@@ -1,0 +1,65 @@
+---
+title: "Augmented Reality Glasses: A Survey"
+subtitle: "Part 1: Introduction"
+draft: true
+date: 2023-03-29
+categories:
+  - ar
+  - reviews
+description: 'We looked at the current landscape of AR glassses.'
+lastmod: '2023-03-29T09:00:00-07:00'
+
+author:
+  - name: David Poehlman
+    affiliation: University of Arizona
+    affiliation-url: https://azcast.arizona.edu
+    
+#bibliography: references.bib
+---
+
+![](featured.jpeg)
+
+::: callout-tip
+## Special Series
+
+This series of posts on AR glasses is put together by David Poehlman, a MA{VR}X Lab student volunteer.
+:::
+
+In our world today, there are many ways we humans interface with technology.
+From smartphones to smart watches, which have been around for a few years now.
+Even our homes, which are becoming more virtually connected with various Internet of Things (IOT) devices.
+As our smartphones have become extensions of ourselves to enhance and add value to our daily lives.
+The world of IOT technologies has in fact become an addition to those very same extensions.
+But yet there is one more extension, virtual reality, that has risen up to lay claim as an extension of its own.
+Allowing us a chance to connect with others, enhance our education, create more meaningful products, do more fulfilling work, and even relax with enhanced entertainment options.
+By design, virtual reality is in effect, virtual.
+Allowing one to interact with a crafted world under a set of listed parameters.
+But this doesn't do much for the world around us.
+To solve this conundrum, augmented reality has taken the stage.
+
+In fact, this is where this little write-up begins.
+This series is designed to show just a few hand picked offerings of the devices utilizing augmented reality technologies, and their capabilities.
+But before we begin, first I'd like to start with a bit of a breakdown of what augmented reality, or AR as we'll call it here, is.
+AR is as it sounds, our reality, augmented.
+Essentially it is an attempt to add information from the digital world into our physical space and then enhance that space with data.
+Allowing us to make more informed decisions, or be more productive within our physical space.
+As an example, imagine a car mechanic who must re-balance and air up the tires on a vehicle.
+Its a relatively simple task but typically there are a series of steps and physical labor involved.
+These days the mechanic gets a readout on the balance level of the tires from the machine that they use, as well as the pressure inside the tires with a digital pressure sensor meter when refilling the air.
+They also carry a device with them that lets them know the particulars of the vehicles they work on.
+Which includes, in our case here, the standard torque specs for the lug nuts that hold the tires onto the wheel bearing studs.
+
+Now imagine a future where with a pair of AR glasses, and built in sensors on their tools and machines, all of these readouts appearing where they need them most.
+In their line of sight.
+Imagine a HUD (Heads up display) that appears on the mechanic's glasses as they are looking at the vehicle, checking the pressure and balance readout of the tire, or tells them how hard they are turning the socket wrench to let them know the current force of the torque they are applying.
+Rather than having to look down and adjust values, look up information, or key in numbers multiple times, the glasses and IOT devices take the place of this.
+This would give them unprecedented precision and ability to do their tasks which I believe would elevate the quality and speed of their work exponentially.
+Saving time, and increasing revenue for the businesses this mechanic would work for.
+This is but one tiny example of the power of AR and is some of what AR technology is hoping to solve.
+
+So now the question we have before us.
+What kinds of devices are out there today that allow us to take advantage of what AR has to offer?
+Well I have picked out a few devices and price points that I believe show some of the most promise early on and this is what I will be aiming to share here.
+
+In later installations of this series, we'll look at two basic tiers of AR glasses: the more affordable type like Nreal Air and the more premium type like the Microsoft Hololens or Magic Leap.
+Finally, we'll wrap up by providing a matrix for comparison.
