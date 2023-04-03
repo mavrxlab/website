@@ -1,0 +1,164 @@
+---
+title: "The Ed3 Toolkit"
+date: "2023-04-04"
+description: "The resources and guides to accompany the OLC Innovate '23 presentation by Dr. Straight."
+image: featured.jpeg
+category: ed3
+
+format:
+  html:
+    toc-depth: 2
+---
+
+![](featured.jpeg)
+
+::: {.callout-note title="Check it out!"}
+This post goes with the [conference talk](/news/2023-03-30-in23/index.qmd) in which the MA{VR}X Lab director, Dr. Straight, provides a preliminary look at the lab's Ed3 study and shares a collection of tools and resources to help folks find their way into the Ed3 space.
+:::
+
+::: aside
+::: {style="width:100%;height:0;padding-bottom:56%;position:relative;"}
+<iframe src="https://giphy.com/embed/xLsaBMK6Mg8DK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+:::
+
+<p><a href="https://giphy.com/gifs/check-it-out-dr-steve-brule-xLsaBMK6Mg8DK">via GIPHY</a></p>
+:::
+
+## General
+
+The following are general Web3, Ed3, and Web3-to-Ed3 resources.
+
+##### [From Web3 to Ed3 - Reimagining Education in a Decentralized World](https://ed3.mirror.xyz/0U3QG8-4K6CD_ltU6SJyKN3-uBD3x6nEFs-YeShzYmk)
+
+> -   Education is key to human flourishing, but current models are not leading to optimal learning for the majority of people around the world.
+> -   Web3 has enabled creators to own their work online, ed3 enables students to own their education.
+> -   Nascent ed3 models are improving access, affordability, and accreditation, but more work needs to be done.
+
+##### [Making Sense of Web 3.0 in Education](https://edtechteacher.org/making-sense-of-web-3-0-in-education/)
+
+> "Web 3.0" has been the center of much discussion this year.
+> Advocates believe that Web 3.0 will unleash a radical and beneficial transformation of the Internet.
+> Detractors claim that Web 3.0 is little more than a buzzword for marketing purposes.
+> The following Q&A aims to introduce EdTechTeacher readers to Web 3.0 and outline how it may affect education.
+
+##### [How Web3 can Revolutionize the Education Sector? - Blockchain Council](https://www.blockchain-council.org/web-3/how-web3-can-revolutionize-the-education-sector/)
+
+> Presently, the education system revolves around traditional pedagogical techniques where a major portion of the process is teacher-centric.
+> However, Web3 development strives to bring a shift from this approach to enhance the output.
+> The technology has immense potential to empower the education industry.
+> It strives to open doors for student-friendly, experience-focused learning, and goal-oriented teaching.
+
+##### [Web3 & Education in Ed3: Impact of this Blend on the Edu Sector](https://www.jetlearn.com/blog/web3-and-education)
+
+> The education system is transforming, thanks to web3.
+> Web3 decentralised apps are building learn-to-earn, community learning platforms where users are paid for honing their talents, in contrast to web2, which concentrates on individualised, centralised learning systems.
+
+##### [New Web3 Learning Platform, Proof of Learn, Offers A New Approach to Accessible, High-Quality Education Across The Globe](https://www.prnewswire.com/news-releases/new-web3-learning-platform-proof-of-learn-offers-a-new-approach-to-accessible-high-quality-education-across-the-globe-301523333.html)
+
+> This mission-driven team with a focus on accessibility and equality is taking their global experience scaling Web2 solutions with a social impact to Web3, by creating Proof of Learn, a platform with a vision to make high-tech education accessible to people all over the world - and to give employers transparent access to students' skill sets.
+> Proof of Learn is a learn-to-earn platform where students put their learned vocational skills into practice as they progress.
+> What's more, it incentivizes learning by offering students cryptocurrency and NFTs upon mastering new skills.
+> Proof of Learn aims to increase massive open online course completion rates, which studies show hover between 5-15%, by not only incentivizing completion with learn-to-earn economic rewards but also by providing a strong network community for the students.
+
+##### [What does Web3 in Education mean for the future of teaching and learning?](https://www.cypherlearning.com/blog/k-20/web3-in-education)
+
+> When it comes to the web, educators rely on many different technologies and digital tools.
+> Right now, these providers are making their content available in the centralized space of the current version of the web.
+> With Web3, companies could start to provide more and different types of content.
+
+## Tools
+
+##### [MetaMask](https://metamask.io/): *The crypto wallet for Defi, Web3 Dapps and NFTs*
+
+> Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange---everything you need to manage your digital assets.
+
+##### [Building True Web3 Education: Ledger Presents Ledger Quest](https://www.ledger.com/blog/building-true-web3-education-ledger-presents-ledger-quest): *LEARN, PLAY, EARN.*
+
+> Currently, Web3 Education can be seen as time consuming, off-chain and unappealing, which is why we have decided to bridge the gap between old and new paradigms by engaging Web3 communities through gamified and incentive-driven content, leveraging blockchain technologies.
+
+##### [TinyTap \| NFT Project Landing page](https://www.start.tinytap.com/publisher-nft?source=NFTCoursePage)
+
+> We're building a decentralized independent world curriculum library created and owned by teachers and the community via Web3.
+> This system will be comprised of communities with shared interests they want to promote through education.
+> As our first step, TinyTap is introducing Co-publishing rights with Publisher NFTs for 6 educational courses.
+
+::: aside
+Learn more about TinyTap on the [An Undeniably Good Use for Blockchain & NFTs - TinyTap - The Giant Internet School - with CEO Yogev Shelly](https://podcasters.spotify.com/pod/show/metaverse/episodes/An-Undeniably-Good-Use-For-Blockchain--NFTs---TinyTap---The-Giant-Internet-School---with-CEO-Yogev-Shelly-e1rvpig) episode of the *Welcome to the Metaverse* podcast.
+:::
+
+## Resources & Guides
+
+As Ed3 is a quickly changing field and topic, keeping up with it can be difficult.
+Here are some resources to help you stay up to date and walk you through a variety of processes.
+
+##### [Ed3 - Scaling education with web3](https://www.ed3.gg/)
+
+> Ed3 explores the future of learning.
+> Enjoy our podcasts and essays.
+
+##### [Ed3 Weekly by Dagan.eth \| Substack](https://ed3weekly.substack.com/)
+
+> Weekly newsletter featuring curated resources on web3 for educators and those interested in education.
+
+##### [Transition to web3: a guide for non-technical roles](https://guidetoweb3.xyz/)
+
+> It can be daunting to make a career shift to web3, especially for those who don't code.
+> This guide aims to help make a career pivot into web3 less ominous.
+
+##### [Web3 Learning at My Middle School -- Dagan.Blog](http://dagan.blog/web3-learning-at-my-middle-school/)
+
+> How an NFT club provided an opportunity for middle schoolers to explore web3
+
+## Research Solutions
+
+##### [AthenaDAO](https://www.athenadao.co/): *A decentralized collective supporting women's health*
+
+> AthenaDAO is a decentralized community of researchers, funders, and advocates working to advance women's health research, education, and funding.
+
+##### [Molecule](https://www.molecule.to/about-us): *We're democratizing biopharma research and development*
+
+> Molecule is attempting to fuse Web3 and biomedical research together through the IP-NFT protocol that "brings rights to IP and R&D data on-chain, unifying the legal rights, data access, and economics around research projects into cryptographic tokens on Ethereum."
+
+##### [VitaDAO](https://www.vitadao.com/): *We're tackling aging with the power of a global community*
+
+> VitaDAO is a community-owned collective dedicated to funding and advancing longevity science that can improve people's lives.
+> With your support we can turn the tide on age related disease.
+
+##### [ResearchHub \| Open Science Community](https://www.researchhub.com/): *A tool for the open publication and discussion of scientific research*
+
+> Traditionally, academic publishing has been under the jurisdiction of a set of oligopoly publishers (i.e. Springer, Elsevier, Wiley etc).
+> Each of these large publishers can have thousands of journals, each covering various topics of science and academia.
+> Each journal is ranked by the north star metric of "Impact Factor." The impact factor is a number that boils down to how many citations come out of the publications within that journal.
+>
+> ResearchHub has created Hubs in lieu of the thousands of journals, and allows for a streamlined and open publishing of scientific or academia content directly into these hubs.
+> This removes the gatekeeping process of traditional publishing and allows information dissemination to be expedited and then peer reviewed post-publication.
+
+## References
+
+Bucea-Manea-Țoniş, R., Martins, O. M. D., Bucea-Manea-Țoniş, R., Gheorghiță, C., Kuleto, V., Ilić, M. P., & Simion, V.-E.
+(2021).
+Blockchain Technology Enhances Sustainable Higher Education.
+*Sustainability*, *13*(22), 12347.
+http://dx.doi.org/10.3390/su132212347
+
+Chivu, R.-G.
+(Popa), Popa, I.-C., Orzan, M.-C., Marinescu, C., Florescu, M. S., & Orzan, A.-O.
+(2022).
+The Role of Blockchain Technologies in the Sustainable Development of Students' Learning Process.
+*Sustainability*, *14*(3), 1406.
+http://dx.doi.org/10.3390/su14031406
+
+Fedorova, E. P., & Skobleva, E. I.
+(2020).
+Application of Blockchain Technology in Higher Education.
+*European Journal of Contemporary Education*, *9*(3), 552--571.
+https://eric.ed.gov/?i
+d=EJ1272331
+
+Lizcano, D., Lara, J. A., White, B., & Aljawarneh, S.
+(2020).
+Blockchain-based approach to create a model of trust in open and ubiquitous higher education.
+*Journal of Computing in Higher Education*, *32*(1), 109--134.
+https://doi.org/10.1007/s12528-019-09209-y
