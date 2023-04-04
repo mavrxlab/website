@@ -4,7 +4,9 @@ date: 2022-11-13
 image: "featured.png"
 description: |
   A talk given by Dr. Straight at Ed3Con22.
-category: talks
+categories:
+  - talks
+  - ed3
 doi: "10.17605/OSF.IO/JCE6B"
 
 citation:

@@ -3,7 +3,8 @@ title: "The Ed3 Toolkit"
 date: "2023-04-04"
 description: "The resources and guides to accompany the OLC Innovate '23 presentation by Dr. Straight."
 image: featured.jpeg
-category: ed3
+categories:
+  - ed3
 
 format:
   html:
@@ -12,18 +13,10 @@ format:
 
 ![](featured.jpeg)
 
-::: {.callout-note title="Check it out!"}
+::: callout-note
+## Check it out!
+
 This post goes with the [conference talk](/news/2023-03-30-in23/index.qmd) in which the MA{VR}X Lab director, Dr. Straight, provides a preliminary look at the lab's Ed3 study and shares a collection of tools and resources to help folks find their way into the Ed3 space.
-:::
-
-::: aside
-::: {style="width:100%;height:0;padding-bottom:56%;position:relative;"}
-<iframe src="https://giphy.com/embed/xLsaBMK6Mg8DK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-
-</iframe>
-:::
-
-<p><a href="https://giphy.com/gifs/check-it-out-dr-steve-brule-xLsaBMK6Mg8DK">via GIPHY</a></p>
 :::
 
 ## General
@@ -76,8 +69,7 @@ Learn more about TinyTap on the [An Undeniably Good Use for Blockchain & NFTs - 
 
 ## Resources & Guides
 
-As Ed3 is a quickly changing field and topic, keeping up with it can be difficult.
-Here are some resources to help you stay up to date and walk you through a variety of processes.
+As Ed3 is a quickly changing field and topic, keeping up with it can be difficult. Here are some resources to help you stay up to date and walk you through a variety of processes.
 
 ##### [Ed3 - Scaling education with web3](https://www.ed3.gg/)
 
@@ -117,28 +109,10 @@ Here are some resources to help you stay up to date and walk you through a varie
 
 ## References
 
-Bucea-Manea-Țoniş, R., Martins, O. M. D., Bucea-Manea-Țoniş, R., Gheorghiță, C., Kuleto, V., Ilić, M. P., & Simion, V.-E.
-(2021).
-Blockchain Technology Enhances Sustainable Higher Education.
-*Sustainability*, *13*(22), 12347.
-http://dx.doi.org/10.3390/su132212347
+Bucea-Manea-Țoniş, R., Martins, O. M. D., Bucea-Manea-Țoniş, R., Gheorghiță, C., Kuleto, V., Ilić, M. P., & Simion, V.-E. (2021). Blockchain Technology Enhances Sustainable Higher Education. *Sustainability*, *13*(22), 12347. http://dx.doi.org/10.3390/su132212347
 
-Chivu, R.-G.
-(Popa), Popa, I.-C., Orzan, M.-C., Marinescu, C., Florescu, M. S., & Orzan, A.-O.
-(2022).
-The Role of Blockchain Technologies in the Sustainable Development of Students' Learning Process.
-*Sustainability*, *14*(3), 1406.
-http://dx.doi.org/10.3390/su14031406
+Chivu, R.-G. (Popa), Popa, I.-C., Orzan, M.-C., Marinescu, C., Florescu, M. S., & Orzan, A.-O. (2022). The Role of Blockchain Technologies in the Sustainable Development of Students' Learning Process. *Sustainability*, *14*(3), 1406. http://dx.doi.org/10.3390/su14031406
 
-Fedorova, E. P., & Skobleva, E. I.
-(2020).
-Application of Blockchain Technology in Higher Education.
-*European Journal of Contemporary Education*, *9*(3), 552--571.
-https://eric.ed.gov/?i
-d=EJ1272331
+Fedorova, E. P., & Skobleva, E. I. (2020). Application of Blockchain Technology in Higher Education. *European Journal of Contemporary Education*, *9*(3), 552--571. https://eric.ed.gov/?i d=EJ1272331
 
-Lizcano, D., Lara, J. A., White, B., & Aljawarneh, S.
-(2020).
-Blockchain-based approach to create a model of trust in open and ubiquitous higher education.
-*Journal of Computing in Higher Education*, *32*(1), 109--134.
-https://doi.org/10.1007/s12528-019-09209-y
+Lizcano, D., Lara, J. A., White, B., & Aljawarneh, S. (2020). Blockchain-based approach to create a model of trust in open and ubiquitous higher education. *Journal of Computing in Higher Education*, *32*(1), 109--134. https://doi.org/10.1007/s12528-019-09209-y

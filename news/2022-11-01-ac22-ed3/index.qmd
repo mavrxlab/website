@@ -4,7 +4,9 @@ draft: FALSE
 description: "A panel discussion hosted by Dr. Straight at the OLC Accelerate 2022 conference."
 title: "Web3 and Education: An Optimistic Primer on Online Learning's Blockchain-based Future"
 image: featured.jpeg
-category: talks
+categories:
+  - talks
+  - ed3
 doi: "10.17605/OSF.IO/8HSRX"
 
 citation:

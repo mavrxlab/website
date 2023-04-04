@@ -3,7 +3,9 @@ title: "The State of Online Learning in Web3: How Educators Understand and Imple
 date: "2023-03-30"
 description: "A talk given by Dr. Straight at the 2023 OLC Innovate conference."
 image: featured.jpeg
-category: talks
+categories: 
+  - talks
+  - ed3
 
 citation:
   title: "The State of Online Learning in Web3: How Educators Understand and Implement Ed3, Blockchain, and Metaversal Technologies"
@@ -24,9 +26,7 @@ The director of the MA{VR}X Lab, Dr. Ryan Straight, will give a conference talk 
 
 ## Slides and Resources
 
-The slide deck and additional resources will be available after the talk.
-
-<!-- Feel free to [enjoy the slide deck](https://ryanstraight.github.io/in23/index.html) made with [Quarto and revealjs](https://quarto.org). -->
+Feel free to [enjoy the slide deck](https://ryanstraight.github.io/in23/index.html) made with [Quarto and revealjs](https://quarto.org). See also the [Ed3 toolkit](/news/2023-04-04-ed3-toolkit) for a collection of other resources, tools, and platforms to explore.
 
 ## Extended Abstract
 
@@ -40,7 +40,7 @@ As this move has occurred, it has brought with it questions and considerations r
 
 Attendees will be provided with an actionable, practical toolkit consisting of fully accessible Web3-native content that will allow them to more functionally engage in the Ed3 space. The session will consist of 30 minutes devoted to sharing the content and interpretation of research data, followed by the remainder of the session consisting of discussion and collaborative futurecasting.
 
-## Resources
+## References
 
 Bucea-Manea-Țoniş, R., Martins, O. M. D., Bucea-Manea-Țoniş, R., Gheorghiță, C., Kuleto, V., Ilić, M. P., & Simion, V.-E. (2021). Blockchain Technology Enhances Sustainable Higher Education. *Sustainability*, *13*(22), 12347. http://dx.doi.org/10.3390/su132212347
 

@@ -5,8 +5,30 @@ description: |
 draft: false
 image: featured.jpeg
 
-about:
-  image: featured.jpeg
+listing:
+  id: project
+  sort: "date desc"
+  contents:
+    - "../../news/**/*.qmd"
+  type: grid
+  include:
+    categories: "ed3"
 ---
 
+::: columns
+::: {.column width="60%"}
 The movement toward a sufficiently decentralized internet (known as Web3) has been gaining popularity in areas such as finance (cryptocurrency) and the industrial supply chain (blockchain). Another area that is beginning to build steam is in education. Proponents of decentralization, learner sovereignty, and verifiable credentials see the Web3 movement as a boon for education. This is generally known as Ed3. This study seeks to gather opinions, attitudes, criticisms, and concerns about the Ed3 movement from organizers, attendees, and online community members at a conference specifically built around this topic.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="35%"}
+![](featured.jpeg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: {#project}
+:::
