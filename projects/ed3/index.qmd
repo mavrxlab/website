@@ -5,14 +5,14 @@ description: |
 draft: false
 image: featured.jpeg
 
-# listing:
-#   id: project
-#   sort: "date desc"
-#   contents:
-#     - "../../news/**/*.qmd"
-#   type: grid
-#   include:
-#     categories: "ed3"
+listing:
+  id: project
+  sort: "date desc"
+  contents:
+    - "../../news/**/*.qmd"
+  type: grid
+  include:
+    categories: "ed3"
 ---
 
 ::: columns

@@ -4,9 +4,9 @@ description: |
   A study undertaken to explore the nuanced parasocial interaction and relationships when in extended reality environments.
 draft: false
 image: featured.jpeg
-
-about:
-  image: featured.jpeg
+# 
+# about:
+#   image: featured.jpeg
 ---
 
 This project uses head-mounted displays (HMDs) and commercial off-the-shelf virtual reality experiences to explore the differences that arise when interaction and relationships are mediated with these technologies compared to more traditional screen-based media.
