@@ -18,7 +18,6 @@ execute:
 # Default fields for citation
 citation: true
 
-
 google-scholar: true
 
 author:
@@ -26,5 +25,6 @@ author:
     url: https://ryanstraight.com
     affiliation: University of Arizona
     affiliation-url: https://azcast.arizona.edu
+    orcid: 0000-0002-6251-5662
 
 comments: false
