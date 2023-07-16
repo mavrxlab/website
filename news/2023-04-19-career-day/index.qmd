@@ -1,0 +1,16 @@
+---
+title: "MA{VR}X at Mountain View Career Fair"
+date: "2023-04-19"
+description: "Virtual presence at the Mountain View Elementary School Career Day!"
+image: featured.jpeg
+categories:
+  - event
+
+format:
+  html:
+    toc-depth: 2
+---
+
+![](featured.jpeg)
+
+![](careerday.png)
