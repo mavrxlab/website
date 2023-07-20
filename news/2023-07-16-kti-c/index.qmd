@@ -1,0 +1,58 @@
+---
+title: "Our Posthuman Learners: AI and the Future of Education"
+date: "2023-07-20"
+description: "A talk given by Dr. Straight at the *2023 Keystones Together In Cyberspace* Summit."
+image: featured.jpeg
+categories: 
+  - talks
+
+citation:
+  title: "Our Posthuman Learners: AI and the Future of Educations"
+  abstract: 'This session will introduce attendees to the concept of posthuman inquiry, "a theoretical perspective that aims to address our co-constitutive entanglements with nonhuman entities." While this may sound overly theoretical or complex, we will explore specific and concrete ways in which educators can treat technologies not just as objects or tools, but as partners in the pedagogical process that encourage us to reconsider the human/technology dichotomy. Touching on a variety of emerging technologies like extended reality, artificial intelligence, and Web3, the focus will be on practical application in a K-12 setting. Attendees will be invited to consider and even attempt to answer the question: in the age of artificial intelligence, are our learners posthuman?'
+  type: event
+  genre: Conference presentation.
+  event-date: "2023-07-26"
+  event: "PAECT Keystones Together in Cyberspace Summit 2023"
+  container-title: "Keystones Together in Cyberspace Summit 2023"
+  url: "https://sites.google.com/paect.org/2023-summit/kti-c/wed-pm-session-c"
+  event-place: "Online"
+  #doi: "10.17605/OSF.IO/E8SZT"
+
+bibliography: refs.bib
+nocite: |
+  @*
+---
+
+![](featured.jpeg)
+
+## Summary
+
+This session will introduce attendees to the concept of posthuman inquiry, "a theoretical perspective that aims to address our co-constitutive entanglements with nonhuman entities." While this may sound overly theoretical or complex, we will explore specific and concrete ways in which educators can treat technologies not just as objects or tools, but as partners in the pedagogical process that encourage us to reconsider the human/technology dichotomy.
+Touching on a variety of emerging technologies like extended reality, artificial intelligence, and Web3, the focus will be on practical application in a K-12 setting.
+Attendees will be invited to consider and even attempt to answer the question: in the age of artificial intelligence, are our learners posthuman?
+
+::: callout-note
+## Slide deck
+
+Coming soon!
+:::
+
+## Event Details
+
+Sponsored by the [**Pennsylvania Association for Educational Communications and Technology** (PAECT)](https://www.paect.org)'s annual [*Keystones Technology Innovation*](https://www.paect.org/kti/about) summit, *Keystones Together In Cyberspace* is an invitation-only professional development event for select PAECT members.
+As part of the KTI summit, it provides graduate-level credits for attendees.
+From the PAECT website:
+
+> Through a rigorous selection process, 100 Keystones are selected by PAECT regional teams to attend the week-long summit in July.
+> The term STARS stands for: State Technology Advocates Redefining Schools.
+> Keystones STARS are advocates and influencers within their school districts when it comes to teaching and learning with technology.
+> Many Keystones have become district administrators and key decision makers in educational technology planning.
+> The week-long Summit was designed to enrich and invigorate the skills and competencies of those attendees.
+>
+> During this week-long summit, attendees were given the opportunity to experience hands-on professional development, attend Keynote sessions provided by dynamic and innovative speakers on instructional technology, collaborate in cohorts of similar classroom interests, and leave with an extensive network of new colleagues from around the commonwealth.
+>
+> The 2023 Summit will be held July 24 - 28 on the campus of Shippensburg University.
+
+## Resources {.appendix}
+
+See the [Pennsylvania Department of Education Standards Aligned System](https://www.pdesas.org) and view the [standards directly](https://www.pdesas.org/Standard/View).
