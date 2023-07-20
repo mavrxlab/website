@@ -1,0 +1,18 @@
+#  {#who data-menu-title="Introduction" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[WHO]{.r-fit-text}
+
+##  {#ryan-straight .smaller data-menu-title="Ryan Straight"}
+
+![](assets/profile.jpg){fig-align="center"}
+
+**Ryan Straight, Ph.D**\
+Honors/Associate Professor of Practice Applied Computing & Cyber Operations\
+Director, MA{VR}X Lab\
+College of Applied Science and Technology\
+University of Arizona
+
+::: notes
+-   Me, what I teach, et cetera.
+-   Going to be introducing you to a *lot* today, so you'll leave with more questions than you probably came in with and I *think* that's usually the better result.
+:::

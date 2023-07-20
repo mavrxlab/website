@@ -1,0 +1,29 @@
+#  {#terminology data-menu-title="Terminology" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[TERMINOLOGY]{.r-fit-text}
+
+## Let's speak the same language
+
+::: columns
+::: {.column width="65%"}
+1.  Metaverse
+2.  Web3
+3.  Blockchain
+4.  NFTs
+5.  DAOs
+6.  Ed...3?
+:::
+
+::: {.column width="35%"}
+![](assets/terminology.jpg)
+:::
+:::
+
+::: attribution
+Image via [dream.ai](https://dream.ai).
+:::
+
+::: notes
+We need to be on the same page when we're talking about these rather new topics, so I want to give a quick rundown of what these things actually are.
+I'll caveat it with: so far, with just a few exceptions, there's no absolute consensus here.
+:::
