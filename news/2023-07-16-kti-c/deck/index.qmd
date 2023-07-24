@@ -5,7 +5,7 @@ subtitle: |
     <span style="font-size: 125%">OUR POSTHUMAN LEARNERS</span><br />**AI** AND THE FUTURE OF EDUCATION
 pagetitle: "OUR POSTHUMAN LEARNERS"
 
-doi: "10.17605/OSF.IO/E8SZT"
+#doi: "10.17605/OSF.IO/E8SZT"
      
 author: "<br />**Ryan Straight, Ph.D**<br />"
 institute: "College of Applied Science and Technology<br />University of Arizona"
@@ -45,6 +45,12 @@ footer: "Dr. Ryan Straight -- ryanstraight&commat;arizona.edu -- &commat;ryanstr
 bibliography: ../refs.bib
 csl: apa.csl
 ---
+
+::: {layout="[15,-2,15]" layout-valign="center" fig-align="center"}
+![](assets/dog.gif)
+
+![](assets/music.jpg)
+:::
 
 <!-- Agenda -->
 
@@ -89,11 +95,9 @@ Rule #7: The Metaverse is the Internet.
 :::
 
 ::: notes
-"What is the metaverse?" I hear you asking.
-And rightfully so.
+"What is the metaverse?" I hear you asking. And rightfully so.
 
-These are "axiomatic" goals for an ideal metaverse, many of which I'm on board with.
-That said, there are some issues to address around, in the least, equity.
+These are "axiomatic" goals for an ideal metaverse, many of which I'm on board with. That said, there are some issues to address around, in the least, equity.
 
 1.  Within rule one, there is the caveat, "controlled by none and accessible to all" complicates the matter: in practice, this is not and will likely never be the case. Oppressive government regimes, bandwidth deserts, digital redlining, barriers to technology acquisition like financial or accessibility issues, all make this difficult to realize, which brings us to Rule 2:
 2.  The metaverse being defined by the rules is something closer to a pure, perfect Platonic form, in that the implementation of the metaversal concept is necessarily limited, even corrupted, by those involved in its manifestation.
@@ -110,17 +114,13 @@ So there we have our seven rules (and some concerns) about the metaverse.
 
 ::: columns
 ::: {.column width="65%"}
-What is **Web3**?
-According to @makWhatWeb3Why2021a, it's an internet...
+What is **Web3**? According to @makWhatWeb3Why2021a, it's an internet...
 
 > runs on public blockchains... the appeal of Web3 is that it is decentralized\[;\] it's the individuals themselves who own and control pieces of the internet.
 
 How do the **metaverse** and **Web3** relate?
 
-> Web3 is all about inclusivity and putting users first.
-> The metaverse is a new world where creation is put in your hands.
-> NFTs are how we're going to do it[^1].
-> [@bashirCouncilPostMetaverse2022]
+> Web3 is all about inclusivity and putting users first. The metaverse is a new world where creation is put in your hands. NFTs are how we're going to do it[^1]. [@bashirCouncilPostMetaverse2022]
 :::
 
 ::: {.column width="35%"}
@@ -128,24 +128,20 @@ How do the **metaverse** and **Web3** relate?
 :::
 :::
 
-[^1]: If this leaves a bad taste in your mouth, don't worry.
-    We'll return to this later.
+[^1]: If this leaves a bad taste in your mouth, don't worry. We'll return to this later.
 
 ::: attribution
 "A Web for All" via Dream.ai by WOMBO
 :::
 
 ::: notes
-There's an internet addage about the different iterations of The Web.
-Very simply, it goes like this:
+There's an internet addage about the different iterations of The Web. Very simply, it goes like this:
 
 1.  Web1: Read (most folks didn't have the knowledge or ability to actually build in the web)
 2.  Web2: Read/Write (now folks are actually building the web, themselves, with blogs and social media and whatnot)
 3.  Web3: Read/Write/Own (users have agency and their work is now *theirs*)
 
-What I want folks to do here is to decouple their preconceived notions and associations between Web3 and *scam*.
-We are still very much in the exploration phase of Web3 and its potential.
-We'll return to this in a bit.
+What I want folks to do here is to decouple their preconceived notions and associations between Web3 and *scam*. We are still very much in the exploration phase of Web3 and its potential. We'll return to this in a bit.
 :::
 
 ## Blockchain {.smaller}
@@ -167,12 +163,9 @@ Blockchains are... "similar to a ledger that records digital forms and shares in
 :::
 
 ::: notes
-That necessarily brings us to the question: what's a blockchain?
-I found one piece that simply called it "a chain of blocks," but I feel like there's more to say than that.
+That necessarily brings us to the question: what's a blockchain? I found one piece that simply called it "a chain of blocks," but I feel like there's more to say than that.
 
-So how does this relate to education?
-Specifically, higher education?
-Lots of ways!
+So how does this relate to education? Specifically, higher education? Lots of ways!
 
 -   A full e-learning platform [@lamBlockchainenabledElearningPlatform2022]
 -   Lots of research on blockchain-based microcredentialing [@alsobhiBlockchainbasedMicrocredentialingSystem2023; @ferdigExaminingBlockchainProtocols2022]
@@ -180,11 +173,9 @@ Lots of ways!
 -   Using it in relation to MOOCs [@liMOOCsChainBlockchainbasedSecure2022]
 -   Even to build an entire Smart University [@aslanBlockchainBasedLifelong2020a]
 
-First, here's the super simplified version of how a blockchain works: each new "transaction" has a proof of the previous transaction, and this goes on forever.
-That way you can tell nothing has been injected, altered, or removed.
+First, here's the super simplified version of how a blockchain works: each new "transaction" has a proof of the previous transaction, and this goes on forever. That way you can tell nothing has been injected, altered, or removed.
 
-I'm sure your gears are starting to turn and you're thinking, "Hm, immutable records? I can see how that would be beneficial for an education system, whether that's for ownership and intellectual property or keeping track of credentials or..." And I'd say: good!
-But there's more before we return to that.
+I'm sure your gears are starting to turn and you're thinking, "Hm, immutable records? I can see how that would be beneficial for an education system, whether that's for ownership and intellectual property or keeping track of credentials or..." And I'd say: good! But there's more before we return to that.
 :::
 
 ## NFTs
@@ -210,11 +201,9 @@ But there's more before we return to that.
 :::
 
 ::: notes
-Tokenomics is basically the science behind an economy (broadly defined) that runs on tokens.
-Cryptocurrency, NFTs, new forms of tokens, et cetera.
+Tokenomics is basically the science behind an economy (broadly defined) that runs on tokens. Cryptocurrency, NFTs, new forms of tokens, et cetera.
 
-Taherdoorst makes a number of observations when it comes to NFTs.
-First:
+Taherdoorst makes a number of observations when it comes to NFTs. First:
 
 "The proponents of cryptocurrencies promise enhanced artist compensation, disintermediation, and better compliance with impending anti-money-laundering rules as business reasons for these collaborations ... however, there is little proof that it, compared with other online monetization types, helps artists' problems in earning a livelihood."
 
@@ -252,22 +241,15 @@ via [Ethereum.org](https://ethereum.org/en/dao/#dao-comparison)
 :::
 
 ::: notes
-The DAO is essentially the native community structure of Web3.
-Some are more like co-ops while others are just a tech-focused way to organize a business structure and exist solely to help the members make money.
+The DAO is essentially the native community structure of Web3. Some are more like co-ops while others are just a tech-focused way to organize a business structure and exist solely to help the members make money.
 
-There is also the occasional question of how robust a DAO is.
-One DAO thought by buying an original Dune book they owned the copyright to it, which is obviously not true and something anyone with even passing knowledge of copyright law could tell you.
-Another DAO was completely taken over by one person (or one group of people) suddenly owning the majority of the voting power in the organization, essentially making it "theirs." And since DAO decisions (very often funding-related as they can have large amounts of money for seed grants, et cetera) are based on so-called Smart Contracts that are nothing more than algorithms, those decisions are enforced automatically.
+There is also the occasional question of how robust a DAO is. One DAO thought by buying an original Dune book they owned the copyright to it, which is obviously not true and something anyone with even passing knowledge of copyright law could tell you. Another DAO was completely taken over by one person (or one group of people) suddenly owning the majority of the voting power in the organization, essentially making it "theirs." And since DAO decisions (very often funding-related as they can have large amounts of money for seed grants, et cetera) are based on so-called Smart Contracts that are nothing more than algorithms, those decisions are enforced automatically.
 
-So, again, we see an area for concern and something to watch.
-I don't believe this is a failure of the concept or the intent behind building these organizations, however.
-More like a lack of safeguards and due-diligence.
+So, again, we see an area for concern and something to watch. I don't believe this is a failure of the concept or the intent behind building these organizations, however. More like a lack of safeguards and due-diligence.
 
-Most education-related DAOs actually focus on education on and *about* Web3 (so, helping coders learn relevant languages).
-DAOs focused on using Web3 for education *not about Web3* are few and far between.
+Most education-related DAOs actually focus on education on and *about* Web3 (so, helping coders learn relevant languages). DAOs focused on using Web3 for education *not about Web3* are few and far between.
 
-But all these things bring us to what we're really here to talk about: Ed3.
-First, though: how are these technologies already being applied in educational spaces?
+But all these things bring us to what we're really here to talk about: Ed3. First, though: how are these technologies already being applied in educational spaces?
 :::
 
 #  {#ed3 data-menu-title="Ed3" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
@@ -297,26 +279,19 @@ Photos via [Dream by WOMBO](https://dream.ai)
 ::: notes
 If we follow Scott David Meyer's version of Ed3 as analogous to Web1, 2, and 3, we can start off like this.
 
-Ed1: was knowledge transfer provided by accredited institutions, such as universities and schools.
-If you want to think of this in Freireian terms, you could consider Ed1 the "banking" model.
+Ed1: was knowledge transfer provided by accredited institutions, such as universities and schools. If you want to think of this in Freireian terms, you could consider Ed1 the "banking" model.
 
 Ed2: was centralized platforms distributing education, such as Udemy, Skillshare, and Outschool, with some cohort-based engagements.
 
 Ed3: "individuals gathering skills from a variety of sources and validating that knowledge in their own wallet."
 
-But is that it??
-Here the "ownership" comes in.
-In Ed3, according to Meyer, "learners own their education - validating their knowledge with decentralized technology in contrast to previous models."
+But is that it?? Here the "ownership" comes in. In Ed3, according to Meyer, "learners own their education - validating their knowledge with decentralized technology in contrast to previous models."
 
-And, if you're like me, you might be struggling here.
-On one hand, you might think, "Yes, down with the megacorps who own all our data!" On the otherhand, you might be thinking, "But, let's just take accreditation, right? If I'm looking for a platform or organization to engage with and learn from, I kinda *like* the idea that there's a body that regulates and accredits an organization to say, 'Yup, they actually know what they're talking about because we have these standards and they meet them.' I'm not sure I have the time or even knowledge to validate every *wallet* to make sure they're all legit before learning from that person." If there's anything we've learned, it's that "Just trust us" is never good enough.
+And, if you're like me, you might be struggling here. On one hand, you might think, "Yes, down with the megacorps who own all our data!" On the otherhand, you might be thinking, "But, let's just take accreditation, right? If I'm looking for a platform or organization to engage with and learn from, I kinda *like* the idea that there's a body that regulates and accredits an organization to say, 'Yup, they actually know what they're talking about because we have these standards and they meet them.' I'm not sure I have the time or even knowledge to validate every *wallet* to make sure they're all legit before learning from that person." If there's anything we've learned, it's that "Just trust us" is never good enough.
 
-Am I simplifying things here?
-Of course.
+Am I simplifying things here? Of course.
 
-But, returning to Ed3, there isn't just one version of it.
-In fact, there are many.
-So let's explore some now.
+But, returning to Ed3, there isn't just one version of it. In fact, there are many. So let's explore some now.
 :::
 
 ## The Birth of Ed3
@@ -336,8 +311,7 @@ So let's explore some now.
 :::
 
 ::: notes
-What is Ed3?
-Well, it depends on who you ask.
+What is Ed3? Well, it depends on who you ask.
 
 -   It can be an entire movement.
     -   In fact, if we talk about Web3 as a movement and not a specific thing, that's probably the best analog. Hence the name.
@@ -346,8 +320,7 @@ Well, it depends on who you ask.
 -   It can be a community.
     -   And this is where the present study comes in: there is a distinct Ed3 communtiy, Ed3DAO, and I wanted to explore just what makes them tick, why are they passionate about this, how do they see the future of education in light of these technologies we've talked about, and how are they actually implementing it?
 
-So, while we're interested in all of these, of course, it's the community's application of the concepts involved that we're really focusing on.
-So let's look at the study.
+So, while we're interested in all of these, of course, it's the community's application of the concepts involved that we're really focusing on. So let's look at the study.
 :::
 
 #  {#thestudy data-menu-title="The Study" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
@@ -377,8 +350,7 @@ So let's look at the study.
 ::: notes
 Working with some of the folks in the Ed3DAO to tease out some major relevant themes like focusing on Web3 as a concept, equity in education, and so on.
 
-I asked for demographics (of course), self-reported feelings of expertise when it came to the conceptual, technical, and practical sides of Web3, a Likert-style portion specifically aimed at "the integration of Web3 and education," and then finally some open-ended questions to help tease out nuance.
-A cleaned, anonymized version of the data will be available once the study is published, so those open-ended responses won't be included as they may be identifiable.
+I asked for demographics (of course), self-reported feelings of expertise when it came to the conceptual, technical, and practical sides of Web3, a Likert-style portion specifically aimed at "the integration of Web3 and education," and then finally some open-ended questions to help tease out nuance. A cleaned, anonymized version of the data will be available once the study is published, so those open-ended responses won't be included as they may be identifiable.
 
 As far as the Likert questions go, they were formulated as statements with which participants should agree or disagree on a 7-point scale ranging from "Strongly disagree" to "Strongly agree" with an option for "Don't know/No opinion." For example, "Schools will be quick to adopt these new technologies," "There should be more regulation and oversight," and "Cybersecurity in Web3 is of little concern."
 
@@ -412,21 +384,13 @@ via GIPHY
 :::
 
 ::: notes
-First, how am I defining "educators" and "non-educators?" Simply this: a question asked participants which industry they're *generally* in.
-Anyone that chose Education over the others (ie, entertainment, finance, et cetera), were labeled "Educator," and everyone else was labeled "Non-educator."
+First, how am I defining "educators" and "non-educators?" Simply this: a question asked participants which industry they're *generally* in. Anyone that chose Education over the others (ie, entertainment, finance, et cetera), were labeled "Educator," and everyone else was labeled "Non-educator."
 
-The participant numbers came out to roughly 2:1 educators to non-educators.
-Not surprising.
-What *was* surprising was where similarities were and were not.
+The participant numbers came out to roughly 2:1 educators to non-educators. Not surprising. What *was* surprising was where similarities were and were not.
 
-Demographics?
-Yup.
-No significant differences between the two groups.
+Demographics? Yup. No significant differences between the two groups.
 
-Expertise?
-Again, no difference.
-That's those conceptual, technical, and practical expertise I talked about earlier.
-There were slight differences between educators and non-educators but in this particular group they weren't *statistically* significant.
+Expertise? Again, no difference. That's those conceptual, technical, and practical expertise I talked about earlier. There were slight differences between educators and non-educators but in this particular group they weren't *statistically* significant.
 
 So let's look at the differences.
 :::
@@ -456,11 +420,9 @@ via GIPHY
 ::: notes
 This difference requires some unpacking and I encourage folks to muse in the chat about why this might be.
 
-First: more time teaching.
-This would suggest, as one would expect, the non-educators perhaps don't understand the day-to-day logistics of teaching.
+First: more time teaching. This would suggest, as one would expect, the non-educators perhaps don't understand the day-to-day logistics of teaching.
 
-For the sense of community: that's interesting, right?
-Given the DAO-focus so many Web3 folks tend to have, it's curious that non-educators would tend to doubt the ability to build community using this technology.
+For the sense of community: that's interesting, right? Given the DAO-focus so many Web3 folks tend to have, it's curious that non-educators would tend to doubt the ability to build community using this technology.
 :::
 
 ## Difference: Optimism
@@ -492,8 +454,7 @@ via GIPHY
 :::
 
 ::: notes
-Educators *disagreed* with the portion of the survey that was more critical in nature of Web3 tech at significantly higher rates than those not in the education space.
-There are a variety of ways to interpret this, as there always are.
+Educators *disagreed* with the portion of the survey that was more critical in nature of Web3 tech at significantly higher rates than those not in the education space. There are a variety of ways to interpret this, as there always are.
 :::
 
 ## NFTs (Again) {.smaller}
@@ -511,11 +472,9 @@ $N$ = 136, $M$ = 6.01, $SD$ = 1.31
 :::
 
 ::: notes
-Both educators and non-educators scored most highly on a survey item about NFTs not being used to their fullest extent.
-Out of 7, the average was basically 6, far and away the most agreed-upon optimistic thing in the entire survey.
+Both educators and non-educators scored most highly on a survey item about NFTs not being used to their fullest extent. Out of 7, the average was basically 6, far and away the most agreed-upon optimistic thing in the entire survey.
 
-I interpret this to mean a couple different things: first, folks in this study generally seem to believe in the utility of NFTs and don't necessarily fall victim to letting current scams and illegalities rampant in the NFT space as indicative of the technology, itself.
-Second, given this population is implicitly related to the Ed3DAO community, their exposure to the Ed3 NFT and its built-in utility provides them with a paragon of what's possible.
+I interpret this to mean a couple different things: first, folks in this study generally seem to believe in the utility of NFTs and don't necessarily fall victim to letting current scams and illegalities rampant in the NFT space as indicative of the technology, itself. Second, given this population is implicitly related to the Ed3DAO community, their exposure to the Ed3 NFT and its built-in utility provides them with a paragon of what's possible.
 
 Taking this further, it then makes sense to suggest that, if improving the public opinion on NFTs is a goal, then having that paragon of utility and legitimacy is key.
 :::
@@ -528,19 +487,15 @@ Taking this further, it then makes sense to suggest that, if improving the publi
 
 Most importantly, a critical need for
 
-> **re-orienting blockchain technology in education from pro-profit to human-centred adoption**.
-> This is to ensure a balance among technological advances, knowledge transformation, and safeguarding of privacy and individual rights of marginalised teachers and learners.
-> [@savelyevaBlockchainTechnologySustainable2022, p. 1592]
+> **re-orienting blockchain technology in education from pro-profit to human-centred adoption**. This is to ensure a balance among technological advances, knowledge transformation, and safeguarding of privacy and individual rights of marginalised teachers and learners. [@savelyevaBlockchainTechnologySustainable2022, p. 1592]
 
 ::: notes
-This is absolutely key.
-Absolutely essential.
+This is absolutely key. Absolutely essential.
 :::
 
 ## What is to come? {.smaller}
 
-Secondly, DAOs and education.
-Some considerations [@qianDAOsUniversityReplacements2021]:
+Secondly, DAOs and education. Some considerations [@qianDAOsUniversityReplacements2021]:
 
 -   Credentials
 -   Social life
@@ -556,8 +511,7 @@ Some considerations [@qianDAOsUniversityReplacements2021]:
 
 ## That's a wrap!
 
-Thank you for coming!
-Find out more at:
+Thank you for coming! Find out more at:
 
 ::: columns
 ::: {.column width="50%"}
@@ -580,8 +534,7 @@ Find out more at:
 :::
 
 ::: notes
-Thanks, everybody, for coming out to hear these preliminary results from, as far as I can tell, the first and only study of its kind.
-I don't want to give *everything* away so you'll have something read when the paper drops!
+Thanks, everybody, for coming out to hear these preliminary results from, as far as I can tell, the first and only study of its kind. I don't want to give *everything* away so you'll have something read when the paper drops!
 :::
 
 ## References

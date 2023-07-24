@@ -6,12 +6,12 @@
 
 ::: columns
 ::: {.column width="65%"}
-1.  Metaverse
-2.  Web3
-3.  Blockchain
-4.  NFTs
-5.  DAOs
-6.  Ed...3?
+::: incremental
+1.  Posthuman
+2.  Posthuman Inquiry
+3.  Artificial Intelligence (AI)
+4.  Virtual Pedagogical Agents
+:::
 :::
 
 ::: {.column width="35%"}
@@ -24,6 +24,5 @@ Image via [dream.ai](https://dream.ai).
 :::
 
 ::: notes
-We need to be on the same page when we're talking about these rather new topics, so I want to give a quick rundown of what these things actually are.
-I'll caveat it with: so far, with just a few exceptions, there's no absolute consensus here.
+We need to be on the same page when we're talking about these rather new topics, so I want to give a quick rundown of what these things actually are. I'll caveat it with: so far, with just a few exceptions, there's no absolute consensus here.
 :::

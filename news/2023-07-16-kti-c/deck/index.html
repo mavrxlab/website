@@ -9,7 +9,7 @@
 <link href="index_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="index_files/libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.58">
+  <meta name="generator" content="quarto-1.4.176">
 
   <meta name="author" content=" Ryan Straight, Ph.D ">
   <title>OUR POSTHUMAN LEARNERS</title>
@@ -159,7 +159,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -345,6 +346,19 @@
 </section>
 <section class="slide level2">
 
+<div class="quarto-layout-panel" data-fig-align="center">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 46.9%;justify-content: center;">
+<p><img data-src="assets/dog.gif"></p>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 6.3%;justify-content: center;">
+<p>&nbsp;</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 46.9%;justify-content: center;">
+<p><img data-src="assets/music.jpg"></p>
+</div>
+</div>
+</div>
 <!-- Agenda -->
 </section>
 <section>
@@ -366,11 +380,11 @@
 </ol>
 </div><div class="column" style="width:50%;">
 <p>Link to this slide deck!</p>
-<p></p><div id="qr1" class="qrcode"></div>
+<div id="qr1" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr1", {"width":"250","colorLight":"#ffffff","colorDark":"#000000","text":"https://mavrxlab.org/news/2023-07-16-kti-c/deck/index.html","height":"250"});
+var qrcode = new QRCode("qr1", {"colorDark":"#000000","colorLight":"#ffffff","text":"https://mavrxlab.org/news/2023-07-16-kti-c/deck/index.html","height":"250","width":"250"});
 </script>
-    <p></p>
+    
 </div>
 </div>
 <aside class="notes">
@@ -433,14 +447,14 @@ University of Arizona</p>
 <h2>Let’s speak the same language</h2>
 <div class="columns">
 <div class="column" style="width:65%;">
+<div>
 <ol type="1">
-<li>Metaverse</li>
-<li>Web3</li>
-<li>Blockchain</li>
-<li>NFTs</li>
-<li>DAOs</li>
-<li>Ed…3?</li>
+<li class="fragment">Posthuman</li>
+<li class="fragment">Posthuman Inquiry</li>
+<li class="fragment">Artificial Intelligence (AI)</li>
+<li class="fragment">Virtual Pedagogical Agents</li>
 </ol>
+</div>
 </div><div class="column" style="width:35%;">
 <p><img data-src="assets/terminology.jpg"></p>
 </div>
@@ -1041,11 +1055,11 @@ University of Arizona</p>
 </div><div class="column" style="width:50%;">
 <h3 id="see-the-toolkit">See the toolkit!</h3>
 <p><a href="https://mavrxlab.org/news/2023-04-04-ed3-toolkit/" class="uri">https://mavrxlab.org/news/2023-04-04-ed3-toolkit/</a></p>
-<p></p><div id="qr2" class="qrcode"></div>
+<div id="qr2" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr2", {"width":"250","colorLight":"#ffffff","colorDark":"#000000","text":"https://mavrxlab.org/news/2023-04-04-ed3-toolkit/","height":"250"});
+var qrcode = new QRCode("qr2", {"colorDark":"#000000","colorLight":"#ffffff","text":"https://mavrxlab.org/news/2023-04-04-ed3-toolkit/","height":"250","width":"250"});
 </script>
-    <p></p>
+    
 </div>
 </div>
 <aside class="notes">
@@ -1358,10 +1372,9 @@ var qrcode = new QRCode("qr2", {"width":"250","colorLight":"#ffffff","colorDark"
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1371,8 +1384,17 @@ var qrcode = new QRCode("qr2", {"width":"250","colorLight":"#ffffff","colorDark"
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
