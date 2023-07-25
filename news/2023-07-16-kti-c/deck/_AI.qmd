@@ -1,0 +1,18 @@
+#  {#AI data-menu-title="AI" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[ARTIFICIAL INTELLIGENCE]{.r-fit-text}
+
+::: notes
+Now that we have some ways of actually doing these things, let's try to bring it back to artificial intelligence before we triangulate with education.
+:::
+
+## H2
+
+AI stuff here
+
+::: attribution
+:::
+
+::: notes
+Notes
+:::

@@ -1,0 +1,101 @@
+#  {#education data-menu-title="Education" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[EDUCATION]{.r-fit-text}
+
+::: notes
+Bringing It All Together: Where Does Education Fit In?
+
+So, while we can clearly see how, through a hermeneutic relation, a speedometer can mediate your experience of driving a car, for example, what happens when the goal of your interaction is *learning*?
+:::
+
+## Doing Postphenomenology
+
+> ... in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning.
+
+::: notes
+As Adams and Turville [-@adamsDoingPostphenomenologyEducation2018] point out, "Doing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning" (p. 20).
+The question then becomes, in this new version of technologically-mediated learning *and of self*, what are these Web3 paradigms of teaching practice, knowledge apprehension, and pedagogical meaning?
+
+Approaching learning in this way--that is, through a postphenomenological, posthuman inquiry lens--encourages us to scrape away at the outer encompassing veneer of the *digital self* and critically examine the delineation therein, harkening back to the traditional phenomenological "way in." Crucially, *doing* postphenomenology has no actual, agreed-upon method [@rosenbergerFieldGuidePostphenomenology2015].
+There are a variety of *suggested* heuristics [@adamsResearchingPosthumanWorld2016], but no hard-and-fast checklist or guide.
+:::
+
+## But How?
+
+::: columns
+::: {.column .incremental width="75%"}
+1.  Composing Anecdotes through Self-Observation
+2.  Gathering Lived Experience Descriptions through Interviews
+3.  Composing Anecdotes through Observation of Others
+4.  Finally, Studying Breakdowns and the Eidetic Reduction
+:::
+
+::: {.column width="25%"}
+::: {style="width:100%;height:0;padding-bottom:83%;position:relative;"}
+<iframe src="https://giphy.com/embed/ounv1hey86r5DM6WhP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+:::
+:::
+:::
+
+::: attribution
+Image via <a href="https://giphy.com" target="_blank">GIPHY</a>
+:::
+
+::: notes
+Accordingly, here are some ideas of ways you, too, can begin attempting to exploring this space and, if you spend time educating or being educated, the crossroads as well, as described by Adams and Turville.
+
+1.  Composing Anecdotes through Self-Observation
+    1.  Approach your own experiences and lifeworld with "non-intrusive observation of oneself" ... and the "invitational appeals of one's equipmental or technology-textured surround."
+    2.  This is harder than it sounds. "Explanations, opinions, judgments, or theoretical concepts must be pushed aside in favor of what was given in the moment."
+2.  Gathering Lived Experience Descriptions through Interviews
+    1.  Perhaps not the most easily accomplished approach, to be fair, especially for those that aren't necessarily in an environment where that kind of research is encouraged or even permissible.
+    2.  That said, this may be a tremendously revealing process, especially when directed toward teachers and learners in metaversal spaces.
+    3.  This should **not** be confused with user experience testing, of course. When gathering these lived experience descriptions, while the design choices made by software developers may have an influential and mediating impact as discussed early, it is merely one step to overcome to get to the real experience.
+3.  Composing Anecdotes through Observation of Others
+    1.  Contrasting the interview approach, simply observing others in the space can also lead to revelations without overt disturbance.
+    2.  It may, for example, "assist in pointing up aspects of everyday life that may otherwise be taken for granted by oneself and others."
+    3.  However, it's important to note that, since through the observation you may not access a truly sufficient and representative lived experience (you can imagine just how much you would miss by watching someone's actions and not being privy to their motivations or goals).
+4.  Finally, Studying Breakdowns and the Eidetic Reduction
+    1.  Recall Heidegger and his broken hammer. In this approach, we come *after*. That is, instead of trying to tease out the lived experiences *in vivo*, it is the breakdown of the moment that gives us access.
+    2.  For example, in this very space, it is easier to understand how people and things interact when there is friction than when it goes smoothly.
+    3.  Likewise, for a completely non-technical and more Heideggerian example: when your pencil or chalk breaks mid-thought.
+:::
+
+## Approaches
+
+::: columns
+::: {.column .incremental width="70%"}
+1.  Variational method or analysis
+2.  Variational cross-examination
+3.  Case study
+4.  Conversational analysis
+:::
+
+::: {.column width="30%"}
+::: {style="width:100%;height:0;padding-bottom:100%;position:relative;"}
+<iframe src="https://giphy.com/embed/2WUkAVDzuQbUA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+:::
+:::
+:::
+
+::: attribution
+Image via <a href="https://giphy.com" target="_blank">GIPHY</a>
+:::
+
+::: notes
+We can make this even more concrete.
+
+1.  Variational method or analysis: described as "the method of brainstorming stabilities of a multistable technology." Remember, everything is also something else.
+2.  Variational cross-examination: first determining what a particular technology's "dominant" stability is, we can move on to critically examining and identifying alternatives by exploring, for example, habits of users or frequent qualities teased out of the technology itself, its role in a particular system (thinking back to it being just an actor in a network of actors), and what we are probably most comfortable with or at least what we tend to do in this Web3 space: what's known as "tailoring," or "the ... alterations of technology for different purposes." Just think about how often we approach things in this space that way: "this has potential; how can we use it?"
+3.  Third, case study: generally speaking the postphenomenological approach is this. The Ed3DAO, for example, is a perfect candidate for this kind of approach, but so is something like the various platforms focusing on self-sovereign identity and data portability like Disco.
+4.  Finally, conversational analysis. This can be a little heady, but it can help us bridge the gap between simply exploring "what things do" and those mediations of our perceptions and actions "from within."
+
+So, again, as you can see, there is no hard and fast, prescriptive method to take.
+This, perhaps surprisingly, works in our favor.
+It requires the educator and researcher to delve deep to fully understand something that they likely never will, only the individual instance of the thing.
+In doing so, however, incorporating the posthuman inquiry approach, we can interview these objects--whether tangible devices, virtual worlds, or digital personas--and give them time to "speak." We musn't simply explore how, for example, students "use" these things; we must conversely look at how those things use *them*.
+:::

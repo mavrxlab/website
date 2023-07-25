@@ -1,0 +1,22 @@
+#  {#future data-menu-title="The Future" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[THE FUTURE]{.r-fit-text}
+
+::: notes
+The subtitle of this talk is "AI and the Future of Education," but it might be more accurate to think of "Education and the Future of AI."
+:::
+
+## Virtual Pedagogical Agents
+
+AI stuff here
+
+::: attribution
+:::
+
+::: notes
+This is where we are now.
+But:
+
+1.  Gen Z grew up with smartphones. A window to the world at all times.
+2.  Gen A will grow up with their own AIs.
+:::

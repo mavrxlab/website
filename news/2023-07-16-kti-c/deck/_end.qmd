@@ -1,0 +1,33 @@
+#  {#the-end data-menu-title="The End" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[THE END]{.r-fit-text}
+
+## That's a wrap!
+
+Thank you for coming!
+Find out more at:
+
+::: columns
+::: {.column width="50%"}
+### MA{VR}X Lab
+
+<https://mavrxlab.org>
+
+### Me
+
+<https://ryanstraight.com>
+:::
+
+::: {.column width="50%"}
+### See the toolkit!
+
+<https://mavrxlab.org/news/2023-07-16-kti-c/>
+
+{{< qrcode https://mavrxlab.org/news/2023-07-16-kti-c/ qr2 width=250 height=250 >}}
+:::
+:::
+
+::: notes
+Thanks, everybody, for coming out to hear these preliminary results from, as far as I can tell, the first and only study of its kind.
+I don't want to give *everything* away so you'll have something read when the paper drops!
+:::

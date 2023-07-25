@@ -9,7 +9,7 @@
 <link href="index_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="index_files/libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.176">
+  <meta name="generator" content="quarto-1.4.58">
 
   <meta name="author" content=" Ryan Straight, Ph.D ">
   <title>OUR POSTHUMAN LEARNERS</title>
@@ -30,7 +30,26 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto.css">
   <link rel="stylesheet" href="assets/style.css">
   <link href="index_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -159,8 +178,7 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    padding-bottom: 0.5rem;
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -344,8 +362,8 @@
 </div>
 
 </section>
-<section class="slide level2">
-
+<section id="splash" class="slide level2" data-menu-title="Dancing Doggo">
+<h2></h2>
 <div class="quarto-layout-panel" data-fig-align="center">
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class="quarto-layout-cell" style="flex-basis: 46.9%;justify-content: center;">
@@ -373,18 +391,18 @@
 <ol type="1">
 <li>Introduction</li>
 <li>Terminology</li>
-<li>Ed3</li>
-<li>The Study</li>
-<li>The Future</li>
-<li>Your Toolkit</li>
+<li>Mediation</li>
+<li>Methods</li>
+<li>AI</li>
+<li>Education</li>
 </ol>
 </div><div class="column" style="width:50%;">
 <p>Link to this slide deck!</p>
-<div id="qr1" class="qrcode"></div>
+<p></p><div id="qr1" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr1", {"colorDark":"#000000","colorLight":"#ffffff","text":"https://mavrxlab.org/news/2023-07-16-kti-c/deck/index.html","height":"250","width":"250"});
+var qrcode = new QRCode("qr1", {"height":"250","text":"https://mavrxlab.org/news/2023-07-16-kti-c/deck/index.html","colorDark":"#000000","width":"250","colorLight":"#ffffff"});
 </script>
-    
+    <p></p>
 </div>
 </div>
 <aside class="notes">
@@ -410,13 +428,13 @@ var qrcode = new QRCode("qr1", {"colorDark":"#000000","colorLight":"#ffffff","te
 <section>
 <section id="who" class="title-slide slide level1 center" data-menu-title="Introduction" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
 <h1></h1>
-<p><span class="r-fit-text">WHO</span></p>
+<p><span class="r-fit-text">INTRODUCTIONS</span></p>
 </section>
 <section id="ryan-straight" class="slide level2 smaller" data-menu-title="Ryan Straight">
 <h2></h2>
 
 <img data-src="assets/profile.jpg" class="r-stretch quarto-figure-center"><p><strong>Ryan Straight, Ph.D</strong><br>
-Honors/Associate Professor of Practice Applied Computing &amp; Cyber Operations<br>
+Honors/Assistant Professor in Cyber, Intel, &amp; Information Operations<br>
 Director, MA{VR}X Lab<br>
 College of Applied Science and Technology<br>
 University of Arizona</p>
@@ -450,7 +468,7 @@ University of Arizona</p>
 <div>
 <ol type="1">
 <li class="fragment">Posthuman</li>
-<li class="fragment">Posthuman Inquiry</li>
+<li class="fragment">Posthuman Inquiry &amp; Postphenomenology</li>
 <li class="fragment">Artificial Intelligence (AI)</li>
 <li class="fragment">Virtual Pedagogical Agents</li>
 </ol>
@@ -475,271 +493,17 @@ University of Arizona</p>
           overflow: hidden!important;
           display:block!important;
       }</style></aside>
-</section>
-<section id="metaverse" class="slide level2 smaller">
-<h2>Metaverse</h2>
-<div class="columns">
-<div class="column" style="width:65%;">
-<p>According to <span class="citation" data-cites="parisiSevenRulesMetaverse2021">(<a href="" role="doc-biblioref" onclick="return false;"><strong>parisiSevenRulesMetaverse2021?</strong></a>)</span>, there are 7 Rules of the Metaverse:</p>
-<p>Rule #1: There is only one Metaverse.</p>
-<p>Rule #2: The Metaverse is for everyone.</p>
-<p>Rule #3: Nobody controls the Metaverse.</p>
-<p>Rule #4: The Metaverse is open.</p>
-<p>Rule #5: The Metaverse is hardware-independent.</p>
-<p>Rule #6: The Metaverse is a Network.</p>
-<p>Rule #7: The Metaverse is the Internet.</p>
-</div><div class="column" style="width:35%;">
-<p><img data-src="assets/metaverse.jpg"></p>
-</div>
-</div>
-<div class="attribution">
-<p>“The Metaverse of the Mind” via Dream.ai by WOMBO</p>
-</div>
-<aside class="notes">
-<p>“What is the metaverse?” I hear you asking. And rightfully so.</p>
-<p>These are “axiomatic” goals for an ideal metaverse, many of which I’m on board with. That said, there are some issues to address around, in the least, equity.</p>
-<ol type="1">
-<li>Within rule one, there is the caveat, “controlled by none and accessible to all” complicates the matter: in practice, this is not and will likely never be the case. Oppressive government regimes, bandwidth deserts, digital redlining, barriers to technology acquisition like financial or accessibility issues, all make this difficult to realize, which brings us to Rule 2:</li>
-<li>The metaverse being defined by the rules is something closer to a pure, perfect Platonic form, in that the implementation of the metaversal concept is necessarily limited, even corrupted, by those involved in its manifestation.</li>
-<li>I think if the events of the past year have shown us anything, it’s that while there shouldn’t be a single point of governance or failure in the metaverse (much like there isn’t one company or organization that “owns” the internet), we are certainly in <em>dire</em> need of regulation. If a scam <em>can</em> be perpetrated, it will be. For more on regulation in the metaverse, <span class="citation" data-cites="rosenbergRegulateMetaverse2022">(<a href="" role="doc-biblioref" onclick="return false;"><strong>rosenbergRegulateMetaverse2022?</strong></a>)</span> “Regulate the Metaverse: Why regulation is important and urgent.”</li>
-<li>Again here we see a need for regulation or at least a common goal for the greater good, akin to net neutrality. My worry is that convenience will out-weight autonomy going forward and the little injustices will begin to add up.</li>
-<li>We return to the question of equity at this point. The rule is intended to mean it can’t only be those with thousand-dollar VR headsets accessing the metaverse, rather it’s designed in such a way that there is equity from the start. As we’ll see when we get to the utilization of NFTs, a clear focus <em>away</em> from commercialization and consumerism should be at the forefront.</li>
-<li>It is interesting that so much talk about the metaverse focuses on the structure and the things within and not <em>the people</em> involved. Without users, the metaverse is meaningless. This means accessibility and usability, especially when bringing education into the mix.</li>
-<li>The internet describes a destination or locations within that space. We stream “from YouTube.” We “go online” to find information. We buy devices connected “to the cloud.” If we’re truly considering a metaverse, we need to reform our understanding of its proximity to us and think of it more as an aether, a (dare we say) <em>meta</em> reality that is simultaneously present combined with our own.</li>
-</ol>
-<p>So there we have our seven rules (and some concerns) about the metaverse.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="web3" class="slide level2 smaller">
-<h2>Web3</h2>
-<div class="columns">
-<div class="column" style="width:65%;">
-<p>What is <strong>Web3</strong>? According to <span class="citation" data-cites="makWhatWeb3Why2021a">(<a href="" role="doc-biblioref" onclick="return false;"><strong>makWhatWeb3Why2021a?</strong></a>)</span>, it’s an internet…</p>
-<blockquote>
-<p>runs on public blockchains… the appeal of Web3 is that it is decentralized[;] it’s the individuals themselves who own and control pieces of the internet.</p>
-</blockquote>
-<p>How do the <strong>metaverse</strong> and <strong>Web3</strong> relate?</p>
-<blockquote>
-<p>Web3 is all about inclusivity and putting users first. The metaverse is a new world where creation is put in your hands. NFTs are how we’re going to do it<sup>1</sup>. <span class="citation" data-cites="bashirCouncilPostMetaverse2022">(<a href="" role="doc-biblioref" onclick="return false;"><strong>bashirCouncilPostMetaverse2022?</strong></a>)</span></p>
-</blockquote>
-</div><div class="column" style="width:35%;">
-<p><img data-src="assets/web3.jpg"></p>
-</div>
-</div>
-<div class="attribution">
-<p>“A Web for All” via Dream.ai by WOMBO</p>
-</div>
-<aside class="notes">
-<p>There’s an internet addage about the different iterations of The Web. Very simply, it goes like this:</p>
-<ol type="1">
-<li>Web1: Read (most folks didn’t have the knowledge or ability to actually build in the web)</li>
-<li>Web2: Read/Write (now folks are actually building the web, themselves, with blogs and social media and whatnot)</li>
-<li>Web3: Read/Write/Own (users have agency and their work is now <em>theirs</em>)</li>
-</ol>
-<p>What I want folks to do here is to decouple their preconceived notions and associations between Web3 and <em>scam</em>. We are still very much in the exploration phase of Web3 and its potential. We’ll return to this in a bit.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-<aside><ol class="aside-footnotes"><li id="fn1"><p>If this leaves a bad taste in your mouth, don’t worry. We’ll return to this later.</p></li></ol></aside></section>
-<section id="blockchain" class="slide level2 smaller">
-<h2>Blockchain</h2>
-<div class="columns">
-<div class="column" style="width:65%;">
-<p>Blockchains are… “similar to a ledger that records digital forms and shares information across a computer network that includes digital signatures and certificates” <span class="citation" data-cites="bucea-manea-tonisBlockchainTechnologyEnhances2021a">(<a href="" role="doc-biblioref" onclick="return false;"><strong>bucea-manea-tonisBlockchainTechnologyEnhances2021a?</strong></a>)</span>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><a href="https://codingislove.com/simple-blockchain-javascript/"><img data-src="assets/blockchaindiagram.png"></a></p>
-<figcaption>Via Coding is Love</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:35%;">
-<p><img data-src="assets/blockchain.jpg"></p>
-</div>
-</div>
-<div class="attribution">
-<p>“Blocks, Chains, Locks, and Keys” via Dream.ai by WOMBO</p>
-</div>
-<aside class="notes">
-<p>That necessarily brings us to the question: what’s a blockchain? I found one piece that simply called it “a chain of blocks,” but I feel like there’s more to say than that.</p>
-<p>So how does this relate to education? Specifically, higher education? Lots of ways!</p>
-<ul>
-<li>A full e-learning platform <span class="citation" data-cites="lamBlockchainenabledElearningPlatform2022">(<a href="" role="doc-biblioref" onclick="return false;"><strong>lamBlockchainenabledElearningPlatform2022?</strong></a>)</span></li>
-<li>Lots of research on blockchain-based microcredentialing <span class="citation" data-cites="alsobhiBlockchainbasedMicrocredentialingSystem2023 ferdigExaminingBlockchainProtocols2022">(<a href="" role="doc-biblioref" onclick="return false;"><strong>alsobhiBlockchainbasedMicrocredentialingSystem2023?</strong></a>; <a href="" role="doc-biblioref" onclick="return false;"><strong>ferdigExaminingBlockchainProtocols2022?</strong></a>)</span></li>
-<li>Using blockchain for online discussion or to support education records <span class="citation" data-cites="sousaAIBlockchainNew2022">(<a href="" role="doc-biblioref" onclick="return false;"><strong>sousaAIBlockchainNew2022?</strong></a>)</span></li>
-<li>Using it in relation to MOOCs <span class="citation" data-cites="liMOOCsChainBlockchainbasedSecure2022">(<a href="" role="doc-biblioref" onclick="return false;"><strong>liMOOCsChainBlockchainbasedSecure2022?</strong></a>)</span></li>
-<li>Even to build an entire Smart University <span class="citation" data-cites="aslanBlockchainBasedLifelong2020a">(<a href="" role="doc-biblioref" onclick="return false;"><strong>aslanBlockchainBasedLifelong2020a?</strong></a>)</span></li>
-</ul>
-<p>First, here’s the super simplified version of how a blockchain works: each new “transaction” has a proof of the previous transaction, and this goes on forever. That way you can tell nothing has been injected, altered, or removed.</p>
-<p>I’m sure your gears are starting to turn and you’re thinking, “Hm, immutable records? I can see how that would be beneficial for an education system, whether that’s for ownership and intellectual property or keeping track of credentials or…” And I’d say: good! But there’s more before we return to that.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="nfts" class="slide level2">
-<h2>NFTs</h2>
-<div class="columns">
-<div class="column" style="width:65%;">
-<ul>
-<li>Tokenomics</li>
-<li>Metaverse</li>
-<li>Regulation and risk</li>
-<li>Video games</li>
-<li>Asset valuation</li>
-</ul>
-<p><span class="citation" data-cites="taherdoostNonFungibleTokensNFT2023">(<a href="" role="doc-biblioref" onclick="return false;"><strong>taherdoostNonFungibleTokensNFT2023?</strong></a>)</span></p>
-</div><div class="column" style="width:35%;">
-<p><img data-src="assets/nfts.jpg"></p>
-</div>
-</div>
-<div class="attribution">
-<p>“There Are Many Like It But This Is Mine” via Dream.ai by WOMBO</p>
-</div>
-<aside class="notes">
-<p>Tokenomics is basically the science behind an economy (broadly defined) that runs on tokens. Cryptocurrency, NFTs, new forms of tokens, et cetera.</p>
-<p>Taherdoorst makes a number of observations when it comes to NFTs. First:</p>
-<p>“The proponents of cryptocurrencies promise enhanced artist compensation, disintermediation, and better compliance with impending anti-money-laundering rules as business reasons for these collaborations … however, there is little proof that it, compared with other online monetization types, helps artists’ problems in earning a livelihood.”</p>
-<p>So, when it comes to valuation, there are two main concerns:</p>
-<p>“The first concern is whether or not there is a standard methodology for establishing the value of NFTs. The second goal is to define the link between NFTs and other cryptocurrencies.”</p>
-<p>And they hit it on the head with: “There is a growing amount of support and conviction in the potential of NFTs, but there is still considerable ambiguity over the future of NFTs.”</p>
-<p>And we’ll come back to how these relate to education shortly.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="daos" class="slide level2 smaller">
-<h2>DAOs</h2>
-<div class="columns">
-<div class="column" style="width:65%;">
-<p><strong>D</strong>ecentralized <strong>A</strong>utonomous <strong>O</strong>rganizations</p>
-<table>
-<colgroup>
-<col style="width: 40%">
-<col style="width: 59%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>DAO</th>
-<th>A traditional organization</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Usually flat, and fully democratized.</td>
-<td>Usually hierarchical.</td>
-</tr>
-<tr class="even">
-<td>Voting required by members for any changes to be implemented.</td>
-<td>Depending on structure, changes can be demanded from a sole party, or voting may be offered.</td>
-</tr>
-<tr class="odd">
-<td>All activity is transparent and fully public.</td>
-<td>Activity is typically private, and limited to the public.</td>
-</tr>
-</tbody>
-</table>
-<p>via <a href="https://ethereum.org/en/dao/#dao-comparison">Ethereum.org</a></p>
-</div><div class="column" style="width:35%;">
-<p><img data-src="assets/daos.jpg"></p>
-</div>
-</div>
-<div class="attribution">
-<p>“We Are One And We Are All In Charge” via Dream.ai by WOMBO</p>
-</div>
-<aside class="notes">
-<p>The DAO is essentially the native community structure of Web3. Some are more like co-ops while others are just a tech-focused way to organize a business structure and exist solely to help the members make money.</p>
-<p>There is also the occasional question of how robust a DAO is. One DAO thought by buying an original Dune book they owned the copyright to it, which is obviously not true and something anyone with even passing knowledge of copyright law could tell you. Another DAO was completely taken over by one person (or one group of people) suddenly owning the majority of the voting power in the organization, essentially making it “theirs.” And since DAO decisions (very often funding-related as they can have large amounts of money for seed grants, et cetera) are based on so-called Smart Contracts that are nothing more than algorithms, those decisions are enforced automatically.</p>
-<p>So, again, we see an area for concern and something to watch. I don’t believe this is a failure of the concept or the intent behind building these organizations, however. More like a lack of safeguards and due-diligence.</p>
-<p>Most education-related DAOs actually focus on education on and <em>about</em> Web3 (so, helping coders learn relevant languages). DAOs focused on using Web3 for education <em>not about Web3</em> are few and far between.</p>
-<p>But all these things bring us to what we’re really here to talk about: Ed3. First, though: how are these technologies already being applied in educational spaces?</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
+<!-- Mediation -->
 </section></section>
 <section>
-<section id="ed3" class="title-slide slide level1 center" data-menu-title="Ed3" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
+<section id="mediation" class="title-slide slide level1 center" data-menu-title="Mediation" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
 <h1></h1>
-<p><span class="r-fit-text">ED3</span></p>
-</section>
-<section id="ed1-ed2-ed3" class="slide level2">
-<h2>Ed1 / Ed2 / Ed3</h2>
-<div class="attribution">
-<p>Photos via <a href="https://dream.ai">Dream by WOMBO</a></p>
-</div>
-<div class="columns">
-<div class="fragment column" style="width:33%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/ed1.jpg"></p>
-<figcaption>Ed1: Learn</figcaption>
-</figure>
-</div>
-</div><div class="fragment column" style="width:33%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/ed2.jpg"></p>
-<figcaption>Ed2: Teach</figcaption>
-</figure>
-</div>
-</div><div class="fragment column" style="width:33%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/ed3.jpg"></p>
-<figcaption>Ed3: Own</figcaption>
-</figure>
-</div>
-</div>
-</div>
+<p><span class="r-fit-text">MEDIATION</span></p>
 <aside class="notes">
-<p>If we follow Scott David Meyer’s version of Ed3 as analogous to Web1, 2, and 3, we can start off like this.</p>
-<p>Ed1: was knowledge transfer provided by accredited institutions, such as universities and schools. If you want to think of this in Freireian terms, you could consider Ed1 the “banking” model.</p>
-<p>Ed2: was centralized platforms distributing education, such as Udemy, Skillshare, and Outschool, with some cohort-based engagements.</p>
-<p>Ed3: “individuals gathering skills from a variety of sources and validating that knowledge in their own wallet.”</p>
-<p>But is that it?? Here the “ownership” comes in. In Ed3, according to Meyer, “learners own their education - validating their knowledge with decentralized technology in contrast to previous models.”</p>
-<p>And, if you’re like me, you might be struggling here. On one hand, you might think, “Yes, down with the megacorps who own all our data!” On the otherhand, you might be thinking, “But, let’s just take accreditation, right? If I’m looking for a platform or organization to engage with and learn from, I kinda <em>like</em> the idea that there’s a body that regulates and accredits an organization to say, ‘Yup, they actually know what they’re talking about because we have these standards and they meet them.’ I’m not sure I have the time or even knowledge to validate every <em>wallet</em> to make sure they’re all legit before learning from that person.” If there’s anything we’ve learned, it’s that “Just trust us” is never good enough.</p>
-<p>Am I simplifying things here? Of course.</p>
-<p>But, returning to Ed3, there isn’t just one version of it. In fact, there are many. So let’s explore some now.</p>
+<p>This brings us to “technological mediation.” What does that even mean? Some examples may shed light:</p>
+<p>The Original Four</p>
+<p>Don Ihde <span class="citation" data-cites="ihdeTechnologyLifeworldGarden1990">(<a href="#/references" role="doc-biblioref" onclick="">1990</a>)</span>, in his attempt to reconcile the “classical” phenomenology that came from the likes of Edmund Husserl, Maurice Merleau-Ponty, and Martin Heidegger with our technologically immersed existence, proposed a new version of phenomenology, a post-phenomenological approach. This “post” prefix is more akin to postmodernism rather than posthumous or postmortem, in that it refers to simply the next logical step rather than something that necessarily comes <em>after</em>. It is worth mentioning here that when Ihde was exploring this new paradigm, it was the 1970s, so consider “technology” (in all its forms discussed earlier) now and half a century ago.</p>
+<p>Regardless, through his ponderings he decided upon four different “technics,” as he called them, or <em>ways technology mediate our experiences</em>. As he says, “Instruments are the means by which unspoken things ‘speak’, and unseen things become ‘visible.’” They are relational and include intention, which we’ll come back to in a minute. So, briefly, what are they?</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -752,49 +516,139 @@ University of Arizona</p>
           display:block!important;
       }</style></aside>
 </section>
-<section id="the-birth-of-ed3" class="slide level2">
-<h2>The Birth of Ed3</h2>
+<section id="embodiment" class="slide level2 smaller">
+<h2>Embodiment</h2>
 <div class="columns">
-<div class="fragment column" style="width:33%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/ed3movement.jpg"></p>
-<figcaption>Movement</figcaption>
-</figure>
-</div>
-</div><div class="fragment column" style="width:33%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/ed3mind.jpg"></p>
-<figcaption>Mindset</figcaption>
-</figure>
-</div>
-</div><div class="fragment column" style="width:33%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/ed3community.jpg"></p>
-<figcaption>Community</figcaption>
-</figure>
+<div class="column" style="width:50%;">
+<blockquote>
+<p>(human – technology) → world</p>
+</blockquote>
+<p>People and technology together relate to the world.</p>
+<ul>
+<li>You see <strong>through</strong> a telescope.</li>
+<li>You talk <strong>through</strong> a phone.</li>
+<li>There is technologic <strong>transparency</strong>.</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+<iframe src="https://giphy.com/embed/gIxBtRsuxT0iWuBDY4" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
+</iframe>
 </div>
 </div>
+</div>
+<div class="attribution">
+<p>Image via <a href="https://giphy.com" target="_blank">GIPHY</a></p>
 </div>
 <aside class="notes">
-<p>What is Ed3? Well, it depends on who you ask.</p>
+<p>Here, the person more or less incorporates the technology into their outward, physical, proprioreceptory experience. A classic example is a blind cane. The cane, in essence, becomes an extension of themselves and their perception. Likewise, glasses or a telescope.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="hermeneutic" class="slide level2 smaller">
+<h2>Hermeneutic</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<blockquote>
+<p>human → (technology – world)</p>
+</blockquote>
 <ul>
-<li>It can be an entire movement.
-<ul>
-<li>In fact, if we talk about Web3 as a movement and not a specific thing, that’s probably the best analog. Hence the name.</li>
-</ul></li>
-<li>It can be a mindset.
-<ul>
-<li>For many folks in the Ed3 world, it <em>is</em> a mindset. A way of thinking. A typically optimistic look at revitalizing and revolutionizing what many see as a faltering if not broken education system. They often see it as a way to return agency and ownership of learning to the learner.</li>
-</ul></li>
-<li>It can be a community.
-<ul>
-<li>And this is where the present study comes in: there is a distinct Ed3 communtiy, Ed3DAO, and I wanted to explore just what makes them tick, why are they passionate about this, how do they see the future of education in light of these technologies we’ve talked about, and how are they actually implementing it?</li>
-</ul></li>
+<li>You <strong>read off</strong> a speedometer.</li>
+<li>We <strong>interpret</strong> an x-ray.</li>
+<li>We assume the translation is accurate.</li>
 </ul>
-<p>So, while we’re interested in all of these, of course, it’s the community’s application of the concepts involved that we’re really focusing on. So let’s look at the study.</p>
+</div><div class="column" style="width:50%;">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+<iframe src="https://giphy.com/embed/zt0ZkDZXMEOS4" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
+<div class="attribution">
+<p>Image via <a href="https://giphy.com" target="_blank">GIPHY</a></p>
+</div>
+<aside class="notes">
+<p>The hermeneutic relation, on the otherhand, involves <em>translating</em> or <em>interpreting</em> technology in order to understand the world. You essentially <em>read through</em> the artifact, such as a speedometer or a clock. Writing, itself, is a technology that falls within this category. (Kline, remember?)</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="alterity" class="slide level2 smaller">
+<h2>Alterity</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<blockquote>
+<p>human → technology (world)</p>
+</blockquote>
+<ul>
+<li>Technology as <strong>other</strong>.</li>
+<li>We’re in <strong>its</strong> system, not ours.</li>
+<li>World <strong>withdraws</strong>; we focus on the <strong>technology</strong>.</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div style="width:75%;height:0;padding-bottom:129%;position:relative;">
+<iframe src="https://giphy.com/embed/VVAiHiDKeUHC0" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
+<div class="attribution">
+<p>Image via <a href="https://giphy.com" target="_blank">GIPHY</a></p>
+</div>
+<aside class="notes">
+<p>In the alterity relation, the technological artifact is treated as itself, what Ihde deemed the “quasi-other.” This ranges from a blender to an Amazon Echo to a fully functioning robot.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="background" class="slide level2 smaller">
+<h2>Background</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<blockquote>
+<p>human → (technology / world)</p>
+</blockquote>
+<ul>
+<li>Impacts our <strong>environment</strong>.</li>
+<li>Through this, <strong>us</strong>.</li>
+<li>Often don’t notice until it <strong>breaks</strong>.</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+<iframe src="https://giphy.com/embed/Rf4SBc9erYPaLlOA0U" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
+<div class="attribution">
+<p>Image via <a href="https://giphy.com" target="_blank">GIPHY</a></p>
+</div>
+<aside class="notes">
+<p>Finally, the background relation describes experiences like an air conditioner: this is technology that influences and impacts the world around you but you have little to no interaction with. It happens <em>in the background</em>, surprising enough.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -808,24 +662,45 @@ University of Arizona</p>
       }</style></aside>
 </section></section>
 <section>
-<section id="thestudy" class="title-slide slide level1 center" data-menu-title="The Study" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
+<section id="butwaitmore" class="title-slide slide level1 center" data-menu-title="But Wait, There's More" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
 <h1></h1>
-<p><span class="r-fit-text">THE STUDY</span></p>
-</section>
-<section id="preparing-to-study-ed3" class="slide level2">
-<h2>Preparing to Study Ed3</h2>
-
-<img data-src="assets/prereg.png" class="r-stretch"><div class="attribution">
-<p><a href="https://doi.org/10.17605/OSF.IO/VM5AX">Preregistration at OSF.io</a></p>
-</div>
+<p><span class="r-fit-text">BUT WAIT THERE’S MORE</span></p>
 <aside class="notes">
+<p>Later, other relations were beginning to be identified as technology changed and the <em>distance</em> and <em>intention</em> from and with us changed, as well. For example Verbeek <span class="citation" data-cites="verbeekCyborgIntentionalityRethinking2008">(<a href="#/references" role="doc-biblioref" onclick=""><strong>verbeekCyborgIntentionalityRethinking2008?</strong></a>)</span> describes a few new and necessary <em>hybrid intentionalities</em>:</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="the-next-generation" class="slide level2">
+<h2>The Next Generation</h2>
+<h3 id="fusioncyborg"><span class="rn" data-rn-type="underline" data-rn-color="red" data-rn-index="1">Fusion/Cyborg</span></h3>
+<blockquote>
+<p>( human / technology ) → world</p>
+</blockquote>
+<h3 id="composite"><span class="rn" data-rn-type="underline" data-rn-color="red" data-rn-index="2">Composite</span></h3>
+<blockquote>
+<p>human → ( technology → world )</p>
+</blockquote>
+<h3 id="augmentation"><span class="rn" data-rn-type="underline" data-rn-color="red" data-rn-index="3">Augmentation</span></h3>
+<blockquote>
+<p>( human – technology ) → world <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↘ ( technology – world )</p>
+</blockquote>
+<aside class="notes">
+<p>Here we start getting into more complex relations that you can imagine being used in cutting-edge or future online/virtual learning environments. Hopefully you’re beginning to see where I’m going with all this.</p>
 <ul>
-<li>I’ve been interested in the Web3/education intersection for some time.</li>
-<li>I then found the Ed3DAO and joined the community.</li>
-<li>It was the–if I’m being honest–scammy nature of NFTs and crypto that got me thinking, “Why are these folks so positive on this? There’s no money in this.” Turns out that’s important and…</li>
-<li>In fact, this is one of the ways the community thrives: folks looking to flip an NFT for a quick buck soon realize the ecosystem being built is not ripe for that kind of thing.</li>
-<li>So, <em>how</em> are they different? That is, how do educators approach Web3, NFTs, etc, differently from those in other industries?</li>
+<li>First, <strong>fusion</strong> or a <strong>cyborg</strong> intentionality. Here we’re talking about everything from IUDs to pacemakers, from implanted RFID chips to cochlear implants. In this case, there is no physical separation of the self and the technology. In fact, removing one of them from the equation breaks the entire thing down. A pacemaker without a user has no impact, and a user without a pacermaker is… well. You get the point. The person and the technology are literally <strong>fused</strong> insofar as experiencing the world is concerned.</li>
+<li><strong>Composite</strong> intentionality: <code>Human -&gt; ( Technology -&gt; World )</code>, wherein a person’s intention is directed toward the technology, and that technology’s <em>intention</em> is thereby directed at the world. While a thermometer <em>represents</em> the temperature in the hermeneutic relation, A thermal camera, for example, which translates a world we cannot naturally perceive (infrared radiation) into something we can (a colorful video) in the composite relation.</li>
+<li><strong>Augmented</strong> intentionality: considerably more complex, it includes a kind of feedback loop, wherein the human’s intention directs the technology experience the world, the results of which are then fed back to the human and the cycle repeats itself. So, not only is the human experiencing the world through the technology, the human is also experiencing the technology’s experience of the world overlaid, and reacts to <em>that</em>.</li>
 </ul>
+<p>The question, then, is how many of these different kind of technological relations can you identify in this experience, alone, much less in the myriad “technologies” (remember Kline?) that make up Web3 in general.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -837,182 +712,193 @@ University of Arizona</p>
           overflow: hidden!important;
           display:block!important;
       }</style></aside>
-</section>
-<section id="studying-ed3" class="slide level2">
-<h2>Studying Ed3</h2>
-
-<img data-src="assets/qualtrics.png" class="r-stretch"><aside class="notes">
-<p>Working with some of the folks in the Ed3DAO to tease out some major relevant themes like focusing on Web3 as a concept, equity in education, and so on.</p>
-<p>I asked for demographics (of course), self-reported feelings of expertise when it came to the conceptual, technical, and practical sides of Web3, a Likert-style portion specifically aimed at “the integration of Web3 and education,” and then finally some open-ended questions to help tease out nuance. A cleaned, anonymized version of the data will be available once the study is published, so those open-ended responses won’t be included as they may be identifiable.</p>
-<p>As far as the Likert questions go, they were formulated as statements with which participants should agree or disagree on a 7-point scale ranging from “Strongly disagree” to “Strongly agree” with an option for “Don’t know/No opinion.” For example, “Schools will be quick to adopt these new technologies,” “There should be more regulation and oversight,” and “Cybersecurity in Web3 is of little concern.”</p>
-<p>The questions were placed in three categories, unbeknownst to the participants, focusing on equity, pedagogy, and Web3.</p>
-<p>The instrument itself is reliable with an alpha level of <code>0.86</code>, which is nice.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="similarities" class="slide level2">
-<h2>Similarities</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div>
-<ul>
-<li class="fragment">Demographics? Check.</li>
-<li class="fragment">Expertise? Check.</li>
-<li class="fragment">Opinions? Very nearly!</li>
-</ul>
-</div>
-</div><div class="column" style="width:50%;">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-<iframe src="https://giphy.com/embed/ukCFEU6Cg5MCCDoaVN" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
-</iframe>
-</div>
-</div>
-</div>
-<div class="attribution">
-<p>via GIPHY</p>
-</div>
-<aside class="notes">
-<p>First, how am I defining “educators” and “non-educators?” Simply this: a question asked participants which industry they’re <em>generally</em> in. Anyone that chose Education over the others (ie, entertainment, finance, et cetera), were labeled “Educator,” and everyone else was labeled “Non-educator.”</p>
-<p>The participant numbers came out to roughly 2:1 educators to non-educators. Not surprising. What <em>was</em> surprising was where similarities were and were not.</p>
-<p>Demographics? Yup. No significant differences between the two groups.</p>
-<p>Expertise? Again, no difference. That’s those conceptual, technical, and practical expertise I talked about earlier. There were slight differences between educators and non-educators but in this particular group they weren’t <em>statistically</em> significant.</p>
-<p>So let’s look at the differences.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="difference-teaching" class="slide level2">
-<h2>Difference: Teaching</h2>
-<div class="columns">
-<div class="column" style="width:65%;">
-<p><span class="fragment"><strong>Educators</strong>: Teachers can spend more time teaching? <em>Doubtful</em>.</span></p>
-<p><span class="fragment"><strong>Non-educators</strong>: Developing a sense of community among students? <em>Doubtful</em>.</span></p>
-</div><div class="column" style="width:35%;">
-<div style="width:100%;height:0;padding-bottom:101%;position:relative;">
-<iframe src="https://giphy.com/embed/mPAfmTMIGPZsqACDPf" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
-</iframe>
-</div>
-</div>
-</div>
-<div class="attribution">
-<p>via GIPHY</p>
-</div>
-<aside class="notes">
-<p>This difference requires some unpacking and I encourage folks to muse in the chat about why this might be.</p>
-<p>First: more time teaching. This would suggest, as one would expect, the non-educators perhaps don’t understand the day-to-day logistics of teaching.</p>
-<p>For the sense of community: that’s interesting, right? Given the DAO-focus so many Web3 folks tend to have, it’s curious that non-educators would tend to doubt the ability to build community using this technology.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="difference-optimism" class="slide level2">
-<h2>Difference: Optimism</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<h3 id="educators">Educators</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-<iframe src="https://giphy.com/embed/3q0eYE2vuSc7Y0uG7M" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
-</iframe>
-</div>
-</div><div class="column" style="width:50%;">
-<h3 id="non-educators">Non-Educators</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-<iframe src="https://giphy.com/embed/fxgVuoKyZwEOudRXuj" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
-</iframe>
-</div>
-</div>
-</div>
-<div class="attribution">
-<p>via GIPHY</p>
-</div>
-<aside class="notes">
-<p>Educators <em>disagreed</em> with the portion of the survey that was more critical in nature of Web3 tech at significantly higher rates than those not in the education space. There are a variety of ways to interpret this, as there always are.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-</section>
-<section id="nfts-again" class="slide level2 smaller">
-<h2>NFTs (Again)</h2>
-<p><span class="math inline">\(N\)</span> = 136, <span class="math inline">\(M\)</span> = 6.01, <span class="math inline">\(SD\)</span> = 1.31</p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/ed3nft.jpeg"></p>
-<figcaption>Ed3 NFT</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="assets/nftqt.jpeg"></p>
-<figcaption>Other NFTs</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<aside class="notes">
-<p>Both educators and non-educators scored most highly on a survey item about NFTs not being used to their fullest extent. Out of 7, the average was basically 6, far and away the most agreed-upon optimistic thing in the entire survey.</p>
-<p>I interpret this to mean a couple different things: first, folks in this study generally seem to believe in the utility of NFTs and don’t necessarily fall victim to letting current scams and illegalities rampant in the NFT space as indicative of the technology, itself. Second, given this population is implicitly related to the Ed3DAO community, their exposure to the Ed3 NFT and its built-in utility provides them with a paragon of what’s possible.</p>
-<p>Taking this further, it then makes sense to suggest that, if improving the public opinion on NFTs is a goal, then having that paragon of utility and legitimacy is key.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
+<!-- Posthuman inquiry methods -->
 </section></section>
 <section>
-<section id="thefuture" class="title-slide slide level1 center" data-menu-title="The Future" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
+<section id="education" class="title-slide slide level1 center" data-menu-title="Education" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
+<h1></h1>
+<p><span class="r-fit-text">EDUCATION</span></p>
+<aside class="notes">
+<p>Bringing It All Together: Where Does Education Fit In?</p>
+<p>So, while we can clearly see how, through a hermeneutic relation, a speedometer can mediate your experience of driving a car, for example, what happens when the goal of your interaction is <em>learning</em>?</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="doing-postphenomenology" class="slide level2">
+<h2>Doing Postphenomenology</h2>
+<blockquote>
+<p>… in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning.</p>
+</blockquote>
+<aside class="notes">
+<p>As Adams and Turville <span class="citation" data-cites="adamsDoingPostphenomenologyEducation2018">(<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span> point out, “Doing postphenomenology in education involves attending to the unique differences a particular technology makes to teaching practice, knowledge apprehension, and pedagogical meaning” (p.&nbsp;20). The question then becomes, in this new version of technologically-mediated learning <em>and of self</em>, what are these Web3 paradigms of teaching practice, knowledge apprehension, and pedagogical meaning?</p>
+<p>Approaching learning in this way–that is, through a postphenomenological, posthuman inquiry lens–encourages us to scrape away at the outer encompassing veneer of the <em>digital self</em> and critically examine the delineation therein, harkening back to the traditional phenomenological “way in.” Crucially, <em>doing</em> postphenomenology has no actual, agreed-upon method <span class="citation" data-cites="rosenbergerFieldGuidePostphenomenology2015">(<a href="#/references" role="doc-biblioref" onclick=""><strong>rosenbergerFieldGuidePostphenomenology2015?</strong></a>)</span>. There are a variety of <em>suggested</em> heuristics <span class="citation" data-cites="adamsResearchingPosthumanWorld2016">(<a href="#/references" role="doc-biblioref" onclick=""><strong>adamsResearchingPosthumanWorld2016?</strong></a>)</span>, but no hard-and-fast checklist or guide.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="but-how" class="slide level2">
+<h2>But How?</h2>
+<div class="columns">
+<div class="column" style="width:75%;">
+<ol type="1">
+<li class="fragment">Composing Anecdotes through Self-Observation</li>
+<li class="fragment">Gathering Lived Experience Descriptions through Interviews</li>
+<li class="fragment">Composing Anecdotes through Observation of Others</li>
+<li class="fragment">Finally, Studying Breakdowns and the Eidetic Reduction</li>
+</ol>
+</div><div class="column" style="width:25%;">
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;">
+<iframe src="https://giphy.com/embed/ounv1hey86r5DM6WhP" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
+<div class="attribution">
+<p>Image via <a href="https://giphy.com" target="_blank">GIPHY</a></p>
+</div>
+<aside class="notes">
+<p>Accordingly, here are some ideas of ways you, too, can begin attempting to exploring this space and, if you spend time educating or being educated, the crossroads as well, as described by Adams and Turville.</p>
+<ol type="1">
+<li>Composing Anecdotes through Self-Observation
+<ol type="1">
+<li>Approach your own experiences and lifeworld with “non-intrusive observation of oneself” … and the “invitational appeals of one’s equipmental or technology-textured surround.”</li>
+<li>This is harder than it sounds. “Explanations, opinions, judgments, or theoretical concepts must be pushed aside in favor of what was given in the moment.”</li>
+</ol></li>
+<li>Gathering Lived Experience Descriptions through Interviews
+<ol type="1">
+<li>Perhaps not the most easily accomplished approach, to be fair, especially for those that aren’t necessarily in an environment where that kind of research is encouraged or even permissible.</li>
+<li>That said, this may be a tremendously revealing process, especially when directed toward teachers and learners in metaversal spaces.</li>
+<li>This should <strong>not</strong> be confused with user experience testing, of course. When gathering these lived experience descriptions, while the design choices made by software developers may have an influential and mediating impact as discussed early, it is merely one step to overcome to get to the real experience.</li>
+</ol></li>
+<li>Composing Anecdotes through Observation of Others
+<ol type="1">
+<li>Contrasting the interview approach, simply observing others in the space can also lead to revelations without overt disturbance.</li>
+<li>It may, for example, “assist in pointing up aspects of everyday life that may otherwise be taken for granted by oneself and others.”</li>
+<li>However, it’s important to note that, since through the observation you may not access a truly sufficient and representative lived experience (you can imagine just how much you would miss by watching someone’s actions and not being privy to their motivations or goals).</li>
+</ol></li>
+<li>Finally, Studying Breakdowns and the Eidetic Reduction
+<ol type="1">
+<li>Recall Heidegger and his broken hammer. In this approach, we come <em>after</em>. That is, instead of trying to tease out the lived experiences <em>in vivo</em>, it is the breakdown of the moment that gives us access.</li>
+<li>For example, in this very space, it is easier to understand how people and things interact when there is friction than when it goes smoothly.</li>
+<li>Likewise, for a completely non-technical and more Heideggerian example: when your pencil or chalk breaks mid-thought.</li>
+</ol></li>
+</ol>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="approaches" class="slide level2">
+<h2>Approaches</h2>
+<div class="columns">
+<div class="column" style="width:70%;">
+<ol type="1">
+<li class="fragment">Variational method or analysis</li>
+<li class="fragment">Variational cross-examination</li>
+<li class="fragment">Case study</li>
+<li class="fragment">Conversational analysis</li>
+</ol>
+</div><div class="column" style="width:30%;">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+<iframe src="https://giphy.com/embed/2WUkAVDzuQbUA" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
+<div class="attribution">
+<p>Image via <a href="https://giphy.com" target="_blank">GIPHY</a></p>
+</div>
+<aside class="notes">
+<p>We can make this even more concrete.</p>
+<ol type="1">
+<li>Variational method or analysis: described as “the method of brainstorming stabilities of a multistable technology.” Remember, everything is also something else.</li>
+<li>Variational cross-examination: first determining what a particular technology’s “dominant” stability is, we can move on to critically examining and identifying alternatives by exploring, for example, habits of users or frequent qualities teased out of the technology itself, its role in a particular system (thinking back to it being just an actor in a network of actors), and what we are probably most comfortable with or at least what we tend to do in this Web3 space: what’s known as “tailoring,” or “the … alterations of technology for different purposes.” Just think about how often we approach things in this space that way: “this has potential; how can we use it?”</li>
+<li>Third, case study: generally speaking the postphenomenological approach is this. The Ed3DAO, for example, is a perfect candidate for this kind of approach, but so is something like the various platforms focusing on self-sovereign identity and data portability like Disco.</li>
+<li>Finally, conversational analysis. This can be a little heady, but it can help us bridge the gap between simply exploring “what things do” and those mediations of our perceptions and actions “from within.”</li>
+</ol>
+<p>So, again, as you can see, there is no hard and fast, prescriptive method to take. This, perhaps surprisingly, works in our favor. It requires the educator and researcher to delve deep to fully understand something that they likely never will, only the individual instance of the thing. In doing so, however, incorporating the posthuman inquiry approach, we can interview these objects–whether tangible devices, virtual worlds, or digital personas–and give them time to “speak.” We musn’t simply explore how, for example, students “use” these things; we must conversely look at how those things use <em>them</em>.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<!-- AI -->
+</section></section>
+<section>
+<section id="AI" class="title-slide slide level1 center" data-menu-title="AI" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
+<h1></h1>
+<p><span class="r-fit-text">ARTIFICIAL INTELLIGENCE</span></p>
+<aside class="notes">
+<p>Now that we have some ways of actually doing these things, let’s try to bring it back to artificial intelligence before we triangulate with education.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="h2" class="slide level2">
+<h2>H2</h2>
+<p>AI stuff here</p>
+<div class="attribution">
+
+</div>
+<aside class="notes">
+<p>Notes</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<!-- Future of AI in Education -->
+</section></section>
+<section>
+<section id="future" class="title-slide slide level1 center" data-menu-title="The Future" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
 <h1></h1>
 <p><span class="r-fit-text">THE FUTURE</span></p>
-</section>
-<section id="what-is-to-come" class="slide level2 smaller">
-<h2>What is to come?</h2>
-<p>Most importantly, a critical need for</p>
-<blockquote>
-<p><strong>re-orienting blockchain technology in education from pro-profit to human-centred adoption</strong>. This is to ensure a balance among technological advances, knowledge transformation, and safeguarding of privacy and individual rights of marginalised teachers and learners. <span class="citation" data-cites="savelyevaBlockchainTechnologySustainable2022">(<a href="" role="doc-biblioref" onclick="return false;"><strong>savelyevaBlockchainTechnologySustainable2022?</strong></a>)</span></p>
-</blockquote>
 <aside class="notes">
-<p>This is absolutely key. Absolutely essential.</p>
+<p>The subtitle of this talk is “AI and the Future of Education,” but it might be more accurate to think of “Education and the Future of AI.”</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -1025,18 +911,30 @@ University of Arizona</p>
           display:block!important;
       }</style></aside>
 </section>
-<section id="what-is-to-come-1" class="slide level2 smaller">
-<h2>What is to come?</h2>
-<p>Secondly, DAOs and education. Some considerations <span class="citation" data-cites="qianDAOsUniversityReplacements2021">(<a href="" role="doc-biblioref" onclick="return false;"><strong>qianDAOsUniversityReplacements2021?</strong></a>)</span>:</p>
-<ul>
-<li>Credentials</li>
-<li>Social life</li>
-<li>Path toward professional “success”</li>
-<li>Education</li>
-<li>Admissions</li>
-<li>Cost</li>
-<li>Length of time spent at the institution</li>
-</ul>
+<section id="virtual-pedagogical-agents" class="slide level2">
+<h2>Virtual Pedagogical Agents</h2>
+<p>AI stuff here</p>
+<div class="attribution">
+
+</div>
+<aside class="notes">
+<p>This is where we are now. But:</p>
+<ol type="1">
+<li>Gen Z grew up with smartphones. A window to the world at all times.</li>
+<li>Gen A will grow up with their own AIs.</li>
+</ol>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<!-- End slide -->
 </section></section>
 <section>
 <section id="the-end" class="title-slide slide level1 center" data-menu-title="The End" data-background="#9EABAE" data-background-image="assets/lab.png" data-background-size="35%" data-background-position="right 5% top 5%">
@@ -1054,12 +952,12 @@ University of Arizona</p>
 <p><a href="https://ryanstraight.com" class="uri">https://ryanstraight.com</a></p>
 </div><div class="column" style="width:50%;">
 <h3 id="see-the-toolkit">See the toolkit!</h3>
-<p><a href="https://mavrxlab.org/news/2023-04-04-ed3-toolkit/" class="uri">https://mavrxlab.org/news/2023-04-04-ed3-toolkit/</a></p>
-<div id="qr2" class="qrcode"></div>
+<p><a href="https://mavrxlab.org/news/2023-07-16-kti-c/" class="uri">https://mavrxlab.org/news/2023-07-16-kti-c/</a></p>
+<p></p><div id="qr2" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qr2", {"colorDark":"#000000","colorLight":"#ffffff","text":"https://mavrxlab.org/news/2023-04-04-ed3-toolkit/","height":"250","width":"250"});
+var qrcode = new QRCode("qr2", {"height":"250","text":"https://mavrxlab.org/news/2023-07-16-kti-c/","colorDark":"#000000","width":"250","colorLight":"#ffffff"});
 </script>
-    
+    <p></p>
 </div>
 </div>
 <aside class="notes">
@@ -1076,14 +974,21 @@ var qrcode = new QRCode("qr2", {"colorDark":"#000000","colorLight":"#ffffff","te
           display:block!important;
       }</style></aside>
 </section>
-<section id="references" class="slide level2">
+<section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
 
 <img src="assets/lab.png" class="slide-logo r-stretch"><div class="footer footer-default">
 <p>Dr.&nbsp;Ryan Straight – ryanstraight@arizona.edu – @ryanstraight@hci.social</p>
 </div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
+<div id="ref-adamsDoingPostphenomenologyEducation2018" class="csl-entry" role="listitem">
+Adams, C., &amp; Turville, J. (2018). Doing <span>Postphenomenology</span> in <span>Education</span>. In <em>Postphenomenological <span>Methodologies</span>: <span>New Ways</span> in <span>Mediating Techno-Human Relationships</span></em> (pp. 3–25). <span>Lexington Books</span>.
+</div>
+<div id="ref-ihdeTechnologyLifeworldGarden1990" class="csl-entry" role="listitem">
+Ihde, D. (1990). <em>Technology and the <span>Lifeworld</span>: <span>From Garden</span> to <span>Earth</span></em>. <span>Indiana University Press</span>.
+</div>
+</div>
 </section></section>
-
     </div>
   </div>
 
@@ -1372,9 +1277,10 @@ var qrcode = new QRCode("qr2", {"colorDark":"#000000","colorLight":"#ffffff","te
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      function tippyHover(el, contentFn) {
         const config = {
           allowHTML: true,
+          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1384,17 +1290,8 @@ var qrcode = new QRCode("qr2", {"colorDark":"#000000","colorLight":"#ffffff","te
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start',
+          placement: 'bottom-start'
         };
-        if (contentFn) {
-          config.content = contentFn;
-        }
-        if (onTriggerFn) {
-          config.onTrigger = onTriggerFn;
-        }
-        if (onUntriggerFn) {
-          config.onUntrigger = onUntriggerFn;
-        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 

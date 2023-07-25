@@ -1,13 +1,13 @@
 #  {#who data-menu-title="Introduction" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
 
-[WHO]{.r-fit-text}
+[INTRODUCTIONS]{.r-fit-text}
 
 ##  {#ryan-straight .smaller data-menu-title="Ryan Straight"}
 
 ![](assets/profile.jpg){fig-align="center"}
 
 **Ryan Straight, Ph.D**\
-Honors/Associate Professor of Practice Applied Computing & Cyber Operations\
+Honors/Assistant Professor in Cyber, Intel, & Information Operations\
 Director, MA{VR}X Lab\
 College of Applied Science and Technology\
 University of Arizona

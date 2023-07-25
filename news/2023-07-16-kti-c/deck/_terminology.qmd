@@ -8,7 +8,7 @@
 ::: {.column width="65%"}
 ::: incremental
 1.  Posthuman
-2.  Posthuman Inquiry
+2.  Posthuman Inquiry & Postphenomenology
 3.  Artificial Intelligence (AI)
 4.  Virtual Pedagogical Agents
 :::
@@ -24,5 +24,6 @@ Image via [dream.ai](https://dream.ai).
 :::
 
 ::: notes
-We need to be on the same page when we're talking about these rather new topics, so I want to give a quick rundown of what these things actually are. I'll caveat it with: so far, with just a few exceptions, there's no absolute consensus here.
+We need to be on the same page when we're talking about these rather new topics, so I want to give a quick rundown of what these things actually are.
+I'll caveat it with: so far, with just a few exceptions, there's no absolute consensus here.
 :::

@@ -8,10 +8,10 @@
 ::: {.column width="50%"}
 1.  Introduction
 2.  Terminology
-3.  Ed3
-4.  The Study
-5.  The Future
-6.  Your Toolkit
+3.  Mediation
+4.  Methods
+5.  AI
+6.  Education
 :::
 
 ::: {.column width="50%"}
