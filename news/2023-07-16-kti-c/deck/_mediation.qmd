@@ -3,18 +3,13 @@
 [MEDIATION]{.r-fit-text}
 
 ::: notes
-This brings us to "technological mediation." What does that even mean?
-Some examples may shed light:
+This brings us to "technological mediation." What does that even mean? Some examples may shed light:
 
 The Original Four
 
-Don Ihde [-@ihdeTechnologyLifeworldGarden1990], in his attempt to reconcile the "classical" phenomenology that came from the likes of Edmund Husserl, Maurice Merleau-Ponty, and Martin Heidegger with our technologically immersed existence, proposed a new version of phenomenology, a post-phenomenological approach.
-This "post" prefix is more akin to postmodernism rather than posthumous or postmortem, in that it refers to simply the next logical step rather than something that necessarily comes *after*.
-It is worth mentioning here that when Ihde was exploring this new paradigm, it was the 1970s, so consider "technology" (in all its forms discussed earlier) now and half a century ago.
+Don Ihde [-@ihdeTechnologyLifeworldGarden1990], in his attempt to reconcile the "classical" phenomenology that came from the likes of Edmund Husserl, Maurice Merleau-Ponty, and Martin Heidegger with our technologically immersed existence, proposed a new version of phenomenology, a post-phenomenological approach. This "post" prefix is more akin to postmodernism rather than posthumous or postmortem, in that it refers to simply the next logical step rather than something that necessarily comes *after*. It is worth mentioning here that when Ihde was exploring this new paradigm, it was the 1970s, so consider "technology" (in all its forms discussed earlier) now and half a century ago.
 
-Regardless, through his ponderings he decided upon four different "technics," as he called them, or *ways technology mediate our experiences*.
-As he says, "Instruments are the means by which unspoken things 'speak', and unseen things become 'visible.'" They are relational and include intention, which we'll come back to in a minute.
-So, briefly, what are they?
+Regardless, through his ponderings he decided upon four different "technics," as he called them, or *ways technology mediate our experiences*. As he says, "Instruments are the means by which unspoken things 'speak', and unseen things become 'visible.'" They are relational and include intention, which we'll come back to in a minute. So, briefly, what are they?
 :::
 
 ## Embodiment {.smaller}
@@ -44,10 +39,7 @@ Image via <a href="https://giphy.com" target="_blank">GIPHY</a>
 :::
 
 ::: notes
-Here, the person more or less incorporates the technology into their outward, physical, proprioreceptory experience.
-A classic example is a blind cane.
-The cane, in essence, becomes an extension of themselves and their perception.
-Likewise, glasses or a telescope.
+Here, the person more or less incorporates the technology into their outward, physical, proprioreceptory experience. A classic example is a blind cane. The cane, in essence, becomes an extension of themselves and their perception. Likewise, glasses or a telescope.
 :::
 
 ## Hermeneutic {.smaller}
@@ -75,10 +67,7 @@ Image via <a href="https://giphy.com" target="_blank">GIPHY</a>
 :::
 
 ::: notes
-The hermeneutic relation, on the otherhand, involves *translating* or *interpreting* technology in order to understand the world.
-You essentially *read through* the artifact, such as a speedometer or a clock.
-Writing, itself, is a technology that falls within this category.
-(Kline, remember?)
+The hermeneutic relation, on the otherhand, involves *translating* or *interpreting* technology in order to understand the world. You essentially *read through* the artifact, such as a speedometer or a clock. Writing, itself, is a technology that falls within this category. (Kline, remember?)
 :::
 
 ## Alterity {.smaller}
@@ -134,8 +123,7 @@ Image via <a href="https://giphy.com" target="_blank">GIPHY</a>
 :::
 
 ::: notes
-Finally, the background relation describes experiences like an air conditioner: this is technology that influences and impacts the world around you but you have little to no interaction with.
-It happens *in the background*, surprising enough.
+Finally, the background relation describes experiences like an air conditioner: this is technology that influences and impacts the world around you but you have little to no interaction with. It happens *in the background*, surprising enough.
 :::
 
 #  {#butwaitmore data-menu-title="But Wait, There's More" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
@@ -143,27 +131,33 @@ It happens *in the background*, surprising enough.
 [BUT WAIT THERE'S MORE]{.r-fit-text}
 
 ::: notes
-Later, other relations were beginning to be identified as technology changed and the *distance* and *intention* from and with us changed, as well.
-For example Verbeek [-@verbeekCyborgIntentionalityRethinking2008] describes a few new and necessary *hybrid intentionalities*:
+Later, other relations were beginning to be identified as technology changed and the *distance* and *intention* from and with us changed, as well. For example Verbeek [-@verbeekCyborgIntentionalityRethinking2008] describes a few new and necessary *hybrid intentionalities*:
 :::
 
 ## The Next Generation
 
-### [Fusion/Cyborg]{.rn rn-type="underline" rn-color="red" rn-index="1"}
+::: columns
+::: {.column width="70%"}
+#### [Fusion/Cyborg]{.rn rn-type="underline" rn-color="red" rn-index="1"}
 
 > ( human / technology ) → world
 
-### [Composite]{.rn rn-type="underline" rn-color="red" rn-index="2"}
+#### [Composite]{.rn rn-type="underline" rn-color="red" rn-index="2"}
 
 > human → ( technology → world )
 
-### [Augmentation]{.rn rn-type="underline" rn-color="red" rn-index="3"}
+#### [Augmentation]{.rn rn-type="underline" rn-color="red" rn-index="3"}
 
 > ( human -- technology ) → world <br />                     ↘ ( technology -- world )
+:::
+
+::: {.column width="30%"}
+![](assets/nextgen.jpg)
+:::
+:::
 
 ::: notes
-Here we start getting into more complex relations that you can imagine being used in cutting-edge or future online/virtual learning environments.
-Hopefully you're beginning to see where I'm going with all this.
+Here we start getting into more complex relations that you can imagine being used in cutting-edge or future online/virtual learning environments. Hopefully you're beginning to see where I'm going with all this.
 
 -   First, **fusion** or a **cyborg** intentionality. Here we're talking about everything from IUDs to pacemakers, from implanted RFID chips to cochlear implants. In this case, there is no physical separation of the self and the technology. In fact, removing one of them from the equation breaks the entire thing down. A pacemaker without a user has no impact, and a user without a pacermaker is... well. You get the point. The person and the technology are literally **fused** insofar as experiencing the world is concerned.
 -   **Composite** intentionality: `Human -> ( Technology -> World )`, wherein a person's intention is directed toward the technology, and that technology's *intention* is thereby directed at the world. While a thermometer *represents* the temperature in the hermeneutic relation, A thermal camera, for example, which translates a world we cannot naturally perceive (infrared radiation) into something we can (a colorful video) in the composite relation.

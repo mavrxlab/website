@@ -42,7 +42,7 @@ slide-number: false
 number-sections: false
 logo: "assets/lab.png"
 footer: "Dr. Ryan Straight -- ryanstraight&commat;arizona.edu -- &commat;ryanstraight&commat;hci.social"
-bibliography: ../refs.bib
+bibliography: refs.bib
 csl: apa.csl
 ---
 

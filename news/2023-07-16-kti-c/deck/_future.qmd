@@ -8,15 +8,97 @@ The subtitle of this talk is "AI and the Future of Education," but it might be m
 
 ## Virtual Pedagogical Agents
 
-AI stuff here
+::: columns
+::: {.column width="50%"}
+#### Currently
+
+![](assets/smartphone.jpg){width="65%" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+#### Soon
+
+![](assets/vpa.jpg){width="65%" fig-align="center"}
+:::
+:::
 
 ::: attribution
 :::
 
 ::: notes
-This is where we are now.
-But:
+This is where we are now. But:
 
-1.  Gen Z grew up with smartphones. A window to the world at all times.
-2.  Gen A will grow up with their own AIs.
+-   The current majority of traditionally paced students grew up with smartphones (I'm avoiding using terms like Gen Z as they're just very poor categorizations and come with a LOT of baggage). A window to the world at all times.
+-   Over the next decades, students in this same traditional pace will grow up with their own AIs. Like a valet. [@pittDoingPhilosophyTechnology2011] "Someone" they grow with and that can push them constantly just outside their comfort zones while keeping the instructional approach and materials appropriate. Think of The Diamond Age with Nell and Miranda but without a live "ractor" on the other side.
+
+However, a question arises: well, a few, actually, that I invite folks to think about when we consider ways to both introduce AI to students *and* understand how it might impact them on an individualized level. I and a student just had a paper published in the EdMedia + Innovate Learning proceedings that relates to this, actually. [@straightParasocialPosthumanVirtual2023]
+
+But, even if we're not at the AI place for this yet, it's worth considering these questions for instructional design, alone:
+
+1.  
 :::
+
+## Preparing Students
+
+::: columns
+::: {.column width="65%"}
+1.  Support students *and* staff literacy
+2.  Staff well-equipped
+3.  Ethics first
+4.  Academic integrity
+5.  Best practices
+:::
+
+::: {.column width="35%"}
+![](assets/studentprep.jpg)
+:::
+:::
+
+::: attribution
+:::
+
+::: notes
+As if students need us to prepare them for using AI. *Ethically* using it in a traditional educational setting, perhaps, yes. So, let's look at what one group has suggested institutions do regarding the adoption of AI and ensuring proper student preparation.
+
+But again, we're still seeing this as reactive to the current state of AI, so is this enough? We're in for probably one of the most difficult but exciting times since education has been a profession.
+
+I think the most important thing here is ensuring that students are intrinsically motivated.
+:::
+
+## Our Posthuman Learners(?)
+
+::: columns
+::: {.column width="50%"}
+![](assets/phl1.jpg){width="65%" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](assets/phl2.jpg){width="65%" fig-align="center"}
+:::
+:::
+
+::: notes
+So, are our learners posthuman? If not yet, will they be?
+
+If we believe that, yes, that certainly is or will be the case, we need these new ways of understanding the exploration and examination of the learner/technology hybrid that aren't mired in traditional, perhaps out-moded approaches.
+
+And, not to put too fine a point on it, but we're hopefully in a position to realize that approaching AI and these other technologies going forward requires more than just some bullet points of action items: it becomes a philosophical discussion, an ethical discussion. Just think about the virtual pedagogical agent and compare a student's lifelong AI with, for example, Deckard and Rachael in Blade Runner: should an AI persona be treated as human? What are the potential ethical consequences of learners treating an AI as a *teacher*, as a *collaborator*, or as a *servant*?
+
+Either way, we absolutely need to start approaching our learners not simply as a student using a tool, but as the learner-AI hybrid entity and teach *to that*.
+:::
+
+## Back to the Dancing Doggo
+
+::: {layout="[15,-2,15]" layout-valign="center" fig-align="center"}
+![](assets/dog.gif)
+
+![](assets/music.jpg)
+:::
+
+::: notes
+
+Now back to the dancing doggo from the beginning and why it's relevant for a talk on the future of AI and education.
+
+Anyone want to hazard a guess as to what that music is on the right?
+
+When Chopin saw a little dog dancing, he was inspired to write the Minute Waltz. It was the product of billions of neurological connections--some trained, some coincidental but serendipitous--that resulted in the music. It was *not* a well-engineered prompt. These connections are what drive creativity and what education feeds on.
