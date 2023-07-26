@@ -23,7 +23,7 @@ format:
     touch: true
     show-slide-number: print
     email-obfuscation: javascript
-    multiplex: false
+    multiplex: true
     css: assets/style.css
 
 revealjs-plugins:
@@ -86,4 +86,4 @@ csl: apa.csl
 
 {{< include _end.qmd >}}
 
-## References
+## References {.scrollable}
