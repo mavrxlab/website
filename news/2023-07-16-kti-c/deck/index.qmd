@@ -1,0 +1,89 @@
+---
+title: |
+    <img align="center" width="75%" src="assets/lab.png">
+subtitle: |
+    <span style="font-size: 125%">OUR POSTHUMAN LEARNERS</span><br />**AI** AND THE FUTURE OF EDUCATION
+pagetitle: "OUR POSTHUMAN LEARNERS"
+
+#doi: "10.17605/OSF.IO/E8SZT"
+     
+author: "<br />**Ryan Straight, Ph.D**<br />"
+institute: "College of Applied Science and Technology<br />University of Arizona"
+format:
+  revealjs:
+    #width: 1180
+    #transition: fade
+    progress: true
+    controls: false
+    embed-resources: false
+    standalone: false
+    theme: simple
+    #navigation-mode: vertical
+    controls-tutorial: true
+    touch: true
+    show-slide-number: print
+    email-obfuscation: javascript
+    multiplex: true
+    css: assets/style.css
+
+revealjs-plugins:
+  - attribution
+
+editor: source
+
+execute: 
+  cache: false
+  echo: false
+  message: false
+  error: false
+
+toc: false
+slide-number: false
+number-sections: false
+logo: "assets/lab.png"
+footer: "Dr. Ryan Straight -- ryanstraight&commat;arizona.edu -- &commat;ryanstraight&commat;hci.social"
+bibliography: refs.bib
+csl: apa.csl
+---
+
+##  {#splash data-menu-title="Dancing Doggo"}
+
+::: {layout="[15,-2,15]" layout-valign="center" fig-align="center"}
+![](assets/dog.gif)
+
+![](assets/music.jpg)
+:::
+
+<!-- Agenda -->
+
+{{< include _agenda.qmd >}}
+
+<!-- Introduction to speaker -->
+
+{{< include _who.qmd >}}
+
+<!-- Terminology -->
+
+{{< include _terminology.qmd >}}
+
+<!-- Mediation -->
+
+{{< include _mediation.qmd >}}
+
+<!-- Posthuman inquiry methods -->
+
+{{< include _pi-methods.qmd >}}
+
+<!-- AI -->
+
+{{< include _AI.qmd >}}
+
+<!-- Future of AI in Education -->
+
+{{< include _future.qmd >}}
+
+<!-- End slide -->
+
+{{< include _end.qmd >}}
+
+## References {.scrollable}

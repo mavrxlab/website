@@ -1,0 +1,36 @@
+#  {#agenda data-menu-title="Agenda" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[OUR AGENDA]{.r-fit-text}
+
+## The Plan for Today
+
+::: columns
+::: {.column width="65%"}
+1.  Introduction
+2.  Terminology
+3.  Mediation (Postphenomenology)
+4.  Methods (Posthuman Inquiry)
+5.  Technology
+6.  Future
+:::
+
+::: {.column width="35%"}
+Link to this slide deck!
+
+{{< qrcode https://mavrxlab.org/news/2023-07-16-kti-c/deck/index.html qr1 width=250 height=250 >}}
+:::
+:::
+
+::: notes
+The plan for today is to explore the basic concepts needed in order to really dig into how these technologies interact with and afford changes in not just education as a big, nebulous concept, but in our day-to-day. As we're still very much in the early stages of this, much of it will be necessarily theoretical or look toward *potential* rather than a *postmortem*. That said, we'll do our best to tease these things out and at the very least provide a roadmap.
+
+Next we'll be laying the groundwork for the ability to use that roadmap. We'll start with the foundations of the various ways in which technology mediates our experience of the world. This is, in part, to give us a framework and language with which to understand new technologies like AI. This is known as postphenomenology.
+
+After that, we'll take that groundwork and look at methods of application. A kind of, "Okay, great, but *how*?" And, specifically, how *in education*? This is what we refer to as posthuman inquiry.
+
+Next, we'll look at what this potentially tells us about the future of this space. How can we make it successful? What do we need to be wary of?
+
+Finally, I'll share with you a toolkit for delving into this space for yourself. I've put together a lengthy collection of resources, platforms, and guides for you to use.
+
+So, let's get going!
+:::

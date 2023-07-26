@@ -1,0 +1,33 @@
+#  {#terminology data-menu-title="Terminology" background="#9EABAE" background-image="assets/lab.png" background-size="35%" background-position="right 5% top 5%"}
+
+[TERMINOLOGY]{.r-fit-text}
+
+## Let's speak the same language
+
+::: columns
+::: {.column width="65%"}
+::: incremental
+1.  Posthuman
+2.  Posthuman Inquiry & Postphenomenology
+3.  Artificial Intelligence (AI)
+4.  Virtual Pedagogical Agents
+:::
+:::
+
+::: {.column width="35%"}
+![](assets/terminology.jpg)
+:::
+:::
+
+::: attribution
+Image via [dream.ai](https://dream.ai).
+:::
+
+::: notes
+We need to be on the same page when we're talking about these rather new topics, so I want to give a quick rundown of what these things actually are. I'll caveat it with: so far, with just a few exceptions, there's no absolute consensus here.
+
+-   **Posthuman**: some think it means being a cyborg or living in The Matrix. Others see it as having the ability to alter one's self just as easily as the material world around us. Brain-computer interfaces. Just about any episode of Black Mirror. But it's not necessarily just like that. For our purposes, we're focusing on understanding moving *beyond* the traditional human-technology dichotomy, which opens us up to actually understanding much, much more about how we now exist in the world.
+-   **Posthuman Inquiry and Postphenomenology**: these are technically separate approaches to researching in this space but in our brief time we'll use the terms more or less interchangeably. They are both methodologies, ways to say "okay, so **how** do I go about understanding this new existence?" We'll be coming back to this shortly.
+-   **Artificial intelligence**: our current iteration of AI is "generative," meaning we have have so-called "large language models" that are used to generate responses to prompts. Anyone that's used ChatGPT knows how this functions from a user-standpoint, if not perhaps the underlying technicalities.
+-   **Virtual pedagogical agents**: exactly what it sounds like and this is where things get *really* fun.
+:::
