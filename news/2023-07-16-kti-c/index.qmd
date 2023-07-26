@@ -34,7 +34,7 @@ Attendees will be invited to consider and even attempt to answer the question: i
 ::: callout-note
 ## Slide deck
 
-View the slide deck [here](./deck/index.html).
+View the slide deck [here](https://ryanstraight.github.io/ktic-2023/).
 :::
 
 ## Event Details
