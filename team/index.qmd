@@ -15,8 +15,8 @@ toc: false
 ### Director & Principal Investigator
 
 Ryan Straight, Ph.D\
-Associate Professor of Practice\
-Cyber Operations and Applied Computing\
+Honors & Assistant Professor\
+Cyber, Intel, & Information Operations\
 
 </center>
 
@@ -34,30 +34,6 @@ Current undergraduates involved in the lab.
 
 **Waamene Yowika**\
 Cyber Operations\
-Undergraduate Researcher\
-:::
-
-::: g-col-3
-![](images/nikki.png)
-
-**Nikki Diguardi**\
-Software Development\
-Undergraduate Researcher\
-:::
-
-::: g-col-3
-![](images/anthony-s.png)
-
-**Anthony Somohano**\
-Pre-Business\
-Undergraduate Researcher\
-:::
-
-::: g-col-3
-![](images/jacob.png)
-
-**Jacob Keroack**\
-Neuroscience and Cognitive Science\
 Undergraduate Researcher\
 :::
 
@@ -124,6 +100,30 @@ College of Applied Science and Technology\
 Those who have survived their time in the lab.
 
 ::: grid
+::: g-col-3
+![](images/nikki.png)
+
+**Nikki Diguardi**\
+Software Development\
+Undergraduate Researcher\
+:::
+
+::: g-col-3
+![](images/anthony-s.png)
+
+**Anthony Somohano**\
+Pre-Business\
+Undergraduate Researcher\
+:::
+
+::: g-col-3
+![](images/jacob.png)
+
+**Jacob Keroack**\
+Neuroscience and Cognitive Science\
+Undergraduate Researcher\
+:::
+
 ::: g-col-3
 ![](images/anthony.png)
 
