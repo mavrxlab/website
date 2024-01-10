@@ -20,13 +20,29 @@ Cyber, Intel, & Information Operations\
 
 </center>
 
-### Current Members
+### Graduate Students
 
 <!--# Grad students -->
 
+<center>
+
+::: grid
+::: g-col-3
+![](images/christian.png)
+
+**Christian Stuart**\
+Cyber & Intel Operations\
+Graduate Researcher\
+:::
+:::
+
+</center>
+
 <!--# Undergrads -->
 
-Current undergraduates involved in the lab.
+### Undergraduate Students
+
+<center>
 
 ::: grid
 ::: g-col-3
@@ -56,9 +72,13 @@ Lab Volunteer\
 <!-- ::: -->
 :::
 
+</center>
+
 <!--# Collaborators -->
 
 ### Collaborators
+
+<center>
 
 ::: grid
 ::: g-col-3
@@ -92,6 +112,8 @@ Cyber, Intelligence, and Information Operations (CIIO)\
 College of Applied Science and Technology\
 :::
 :::
+
+</center>
 
 <!--# Student section -->
 
