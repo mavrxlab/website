@@ -5,6 +5,8 @@ project:
     - "*/*/*.qmd"
     - "!*/*/*/*.qmd"
     - "!reports/"
+  resources: 
+    - "/pphp/index.html"
   type: website
   output-dir: _site
   preview:
