@@ -7,6 +7,7 @@ project:
     - "!reports/"
   resources: 
     - "/pphp/index.html"
+    - "/329/index.html"
   type: website
   output-dir: _site
   preview:
