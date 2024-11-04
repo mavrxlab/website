@@ -3,6 +3,7 @@ project:
     - "*.qmd"
     - "*/*.qmd"
     - "*/*/*.qmd"
+    - "!talks/"
     - "!*/*/*/*.qmd"
     - "!reports/"
   resources: 
