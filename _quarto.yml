@@ -8,6 +8,7 @@ project:
   resources: 
     - "/pphp/index.html"
     - "/329/index.html"
+    - "/talks/*/*.html"
   type: website
   output-dir: _site
   preview:
